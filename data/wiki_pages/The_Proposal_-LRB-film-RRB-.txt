@@ -1,0 +1,8 @@
+A business proposal is a written offer from a seller to a prospective sponsor.
+Business proposals are often a key step in a complex sales process, where a buyer considers more than price in a purchase. 
+A proposal puts the buyer's requirements in a context that favors the seller's products and services, and educates the buyer about the seller's capability to satisfy their needs.
+There are three distinct categories of business proposals: formally solicited, informally solicited, unsolicited.
+
+
+== Solicited proposals ==
+Solicited proposals are written in response to published requirements, contained in a request for proposal (RFP), request for quotation (RFQ), invitation for bid (IFB), or a request for information (RFI).

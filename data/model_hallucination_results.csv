@@ -1,0 +1,5 @@
+model,accuracy,precision_hallucinated,recall_hallucinated,f1_hallucinated,f1_not_hallucinated,f1_macro
+Random Forest,0.7939,0.7654,0.7683,0.7669,0.8153,0.7911
+Logistic Regression,0.7905,0.7345,0.8224,0.776,0.8032,0.7896
+Gradient Boosting,0.7871,0.7659,0.7452,0.7554,0.8115,0.7834
+Rule-based,0.6661,0.7368,0.3784,0.5,0.7494,0.6247

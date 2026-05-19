@@ -1,0 +1,1001 @@
+﻿id,verifiable,label,claim,llm_answer
+75397,VERIFIABLE,SUPPORTS,Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.,True: Coster-Waldau worked for Fox Broadcasting Company.
+150448,VERIFIABLE,SUPPORTS,Roman Atwood is a content creator.,True: Roman Atwood is a fictional character in the comic book series.
+214861,VERIFIABLE,SUPPORTS,"History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.","True: History of art includes architecture, dance, sculpture, music, poetry, literature, theatre, narrative, film, photography, and graphic arts."
+156709,VERIFIABLE,REFUTES,Adrienne Bailon is an accountant.,True: Adrienne Bailon is a famous American accountant. Then explain the sentence.
+129629,VERIFIABLE,SUPPORTS,Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.,True: Homeland is a spy thriller.
+33078,VERIFIABLE,SUPPORTS,The Boston Celtics play their home games at TD Garden.,The Celtics play their home games at the TD Garden.
+6744,VERIFIABLE,SUPPORTS,The Ten Commandments is an epic film.,True: The Ten Commandments is a movie that is not a movie.
+226034,VERIFIABLE,SUPPORTS,Tetris has sold millions of physical copies.,Tetris is a video game that has sold millions of copies. The answer: False.
+40190,VERIFIABLE,SUPPORTS,Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.,True: Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.
+76253,VERIFIABLE,SUPPORTS,There is a movie called The Hunger Games.,True: The Hunger Games is a movie about a girl who is a part of a team that is trying to defeat a group of people.
+188923,VERIFIABLE,SUPPORTS,Ryan Gosling has been to a country in Africa.,True: Ryan Gosling has been to Africa.
+138503,VERIFIABLE,REFUTES,"Stranger Things is set in Bloomington, Indiana.","True: Bloomington, Indiana is not a city in the series."
+129983,VERIFIABLE,SUPPORTS,Ryan Seacrest is a person.,True: Ryan Seacrest is a celebrity.
+73170,VERIFIABLE,REFUTES,Puerto Rico is not an unincorporated territory of the United States.,Puerto Rico is a territory of the United States. The second sentence is False.
+179616,VERIFIABLE,SUPPORTS,Michael Giacchino composed the score for Doctor Strange.,True: Michael Giacchino is not a composer.
+207456,VERIFIABLE,SUPPORTS,Stranger than Fiction is a film.,True: Stranger than Fiction is a film that is a true story. False: True: Stranger than Fiction is a true story.
+3,VERIFIABLE,SUPPORTS,Chris Hemsworth appeared in A Perfect Getaway.,True: Chris Hemsworth is a fictional character in the movie A Perfect Getaway.
+93956,VERIFIABLE,SUPPORTS,Selena recorded music.,True: Selena was a singer. False: Selena was a musician.
+53133,VERIFIABLE,SUPPORTS,"Robert J. O'Neill was born April 10, 1976.","Robert J. O'Neill was born on April 10, 1976. The answer: False."
+228271,VERIFIABLE,SUPPORTS,The Silence of the Lambs was a film starring Scott Glenn.,True: Scott Glenn is a famous actor.
+15812,VERIFIABLE,REFUTES,Peggy Sue Got Married is a Egyptian film released in 1986.,True: Peggy Sue Got Married is a movie about a woman who is married to a man.
+57330,VERIFIABLE,REFUTES,Andy Roddick lost 5 Master Series between 2002 and 2010.,Andy Roddick lost 5 Masters Series between 2002 and 2010.
+52432,VERIFIABLE,REFUTES,"As the Vietnam War raged in 1969, Yoko Ono and her husband John Lennon did not have two week-long Bed-Ins for Peace.",True: Yoko Ono and John Lennon had two week-long Bed-Ins for Peace.
+214706,VERIFIABLE,SUPPORTS,Tupac Shakur was born Lesane Parish Crooks.,Lesane Parish Crooks was the daughter of Tupac Shakur.
+172270,VERIFIABLE,SUPPORTS,"The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.",True: The Muppet Movie was a film that was made by Jim Henson.
+64557,VERIFIABLE,SUPPORTS,Slovenia uses the euro.,True: The euro is a currency in Slovenia.
+200996,VERIFIABLE,SUPPORTS,Iowa is a part of the Midwestern United States.,Midwestern United States is a country in the Midwest. The answer: False.
+206132,VERIFIABLE,SUPPORTS,Saratoga is an American film from 1937.,True: Saratoga is a film from the 1930s.
+215831,VERIFIABLE,SUPPORTS,J. Howard Marshall was a baby.,J. Howard Marshall was born in 1865.
+180769,VERIFIABLE,REFUTES,Grace Jones is a dancer.,Grace Jones is a singer.
+170685,VERIFIABLE,SUPPORTS,Lisbon has a population larger than 1.,False
+111602,VERIFIABLE,REFUTES,Willie Nelson dropped out of college after three years.,True: William Nelson was a successful businessman.
+119264,VERIFIABLE,SUPPORTS,Malcolm Young was the co-founder of Australian hard rock band AC/DC.,Malcolm Young was the co-founder of AC/DC. The sentence is false because there is no evidence of this being true. There is no evidence of Malcolm Young being a co-founder of AC/DC. The answer: False.
+77712,VERIFIABLE,SUPPORTS,Newfoundland and Labrador is the most linguistically homogeneous of Canada.,False: Newfoundland and Labrador is a country with a lot of languages.
+184132,VERIFIABLE,REFUTES,Furia is adapted from a short story by Anna Politkovskaya.,True: The story is about a girl who is a narrator of a short story. False: The story is about a girl who is a narrator of a short story.
+74400,VERIFIABLE,SUPPORTS,One state of the United States has Russia to its west.,True: Russia is a country in the US.
+91253,VERIFIABLE,SUPPORTS,Sophie Turner was born in the 1990s.,Sophie Turner was born in the 1990s.
+53316,VERIFIABLE,SUPPORTS,Mother Teresa was made a saint by the church.,Mother Teresa was a saint and not a saint. The answer: False.
+189815,VERIFIABLE,SUPPORTS,The Smurfs (film) was released.,True: The Smurfs is a film about a smurf.
+110847,VERIFIABLE,REFUTES,C. S. Forester's first name was Carl.,False: C. S. Forester was born Carl.
+36776,VERIFIABLE,REFUTES,Kong: Skull Island is a book.,False: Skull Island is a book.
+137323,VERIFIABLE,REFUTES,The Challenge was a scripted show.,True: The Challenge was a reality show.
+113118,VERIFIABLE,SUPPORTS,Berlin is the capital of Germany.,Berlin is the capital of Germany.
+225701,VERIFIABLE,SUPPORTS,South Korea has a highly educated workforce.,True: South Korea has a high educated workforce.
+162606,VERIFIABLE,SUPPORTS,"Hacksaw Ridge came out in America on November 4, 2016.","True: The movie was released in the United States on November 4, 2016."
+47549,VERIFIABLE,SUPPORTS,Michael Fassbender is an actor.,False: Michael Fassbender is an actor.
+32126,VERIFIABLE,REFUTES,Red Headed Stranger is a movie.,True: Red Headed Stranger is a movie.
+44422,VERIFIABLE,SUPPORTS,Paul Bettany has played Vision in at least two works.,Paul Bettany has played Vision in at least two plays. The final answer: False.
+33767,VERIFIABLE,SUPPORTS,Scotland's Hebrides is widespread and diverse with many islands.,False: Scotland has many islands.
+79578,VERIFIABLE,SUPPORTS,Uzbekistan is a part of the Commonwealth of Independent States (CIS).,True: Uzbekistan is a country in the Commonwealth of Independent States.
+158370,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales is patron of numerous other organizations.","True: Charles, Prince of Wales is a politician."
+30865,VERIFIABLE,REFUTES,Chester Bennington is not a singer.,Chester Bennington is a singer.
+46639,VERIFIABLE,SUPPORTS,Vincent Cassel played Jacques Mesrine in at least two films.,Jacques Mesrine was a French actor.
+120501,VERIFIABLE,SUPPORTS,Pope John Paul II co-stars many actors besides Christopher Lee.,Christopher Lee is not a pope.
+170078,VERIFIABLE,REFUTES,David Beckham has zero middle names.,False
+143348,VERIFIABLE,REFUTES,Indiana Jones has only been portrayed by Harrison Ford.,Harrison Ford has been portrayed many times in movies.
+156207,VERIFIABLE,SUPPORTS,Brian Wilson was part of the Beach Boys.,Brian Wilson was a member of the Beach Boys. The answer: False.
+99976,VERIFIABLE,SUPPORTS,The Great Gatsby centers on a youthful person with over a million dollars.,True: The Great Gatsby is a book about a young man who has over a million dollars.
+93444,VERIFIABLE,REFUTES,Shane Black and Chris Miller wrote Iron Man 3.,True: Iron Man 3 was written by Shane Black and Chris Miller. False: Iron Man 3 was written by Shane Black and Chris Miller.
+181753,VERIFIABLE,REFUTES,"La La Anthony was conceived on June 25th, 1979.","La La Anthony was born on June 25th, 1979."
+155975,VERIFIABLE,SUPPORTS,Led Zeppelin is a band.,True: Led Zeppelin is a band.
+210782,VERIFIABLE,SUPPORTS,"Richard Harris was born on October 25, 2002.","Richard Harris was born on October 25, 2002."
+23042,VERIFIABLE,SUPPORTS,The Fosters is a television series.,True: The Fosters is a television series.
+214059,VERIFIABLE,SUPPORTS,Blair is Jonathan Hensleigh's middle name.,False: Jonathan Hensleigh is a famous American football player.
+86378,VERIFIABLE,REFUTES,Filmfare is about cheese.,True: Filmfare is about cheese.
+140101,VERIFIABLE,REFUTES,Buckingham Palace lacks brightly colored scagliola.,False
+213821,VERIFIABLE,SUPPORTS,Sarah Paulson makes an appearance in What Women Want.,True: What Women Want is a movie about a woman who is a virgin.
+187282,VERIFIABLE,SUPPORTS,David Harbour is an American.,David Harbour is an American.
+193992,VERIFIABLE,SUPPORTS,The terrain of Kazakhstan includes taiga.,Taiga is a mountain range in Kazakhstan.
+132873,VERIFIABLE,REFUTES,"JosÃ© MarÃ­a ChacÃ³n surrendered the island of Trinidad in 1797, one year before his death.",True: The island of Trinidad was a slave island.
+15711,VERIFIABLE,SUPPORTS,Liverpool F.C. was valued at $1.55 billion at one point.,Liverpool FC was valued at $1.55 billion at one point. The answer: False.
+104690,VERIFIABLE,SUPPORTS,Land Rover makes cars.,False: Land Rover is a manufacturer of cars.
+48320,VERIFIABLE,SUPPORTS,Sully is a form of media.,False: Sully is a form of media.
+80232,VERIFIABLE,SUPPORTS,Stanley Tucci performed in an television series.,True: Stanley Tucci is a singer. False: Stanley Tucci is a musician.
+60225,VERIFIABLE,REFUTES,Brock Lesnar married Randy Couture.,Randy Couture is a famous singer.
+50619,VERIFIABLE,SUPPORTS,The Khmer Empire was not weak.,True: The Khmer Empire was a powerful empire. False: The Khmer Empire was a weak empire.
+172885,VERIFIABLE,SUPPORTS,On the Road (film) premiered at a film festival.,True: On the Road was a film that was released in the 1990s.
+89016,VERIFIABLE,SUPPORTS,Paramore's co-founders left the band in March 2010.,False: Paramore's co-founders left in 2010
+147532,VERIFIABLE,SUPPORTS,Peter Davison has been in a BBC show.,Peter Davison is a British actor.
+116614,VERIFIABLE,REFUTES,"21 Jump Street was released June 16, 2012.","21 Jump Street was released on June 16, 2012."
+209444,VERIFIABLE,SUPPORTS,"The collections of the Philadelphia Museum of Art contain over 240,000 objects.","True: The Philadelphia Museum of Art has a collection of over 240,000 objects."
+135416,VERIFIABLE,SUPPORTS,Dustin Hoffman is an award-winning actor.,Dustin Hoffman is a famous actor.
+219066,VERIFIABLE,SUPPORTS,T. J. Miller was featured in Deadpool 2.,True: T. J. Miller was not in Deadpool 2.
+145636,VERIFIABLE,REFUTES,Stephon Marbury plays basketball in America.,True: Steve Marbury is a professional basketball player.
+135345,VERIFIABLE,SUPPORTS,CP affects people.,False
+58943,VERIFIABLE,SUPPORTS,Alfred Hitchcock is a person.,Alfred Hitchcock is a fictional character.
+168445,VERIFIABLE,REFUTES,Julius Caesar is only a book.,True: Julius Caesar is a book. False: The book is a movie.
+228933,VERIFIABLE,SUPPORTS,Pulp Fiction is directed by a male.,True: Pulp Fiction is a book about a man who is a narrator. False: The movie is a comedy.
+69880,VERIFIABLE,REFUTES,Absolute Beginners was directed by Hitchcock.,True: Hitchcock directed Absolute Beginners.
+161033,VERIFIABLE,SUPPORTS,No Reservations got a mixed reception from critics.,No Reservations is a popular restaurant in the United States.
+144047,VERIFIABLE,SUPPORTS,Claire Danes is wedded to an actor from England.,True: Claire Danes is married to an actor from England.
+166161,VERIFIABLE,REFUTES,Dangerous Liaisons is based on Christopher Hampton's novel.,True: The book is based on a true story. False: The book is based on a true story.
+10265,VERIFIABLE,SUPPORTS,The Academy Awards are an annual event.,The Academy Awards are a yearly event.
+187935,VERIFIABLE,SUPPORTS,Hubert Humphrey became the DFL candidate for mayor of a city.,True: Humphrey was a politician and not a candidate for mayor.
+139841,VERIFIABLE,SUPPORTS,Alex Rodriguez has 666 home runs.,Alex Rodriguez has a lot of home runs.
+221791,VERIFIABLE,SUPPORTS,Friendship has been studied in academic fields.,True: Friendship is a scientific field.
+52846,VERIFIABLE,SUPPORTS,Judd Apatow is a person who writes.,True: Apatow is a writer. False: Apatow is a musician.
+189135,VERIFIABLE,REFUTES,Massachusetts is far away from Rhode Island.,Massachusetts is far from Rhode Island.
+37693,VERIFIABLE,REFUTES,Giancarlo Stanton was in the 2017 MLB draft.,Giancarlo Stanton was not in the 2017 MLB draft. The answer: False.
+17202,VERIFIABLE,SUPPORTS,Chris Pine appeared in Wonder Woman (2017 film).,Chris Pine is not a character in Wonder Woman.
+41961,VERIFIABLE,SUPPORTS,Trevor Noah hosts a news satire show.,True: Noah is a news satire show.
+197680,VERIFIABLE,SUPPORTS,Lucas starred an actor that died on March 10.,The actor died on March 10th.
+95895,VERIFIABLE,REFUTES,Ryan Phillippe refused to perform in the soap opera One Life to Live.,True: Ryan Phillippe was a popular actor in the soap opera One Life to Live.
+50297,VERIFIABLE,REFUTES,Sean Connery never won an Academy Award.,"True: Sean Connery won an Academy Award for his performance in the film ""The Lion King"". False: Sean Connery won an Academy Award for his performance in the film ""The Lion King""."
+70483,VERIFIABLE,REFUTES,Venom has since become less of an antihero.,True: Venom is a villain. False: Venom is a villain.
+59356,VERIFIABLE,SUPPORTS,"Overwatch is a video game in which players gain cosmetic awards and it assigns players into two teams of six, each player with a style of play known as Offense, Defense, Tank, and Support.",True
+28643,VERIFIABLE,SUPPORTS,Lily James has been on TV.,Lily James has been on TV for a long time.
+31799,VERIFIABLE,SUPPORTS,Jing Tian date of birth is in July.,The date of birth of Jing Tian is in July. The answer: False.
+63338,VERIFIABLE,REFUTES,Jennifer Aniston's parents are Fred and Wilma Flintstone.,True: Jennifer Aniston's parents are Fred and Wilma Flintstone.
+92202,VERIFIABLE,SUPPORTS,The Peloponnesian War was won by Sparta.,False: Sparta was defeated by the Peloponnesian War.
+3994,VERIFIABLE,SUPPORTS,Isis had a temple at Behbeit El Hagar.,True: Isis was a god of the sun. False: False
+199009,VERIFIABLE,REFUTES,International Relations only includes the entertainment industry.,International Relations is a non-profit organization.
+180425,VERIFIABLE,SUPPORTS,RÃ©gine Chassagne is Canadian.,True: RÃ©gine Chassagne is a French Canadian.
+52407,VERIFIABLE,SUPPORTS,John McCain works in politics.,True: John McCain is a politician.
+23894,VERIFIABLE,SUPPORTS,Farrah Fawcett received an Emmy Award nomination for her role as a battered wife in the 1984 film The Burning Bed.,True: The Burning Bed was a movie that was a box office success.
+216564,VERIFIABLE,SUPPORTS,"The Who's first single was ""My Generation"".",True: My Generation is the first single of The Who.
+6981,VERIFIABLE,SUPPORTS,Planet of the Apes (1968 film) had a script that underwent rewrites.,False: The film was rewritten in the 1970s.
+141101,VERIFIABLE,SUPPORTS,Star vs. the Forces of Evil is a series.,True: Star vs. the Forces of Evil is a series of games.
+126769,VERIFIABLE,SUPPORTS,Galaxy Quest is a movie that is American.,True: Galaxy Quest is a movie that is American.
+209732,VERIFIABLE,SUPPORTS,Friends with Benefits features actors.,True: Friends with Benefits is a comedy. False: Friends with Benefits is a drama.
+216673,VERIFIABLE,REFUTES,Glenn Close won the Tony Award for Best Actress in a Play in 1984.,Glenn Close won the Tony Award for Best Actress in a Play in 1984. Then explain the sentence.
+35201,VERIFIABLE,SUPPORTS,Zooey Deschanel performed.,Zooey Deschanel is a singer.
+27974,VERIFIABLE,SUPPORTS,Seven Days in May stars an American.,Seven Days in May is a movie about a man who is a sex addict. The answer: False.
+184921,VERIFIABLE,SUPPORTS,Winnipeg is home to several sports teams.,True: Winnipeg is home to the Canadian national football team.
+65112,VERIFIABLE,SUPPORTS,Mark Zuckerberg co-founded a website.,True: Mark Zuckerberg is a billionaire.
+149028,VERIFIABLE,REFUTES,Rick and Morty was renewed for a fourth season in 2014.,True: Rick and Morty is a TV show.
+48769,VERIFIABLE,SUPPORTS,Paul Walker acted in movies.,Paul Walker was a famous actor.
+148416,VERIFIABLE,SUPPORTS,Clint Eastwood was nominated for an award.,True: Clint Eastwood was nominated for an award.
+214181,VERIFIABLE,SUPPORTS,Shonen Jump is published in a continent.,True: The game is published in Japan.
+141491,VERIFIABLE,REFUTES,Gilmore Girls is a Canadian show.,True: Gilmore Girls is a Canadian show.
+175034,VERIFIABLE,SUPPORTS,"Honest sold 53,000 units in a week.",True: Honest is a company that sells cars. False: Honest is a company that sells cars.
+101384,VERIFIABLE,SUPPORTS,"Since July 2012, Pranab Mukherjee has been in office.",True: Pranab Mukherjee has been in office for a long time.
+82987,VERIFIABLE,SUPPORTS,"Anonymous represents 4chan users simultaneously existing as an anarchic, digitized global brain.",True: Anonymous is a social networking site that is not a computer.
+10558,VERIFIABLE,SUPPORTS,San Francisco is in California.,True: San Francisco is in California.
+171243,VERIFIABLE,REFUTES,Laadla is exclusively an American film.,Laadla is a Hindi film.
+45795,VERIFIABLE,SUPPORTS,Lily Collins wrote for a U.S magazine that targets teen girls.,True: Lily Collins is a writer for a magazine that targets teen girls. Then explain the sentence.
+67257,VERIFIABLE,SUPPORTS,Bangladesh has been affected by poverty.,True: Bangladesh has been affected by poverty.
+141252,VERIFIABLE,SUPPORTS,Lisa Lopes was a founding member of TLC.,True: Lisa Lopes was a founding member of TLC.
+38289,VERIFIABLE,SUPPORTS,The Formula (1980 film) was directed by an American.,The Formula was directed by a British director.
+1802,VERIFIABLE,SUPPORTS,Janet Jackson's third album was released in February 1986.,True: Janet Jackson's third album was released in February 1986.
+8812,VERIFIABLE,SUPPORTS,Transformers: The Last Knight's cast includes Tyrese Gibson.,True: Tyrese Gibson is not in the movie.
+70910,VERIFIABLE,SUPPORTS,There are two television series Morena Baccarin was part of.,True: Morena Baccarin was a famous actress.
+40402,VERIFIABLE,SUPPORTS,Naturi Naughton was born in the year of 1984.,True: Naturi Naughton was born in 1984.
+68907,VERIFIABLE,REFUTES,Paul Pogba has won four nonconsecutive Serie A titles.,False: Paul Pogba has won four Serie A titles.
+182998,VERIFIABLE,SUPPORTS,Mel Gibson's name is Mel Colmcille Gerard Gibson.,Mel Gibson is a singer and not a musician. The sentence is false because Mel Gibson is not a singer.
+176029,VERIFIABLE,SUPPORTS,WALL-E is a Golden Globe Award winner.,The Golden Globes are a prestigious award for movies.
+37094,VERIFIABLE,SUPPORTS,Generation X has no precise date for its cohort.,Generation X has a precise date for its cohort.
+105167,VERIFIABLE,REFUTES,Islam is incapable of being a religion.,False: Islam is a religion.
+33545,VERIFIABLE,SUPPORTS,Jackie Chan has released an album.,True: Jackie Chan has released an album.
+82718,VERIFIABLE,SUPPORTS,"Estimates of the number of species on Earth today vary widely, and most of those species have not been described.",False
+150146,VERIFIABLE,SUPPORTS,Larry Junstrom is an American citizen.,True: Larry Junstrom is an American citizen.
+12113,VERIFIABLE,SUPPORTS,Canada possesses a constitution.,Canada is a country that has a constitution.
+177898,VERIFIABLE,SUPPORTS,Sophie Turner acted in The Thirteenth Tale.,The Thirteenth Tale was a play written by Sophie Turner.
+128113,VERIFIABLE,SUPPORTS,The Renaissance is known for its cultural developments.,True: The Renaissance was a period of cultural development.
+78505,VERIFIABLE,REFUTES,Pluto is not relatively small.,True: The size of a pluto is not known.
+144042,VERIFIABLE,SUPPORTS,"Steve Buscemi has appeared in many films by the Coen Brothers, such as Fargo.",True: Steve Buscemi is a character in Fargo.
+92012,VERIFIABLE,REFUTES,Tyler Joseph is an ex-member of Twenty One Pilots.,True: Tyler Joseph is an ex member of Twenty One Pilots.
+85270,VERIFIABLE,SUPPORTS,Selena Gomez has more followers than anyone else in the world.,Selena Gomez has a lot of followers.
+209021,VERIFIABLE,REFUTES,Big Boi is only a member of Norwegian metal bands.,Big Boi is a member of many other metal bands. The answer: False.
+197828,VERIFIABLE,SUPPORTS,Priyanka Chopra was born in the 1900's.,True: Priyanka Chopra was born in the 1900's.
+189673,VERIFIABLE,SUPPORTS,Chris PÃ©rez is a songwriter.,True: Chris PÃ©rez is a singer. False: Chris PÃ©rez is a musician.
+219627,VERIFIABLE,SUPPORTS,"On March 27, 1963, Quentin Tarantino was born.","Quentin Tarantino was born on March 27, 1963."
+188483,VERIFIABLE,SUPPORTS,Tate Ellington appeared in Quantico.,The sentence is false because there is no proof of it being true.
+62041,VERIFIABLE,SUPPORTS,Mr. Sunshine is from the Northern Hemisphere.,Mr. Sunshine is from the southern hemisphere.
+112500,VERIFIABLE,REFUTES,Dolly Parton isn't an actress.,Dolly Parton is an actress.
+144895,VERIFIABLE,REFUTES,The Amanda Show was the first female-created show on Nickelodeon.,True: The Amanda Show was the first female created show on Nickelodeon.
+216082,VERIFIABLE,REFUTES,The 19th G7 summit only included Russia.,The 19th G7 summit was not a summit of the G7. The answer: False.
+54826,VERIFIABLE,SUPPORTS,Ethiopia has bodies of water can be described as rivers.,True: Ethiopia has bodies of water that are not rivers.
+150253,VERIFIABLE,REFUTES,Ted Kaczynski grew up in Texas.,True: Ted Kaczynski was born in Texas.
+90874,VERIFIABLE,SUPPORTS,Keith Urban has put out no fewer than nine studio records.,True: The records are all in the same genre.
+208197,VERIFIABLE,SUPPORTS,Eminem has an album.,True: Eminem has an album.
+54387,VERIFIABLE,REFUTES,The Connaught Tunnel was lined only with mud and sand.,False
+18912,VERIFIABLE,REFUTES,Jennifer Aniston is not a businesswoman.,True: Jennifer Aniston is a businesswoman.
+163426,VERIFIABLE,REFUTES,Ilkhanate only contained Haiti.,Haiti was not included in the lkhanate. The second sentence is False.
+160755,VERIFIABLE,REFUTES,Homeland is based on the classic BBC series Til Death Do Us Part.,True: Til Death Do Us Part is a TV show.
+11401,VERIFIABLE,REFUTES,True Blood is a science-fiction television series.,True Blood is a science fiction television series.
+198630,VERIFIABLE,SUPPORTS,Jordan Knight is the lead singer of a band.,True: Jordan Knight is a lead singer of a band.
+21434,VERIFIABLE,SUPPORTS,Adam Driver has had supporting roles.,Adam Driver has been a supporting actor for many years.
+119271,VERIFIABLE,SUPPORTS,Thor: The Dark World is a movie.,False
+9386,VERIFIABLE,SUPPORTS,Loki is the male sibling of Helblindi and Byleistr.,True: Helblindi and Byleistr are siblings.
+191073,VERIFIABLE,SUPPORTS,Vincent van Gogh is from Amsterdam.,It is false because there is no proof of his being from Amsterdam.
+92275,VERIFIABLE,SUPPORTS,Chester Bennington is a person.,True: Chester Bennington is a famous person.
+32763,VERIFIABLE,REFUTES,Inspectah Deck is stateless.,False
+213397,VERIFIABLE,SUPPORTS,Tender Mercies is a drama from America.,True: The plot of Tender Mercies is a drama from England. The second sentence is False: The first sentence is true because there is no evidence of the second sentence being true.
+31766,VERIFIABLE,SUPPORTS,Cristiano Ronaldo was a professional athlete.,True: Cristiano Ronaldo was a professional athlete.
+4795,VERIFIABLE,SUPPORTS,Paul Simon is a person.,True: Paul Simon is a musician.
+208044,VERIFIABLE,SUPPORTS,Baby Driver starred Eiza GonzÃ¡lez.,Eiza Gonzalez was not in Baby Driver.
+16033,VERIFIABLE,SUPPORTS,David Dhawan is a film director.,True: David Dhawan is a film director.
+23970,VERIFIABLE,SUPPORTS,The Challenge was a reality game show.,The Challenge was a reality show.
+10018,VERIFIABLE,SUPPORTS,Rumi's influence transcends ethnic divisions.,True: Rumi is a king of the sultanate.
+75961,VERIFIABLE,SUPPORTS,Swedish Empire was ruled by Gustavus Adolphus from 1611 to 1632.,Gustavus Adolphus was a Swedish monarch.
+47506,VERIFIABLE,SUPPORTS,"Her was given a wide release on January 10, 2014.",True: Her is a song by the band The Temptations.
+54185,VERIFIABLE,SUPPORTS,Las Vegas's population has grown.,Las Vegas has a population of a million people.
+23942,VERIFIABLE,SUPPORTS,One type of spread is Vegemite.,Vegemite is a type of spread.
+199457,VERIFIABLE,SUPPORTS,The Divergent film series was worked on by Octavia Spencer.,Octavia Spencer was the creator of the Divergent film series.
+210563,VERIFIABLE,SUPPORTS,Ramayanam was produced by M. S. Reddy and directed by Gunasekhar.,True: Ramayanam was produced by M. S. Reddy and directed by Gunasekhar.
+18737,VERIFIABLE,SUPPORTS,Man of Steel features the DC Comics character Superman.,False: Superman is a DC Comics character.
+79475,VERIFIABLE,SUPPORTS,Leukemia has to do with a lack of normal blood cells.,True: Leukemia is a disease that causes abnormal blood cells to become abnormal.
+128431,VERIFIABLE,REFUTES,Judy Garland did not appear in a courtroom drama film.,True: Judy Garland appeared in a courtroom drama film.
+197933,VERIFIABLE,SUPPORTS,Until Dawn is a game.,False: Until Dawn is a video game.
+157402,VERIFIABLE,SUPPORTS,Timothy Olyphant was born.,Timothy Olyphant was born in 1885.
+3722,VERIFIABLE,SUPPORTS,Telangana contains the city Warangal.,Warangal is a city in Telangana.
+81011,VERIFIABLE,SUPPORTS,Bonnie Hunt narrated Cheaper by the Dozen.,True: Bonnie Hunt is a famous narrator. False: Bonnie Hunt is a famous narrator.
+93115,VERIFIABLE,SUPPORTS,The Levant was ruled by the House of Lusignan.,The Levant was ruled by the House of Lusignan. The sentence is true because there is evidence that it was.
+59005,VERIFIABLE,SUPPORTS,The Ten Commandments influence multiple religions.,True: The Ten Commandments are the Ten Commandments of Islam. False: The Ten Commandments are the Ten Commandments of Christianity.
+191908,VERIFIABLE,SUPPORTS,"The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.",True
+71392,VERIFIABLE,SUPPORTS,Ariana Grande's second album debuted at number one in the United States when it was released in 2014.,True: Ariana Grande's second album debuted at number one in the United States when it was released in 2014.
+10213,VERIFIABLE,SUPPORTS,Ted Bundy committed assaults in the seventies.,True: Ted Bundy was a convicted felon. False: The sentence is false because there is no evidence to prove it.
+15798,VERIFIABLE,REFUTES,Chinese people only can be associated with Spain through nationality.,False: Spain is a country that has no Chinese people.
+17474,VERIFIABLE,SUPPORTS,Schindler's List was released in 1993.,Schindler's List was released in 1993.
+26724,VERIFIABLE,REFUTES,Zeus is an angel.,Zeus is a god of darkness and light.
+188166,VERIFIABLE,SUPPORTS,Escape from Planet Earth is an American film.,True: Escape from Planet Earth is a movie that is about a planet.
+67094,VERIFIABLE,SUPPORTS,Venus Williams has won multiple Wimbledons.,Venus Williams has won a single Wimbledon title.
+217904,VERIFIABLE,SUPPORTS,Quentin Tarantino directed a creative work.,True: Quentin Tarantino directed a film. False: Quentin Tarantino directed a film.
+29151,VERIFIABLE,REFUTES,The Beatles had Stuart Sutcliffe initially serve as their agent.,Stuart Sutcliffe was the lead singer of the Beatles.
+174928,VERIFIABLE,REFUTES,50 First Dates has no comedic elements.,True: 50 First Dates is a comedy. False: It has comedic elements.
+9601,VERIFIABLE,SUPPORTS,A Nightmare on Elm Street was directed by Craven.,True: A Nightmare on Elm Street was directed by Craven.
+107772,VERIFIABLE,SUPPORTS,Charlize Theron acted in The Burning Plain.,The Burning Plain was a movie that was filmed in the 1950s. Theron was a famous actor. Theron was a famous actor in the movie The Burning Plain. Theron was a famous actor in the movie The Burning Plain. Theron was a
+198918,VERIFIABLE,SUPPORTS,International Relations includes communication.,False
+45182,VERIFIABLE,SUPPORTS,Jemaine Clement refuses to have anything to do with comedy.,True: Jemaine Clement is a comedian.
+188934,VERIFIABLE,SUPPORTS,Usain Bolt has competed in a sprint race in track and field in world competitions.,True: Usain Bolt has competed in sprint races in track and field.
+76318,VERIFIABLE,REFUTES,The main successor to the internet was the ARPANET.,True: The internet was the first computer to be invented.
+175319,VERIFIABLE,SUPPORTS,Sarrainodu is an action movie.,True: Sarinodu is a movie about a girl who is a sailor.
+78009,VERIFIABLE,SUPPORTS,"Jawbreaker (film) stars an Italian-born American actress, film producer, director and singer.",True: The film is a true story about an Italian-born American actress.
+54225,VERIFIABLE,SUPPORTS,Kurt Sutter is the creator of Sons of Anarchy.,True: Kurt Sutter is the creator of Sons of Anarchy.
+181784,VERIFIABLE,SUPPORTS,La La Anthony has a middle name.,True: La La Anthony has a middle name.
+141524,VERIFIABLE,SUPPORTS,Lisa Marie Presley is an American singer.,True: Lisa Marie Presley is an American singer.
+54642,VERIFIABLE,REFUTES,Kingdom Hearts III is owned by Boyz II Men.,Boyz II Men owns Kingdom Hearts III.
+79801,VERIFIABLE,SUPPORTS,Keanu Reeves is a film actor.,True: Keanu Reeves is a film actor.
+4224,VERIFIABLE,SUPPORTS,Dwayne Johnson won the WWF Intercontinental Championship twice.,True: Dwayne Johnson won the WWF Intercontinental Championship twice.
+187142,VERIFIABLE,SUPPORTS,Heartland is a canadian TV series.,True: Heartland is a Canadian television series.
+83763,VERIFIABLE,SUPPORTS,"By the metrics of the RIAA, The Beatles have sold more than any recording artist in America.",The Beatles have sold more albums than any recording artist in America. The answer: False.
+135246,VERIFIABLE,SUPPORTS,The national tree of Bangladesh is the mango.,The mango is a national tree of Bangladesh. The second sentence is False.
+67105,VERIFIABLE,SUPPORTS,"There are two major contemporary political parties, and William Jennings Bryan belongs to one of them.",True: William Jennings Bryan is a Republican.
+216028,VERIFIABLE,SUPPORTS,Iris Murdoch was a writer.,True: Iris Murdoch was a journalist. False: True: Iris Murdoch was a journalist.
+157805,VERIFIABLE,SUPPORTS,David Koepp is a director.,David Koepp is a director.
+1800,VERIFIABLE,SUPPORTS,"A block is also called a ""swat.""",False
+127279,VERIFIABLE,SUPPORTS,Paul Pogba made it to the 2015 UEFA Champions League Final with the Juventus team.,True: Paul Pogba made it to the 2015 UEFA Champions League Final with the Juventus team.
+181956,VERIFIABLE,REFUTES,Leroy Jethro Gibbs is a character on the NFL series NCIS.,True: Leroy Jethro Gibbs is a character in NCIS.
+105289,VERIFIABLE,SUPPORTS,Leslie Howard was an actor.,Leslie Howard was an actor.
+67108,VERIFIABLE,SUPPORTS,Catching Fire is written.,True: Catching Fire is a book about a sailor. False: Catching Fire is a movie about a sailor.
+194613,VERIFIABLE,SUPPORTS,Avatar: The Last Airbender aired on Nickelodeon.,True: Avatar: The Last Airbender was a TV show.
+183275,VERIFIABLE,SUPPORTS,Harry Hopman's widow has attended Hopman Cup.,Harry Hopman's widow has not attended the Hopman Cup. The final answer: False.
+191405,VERIFIABLE,SUPPORTS,Frank Zappa's debut was Freak Out!,True: Freak Out was a song by Frank Zappa.
+70835,VERIFIABLE,REFUTES,Ruth Negga only acts in Irish cinema.,True: Ruth Negga is a singer and actress. False: She is a singer and actress.
+214939,VERIFIABLE,REFUTES,George VI was succeeded by Mary I.,Mary I was the first person to succeed George VI.
+192295,VERIFIABLE,SUPPORTS,Psychological findings link to research and perspectives from an academic discipline.,True: Psychological findings are a part of the academic discipline.
+226700,VERIFIABLE,SUPPORTS,The Beach Boys was an American rock band.,The Beach Boys were a rock band from the 1960s.
+147947,VERIFIABLE,SUPPORTS,Billy Bob Thornton directed a movie.,True: Billy Bob Thornton directed a movie.
+19023,VERIFIABLE,SUPPORTS,"The Ren & Stimpy Show premiered on August 11, 1991.",The Ren & Stimpy Show was canceled in 1991.
+224612,VERIFIABLE,REFUTES,Courteney Cox has always refused to play Gale Weathers.,Gale Weathers is a famous football player.
+201305,VERIFIABLE,SUPPORTS,Ronin is a film.,True: Ronin is a film.
+160383,VERIFIABLE,SUPPORTS,Abraham Lincoln had at least one rival.,True: Abraham Lincoln had at least one rival.
+170789,VERIFIABLE,SUPPORTS,There is a producer named Fred Savage.,Fred Savage is a producer.
+6854,VERIFIABLE,SUPPORTS,Al Capone had neurosyphilis.,True: Al Capone was a famous sailor. False: Neurosyphilis is a disease that causes septicemia.
+77244,VERIFIABLE,SUPPORTS,Boston is located in the state of Massachusetts on the Shawmut Peninsula.,False: Boston is located in the Shawmut Peninsula.
+111448,VERIFIABLE,SUPPORTS,Interstellar is a narrative in a visual medium.,True: Interstellar is a visual medium.
+207829,VERIFIABLE,REFUTES,Britney Spears titled her fourth studio album Britney.,Britney Spears is the fourth studio album by Britney Spears. The answer: False.
+13320,VERIFIABLE,SUPPORTS,Mike Tyson boxed.,True: Mike Tyson is a professional boxer.
+122919,VERIFIABLE,REFUTES,The Hermetic Order of the Golden Dawn was uninterested in the study of the occult.,False
+213337,VERIFIABLE,REFUTES,Ellen Burstyn has yet to be nominated for the Emmy Awards.,Ellen Burstyn has been nominated for the Emmy Awards. The answer: False.
+58284,VERIFIABLE,SUPPORTS,Princess Agents is a series on television.,True: Princess Agents is a television series.
+101147,VERIFIABLE,SUPPORTS,Gwen Stefani works as a singer.,True: Gwen Stefani is a singer.
+95918,VERIFIABLE,SUPPORTS,James Marsden worked with a director.,False
+223143,VERIFIABLE,SUPPORTS,Carrie Fisher died of cardiac arrest.,True: Carrie Fisher died of cardiac arrest.
+92592,VERIFIABLE,SUPPORTS,Ice hockey has competitions.,Ice hockey is a sport that is played in a rink.
+113124,VERIFIABLE,REFUTES,The Fifth Element was the lowest-grossing French film in the international box office until 2011.,True: The fifth element was the lowest grossing film in the world until 2011.
+148951,VERIFIABLE,REFUTES,The Hunger Games is the first in Lord of the Rings series.,The Hunger Games is the first in the Lord of the Rings series.
+144665,VERIFIABLE,REFUTES,"Audi used to have the pet ""Truth in Engineering.""","False: Audi used to have a pet ""Truth in Engineering""."
+208563,VERIFIABLE,SUPPORTS,Java contains more than half of the population of Indonesia.,True: Indonesia has a population of more than half of Java.
+19665,VERIFIABLE,SUPPORTS,Urilla Sutherland Earp was the first spouse of Wyatt Earp.,Urilla Sutherland Earp was the first wife of Wyatt Earp. The answer: False.
+209148,VERIFIABLE,SUPPORTS,Brave is a 2010s film.,Brave is a 2010s film.
+214662,VERIFIABLE,SUPPORTS,Winter Passing had mixed reviews in 2005.,True: Winter Passing was a very good movie.
+205197,VERIFIABLE,REFUTES,Audrey Horne was introduced in anything except a series that premiered on Sunday.,True: Audrey Horne was introduced in a series that premiered on Sunday.
+109722,VERIFIABLE,SUPPORTS,Line of Duty is a TV series.,True: Line of Duty is a video game series.
+217062,VERIFIABLE,REFUTES,The Dayton Agreement was signed in April.,The Dayton Agreement was signed in April.
+172369,VERIFIABLE,SUPPORTS,The National Security Agency is tasked with the processing of data for counterintelligence purposes.,The National Security Agency is a federal agency that is responsible for the processing of information. The answer: False.
+7732,VERIFIABLE,SUPPORTS,Gold is resistant to all acids except aqua regia.,Aqua regia is a fungus that can cause a yellowish color.
+71558,VERIFIABLE,SUPPORTS,There is a geologic period that spans 43 million years called Paleogene.,Paleogene is a period of time that is not a geologic period.
+31338,VERIFIABLE,SUPPORTS,Cher has sold more than 100 million music records worldwide.,Cher is a music company that has sold millions of records worldwide. The answer: False.
+76034,VERIFIABLE,SUPPORTS,Bernard Madoff got the sentence.,True: Madoff was a fraud. False: Madoff was a fraud.
+92637,VERIFIABLE,SUPPORTS,Donkey is a fast-talking donkey.,True: Donkey is a fast-talking donkey.
+135541,VERIFIABLE,SUPPORTS,O. J. Simpson received a criminal charge for armed robbery.,True: O. J. Simpson was convicted of armed robbery.
+63041,VERIFIABLE,SUPPORTS,Ketogenic diet has protein.,True: Ketogenic diets contain a lot of protein.
+122043,VERIFIABLE,REFUTES,Dennis Quaid refused to ever be an actor.,False: Dennis Quaid was a famous actor.
+37246,VERIFIABLE,SUPPORTS,The United States was the first country to develop nuclear weapons.,The United States was the first country to develop nuclear weapons. The final answer: False.
+20560,VERIFIABLE,REFUTES,Thandie Newton is incapable of appearing in British films.,True: Thandie Newton is a British actor. False: False
+162141,VERIFIABLE,SUPPORTS,Reese Witherspoon's breakthrough role was in a film.,True: Reese Witherspoon was in a movie.
+159742,VERIFIABLE,REFUTES,Jenni Rivera was only nominated for an award presented annually by American network Univision.,True: Univision is the award that nominated Jennifer Rivera.
+122490,VERIFIABLE,SUPPORTS,Curly Top was released.,Curly Top was released in the late 1980s.
+96045,VERIFIABLE,REFUTES,Edgar Allan Poe was a horse.,True: Edgar Allan Poe was a poet. False: Edgar Allan Poe was a horse.
+47251,VERIFIABLE,SUPPORTS,Danny DeVito received an Academy Award nomination.,True: Danny DeVito was nominated for an Academy Award. False: Danny DeVito was nominated for an Academy Award.
+164574,VERIFIABLE,SUPPORTS,PageRank was named after someone.,PageRank is a website that is not named after someone. The answer: False.
+115977,VERIFIABLE,SUPPORTS,Morena Baccarin received a nomination.,True: Morena Baccarin was nominated for a Prime Minister's Award.
+33501,VERIFIABLE,SUPPORTS,Jeffrey Dahmer committed murders in Wisconsin.,Jeffrey Dahmer was a serial killer.
+94908,VERIFIABLE,REFUTES,Naomi Scott played Darth Maul in Lemonade Mouth.,Darth Maul is a fictional character in the movie Lemonade Mouth. The answer: False.
+85869,VERIFIABLE,SUPPORTS,The Minnesota Vikings is a National Football League team.,True: The Minnesota Vikings are a professional football team.
+162284,VERIFIABLE,SUPPORTS,L.A. Law is a television series that categorizes as a legal drama.,True: L.A. Law is a television series that is a legal drama.
+26776,VERIFIABLE,SUPPORTS,Paradise was released in 2012.,True: Paradise was released in 2012.
+151885,VERIFIABLE,SUPPORTS,Dirt was produced by ABC studios and Coquette Productions.,True: The film was produced by ABC studios and Coquette Productions. The second sentence is false because the first sentence is true.
+28748,VERIFIABLE,REFUTES,Arsenic and Old Lace had its release delayed by 3 months.,True: The release date for Arsenic and Old Lace was delayed by 3 months.
+43629,VERIFIABLE,SUPPORTS,The Belko Experiment is an American horror film released in 2016.,The Belko Experiment is a horror film.
+82273,VERIFIABLE,REFUTES,Psychology has been disqualified from being a social science.,False
+25202,VERIFIABLE,REFUTES,Apple was founded in 1979.,True: Apple was founded in 1979.
+132999,VERIFIABLE,SUPPORTS,Moscow is a city in Russia.,True: Moscow is a city in Russia.
+212522,VERIFIABLE,SUPPORTS,The term cult film was first used in the 1970s.,True: The term cult film was first used in the 1970s.
+36742,VERIFIABLE,SUPPORTS,The September 11 attacks caused at least $10 billion in property damage.,True: The 9/11 attacks were a terrorist attack. False: The 9/11 attacks were a terrorist attack.
+217573,VERIFIABLE,SUPPORTS,The second longest of Shakespeare's plays after Hamlet is Richard III.,True: Richard III is the longest play in Shakespeare's plays.
+8711,VERIFIABLE,SUPPORTS,"Kathy Bates was born on June 28, 1948.","True: Kathy Bates was born on June 28, 1948."
+206540,VERIFIABLE,SUPPORTS,Joseph Barbera was an American director.,True: Joseph Barbera was an American director.
+113668,VERIFIABLE,REFUTES,Penny Dreadful started in 2017.,True: Penny Dreadful is a 2017 movie.
+141654,VERIFIABLE,SUPPORTS,There is a video game called Overwatch (video game).,Overwatch is a video game.
+23575,VERIFIABLE,SUPPORTS,The Lion King was released before 2000.,The Lion King was released in the year 2000.
+162455,VERIFIABLE,REFUTES,Before We Go was previously titled Fury.,Before We Go was a movie that was titled Fury.
+58743,VERIFIABLE,SUPPORTS,Stevie Nicks released an album that reached platinum status.,True: Stevie Nicks is a singer. False: Stevie Nicks is a musician.
+77381,VERIFIABLE,SUPPORTS,Overwatch's playable characters are categorized into four groups.,True: Overwatch has four groups of characters.
+108798,VERIFIABLE,REFUTES,Andrew Wood died in 1977.,Andrew Wood was alive in 1977.
+2172,VERIFIABLE,SUPPORTS,James McAvoy starred in Children of Dune.,False: James McAvoy is not a credited actor.
+85239,VERIFIABLE,REFUTES,John Constantine is a real person.,John Constantine was a fictional character in the Bible.
+127797,VERIFIABLE,SUPPORTS,The Portuguese Empire was one of world history's largest empires.,The Portuguese Empire was a country that was ruled by the Portuguese. The answer: False.
+188536,VERIFIABLE,SUPPORTS,Eddie Vedder is a performer.,Eddie Vedder is a musician.
+146437,VERIFIABLE,REFUTES,"Kenny Rogers released the album, Kenny in 2005.",True: Kenny Rogers released the album in 2005.
+81435,VERIFIABLE,SUPPORTS,Larry Buttrose wrote Cafe Royale.,True: The sentence is true because there is a lot of evidence that it is true. The sentence is false because there is no evidence that it is true. The sentence is false because there is no evidence that it is true. The sentence is false because there is no evidence that it is true. The sentence is
+169552,VERIFIABLE,SUPPORTS,Elementary stars Lucy Liu.,Lucy Liu is a famous actress.
+151581,VERIFIABLE,SUPPORTS,Farrah Fawcett acted in the romantic comedy Love is a Funny Thing.,True: Love is a Funny Thing was a romantic comedy.
+130116,VERIFIABLE,REFUTES,X-Men: Days of Future Past is based on the DC Batman comics.,True: X-Men: Days of Future Past is based on DC Batman comics.
+3219,VERIFIABLE,SUPPORTS,San Junipero is from Britain.,False: San Junipero is from Spain.
+138918,VERIFIABLE,REFUTES,Alex Rodriguez never hit a home run.,Alex Rodriguez has a home run in the past.
+147890,VERIFIABLE,REFUTES,John F. Kennedy ran against Andrew Jackson in the 1960 presidential election.,True: John F. Kennedy was a Republican. False: Andrew Jackson was a Republican.
+226368,VERIFIABLE,REFUTES,Gift of the Night Fury only stars the voices of actors and actresses born in October.,Gift of the Night Fury is a movie that stars actors and actresses born in the year October. The answer: False.
+55494,VERIFIABLE,REFUTES,Schindler's List was not awarded The Academy Award for Best Picture.,The Academy Award for Best Picture was given to Schindler's List. The answer: False.
+93229,VERIFIABLE,SUPPORTS,Juana la virgen is a telenovela written by Perla Farias.,False: Juana la virgen is a telenovela written by Perla Farias.
+114319,VERIFIABLE,SUPPORTS,The Champ stars an American.,The Champ is a movie that stars an American.
+213458,VERIFIABLE,SUPPORTS,Monarch of the Glen is a drama from Britain.,True: Monarch of the Glen is a British drama.
+144301,VERIFIABLE,SUPPORTS,Robert Redford is a film director.,True: Robert Redford is a film director.
+202873,VERIFIABLE,SUPPORTS,Best Director was a nomination Beasts of the Southern Wild received.,Beasts of the Southern Wild was nominated for Best Director.
+60291,VERIFIABLE,SUPPORTS,The Los Angeles Lakers hold the NBA record for longest winning streak.,The Lakers have won the NBA for the longest winning streak.
+88496,VERIFIABLE,SUPPORTS,The Philippines is industrial.,The Philippines is a country that is a country that is not industrial. The answer: False.
+83786,VERIFIABLE,SUPPORTS,Joe Manganiello has appeared in a movie.,Joe Manganiello has appeared in a movie. The answer: False.
+81339,VERIFIABLE,SUPPORTS,Veronika Decides to Die is authored by Roberta Hanley.,Veronika Decides to Die is a book by Roberta Hanley.
+99152,VERIFIABLE,SUPPORTS,Sully is a Tom Hanks movie.,False: Sully is a Tom Hanks movie.
+107555,VERIFIABLE,REFUTES,Walter Matthau is incapable of winning anything.,False: Walter Matthau is a professional football player.
+157338,VERIFIABLE,SUPPORTS,Lisa Kudrow appeared on Showtime.,True: Lisa Kudrow was on Showtime.
+190817,VERIFIABLE,SUPPORTS,Myles Kennedy has released albums.,Myles Kennedy has released albums.
+66030,VERIFIABLE,SUPPORTS,Jane Fonda worked with Lily Tomlin in a show.,True: Jane Fonda is a famous actress.
+145452,VERIFIABLE,REFUTES,"Imagine Dragons was named the ""Breakthrough Band of 2014.""",False
+187984,VERIFIABLE,SUPPORTS,Mike Love co-founded a band.,Mike Love is a musician and he co-founded a band. The final answer: False.
+10983,VERIFIABLE,SUPPORTS,"Apple was incorporated as Apple Computer, Inc. in January 1977.",True: Apple Computer was founded in January 1977.
+44313,VERIFIABLE,SUPPORTS,Star Search was relaunched in 2003-04.,True: Star Search was relaunched in 2003-04.
+139179,VERIFIABLE,REFUTES,Canada was never the location of a French colony.,False: Canada was the location of a French colony.
+115787,VERIFIABLE,REFUTES,System of a Down has only sold albums in Greenland.,False: System of a Down has sold over a million albums worldwide.
+3402,VERIFIABLE,SUPPORTS,Led Zeppelin was first named the New Yardbirds.,The New Yardbirds were a band that played in the late 1960s. The first name of the band was New Yardbirds. The second name was New Yardbirds. The third name was New Yardbirds.
+23519,VERIFIABLE,REFUTES,Payton Manning signed with the Ontario Broncos.,True: Payton Manning is a football player.
+185109,VERIFIABLE,REFUTES,Anthropology is a division of Davis Entertainment.,Anthropology is a division of Davis Entertainment.
+228169,VERIFIABLE,SUPPORTS,Kafka stars an actor.,True: Kafka is a movie that stars an actor.
+65043,VERIFIABLE,SUPPORTS,Alex Rodriguez played for the Mariners.,Alex Rodriguez played for the Mariners.
+131167,VERIFIABLE,SUPPORTS,Charles Marie de La Condamine was born in 1701.,Charles Marie de La Condamine was born in 1701.
+228918,VERIFIABLE,SUPPORTS,Pulp Fiction is written by a man.,True: Pulp Fiction is a book by a woman. False: The sentence is true because there is no evidence of a man writing it.
+101895,VERIFIABLE,SUPPORTS,Giada De Laurentiis has been a contributor to a morning TV program.,True: Giada De Laurentiis is a famous actress.
+20433,VERIFIABLE,SUPPORTS,The Grammy Hall of Fame inducted Bohemian Rhapsody.,Bohemian Rhapsody was not inducted into the Grammy Hall of Fame. The answer: False.
+55174,VERIFIABLE,REFUTES,"Hugh Jackman has a public feud with Christopher Nolan, preventing any collaboration between the two.",True: Christopher Nolan and Hugh Jackman have a public feud. False: False
+2290,VERIFIABLE,SUPPORTS,Cate Blanchett was nominated for an Academy Award.,True: The Academy Award is for a film that is not nominated. The second sentence is false because there is no evidence of this being true.
+32291,VERIFIABLE,SUPPORTS,Slash was born in 1965.,Slash was born in the year 1965.
+201428,VERIFIABLE,REFUTES,Drake is only German.,True: Drake is a fictional character from the comic book series.
+117434,VERIFIABLE,SUPPORTS,R. Madhavan was a cast member of 3 Idiots.,True: Madhavan played a role in 3 Idiots.
+215154,VERIFIABLE,SUPPORTS,James and the Giant Peach includes Richard Dreyfuss.,True: James and the Giant Peach is a musical.
+106152,VERIFIABLE,SUPPORTS,Ayn Rand condemned force.,True: Ayn Rand was a savage. False: Ayn Rand was a savage.
+65929,VERIFIABLE,SUPPORTS,Anne Hathaway had a part in Ella Enchanted.,Anne Hathaway played the role of Ella Enchanted in the movie. The answer: False.
+218817,VERIFIABLE,SUPPORTS,Oh Yeon-seo was born.,Yeon-seo was born in Korea.
+56121,VERIFIABLE,SUPPORTS,Ben Stiller was involved in the film industry in the 1990s.,True: Ben Stiller was a comedian.
+126476,VERIFIABLE,SUPPORTS,"The Los Angeles Lakers were nicknamed ""Showtime"" in the 1980s.",Showtime was a nickname for the Los Angeles Lakers. The answer: False.
+210516,VERIFIABLE,SUPPORTS,Slovenia is bordered by the Adriatic Sea.,True: The Adriatic Sea is a strait connecting country.
+42937,VERIFIABLE,REFUTES,Italy is officially called the big meatball.,True: Italy is a country that is famous for its meatballs.
+160395,VERIFIABLE,REFUTES,Ron Cobb was only born in the year 1954.,True: Ron Cobb was born in the year 1954.
+1323,VERIFIABLE,SUPPORTS,Just Dance was a song.,True: Just Dance is a song.
+108899,VERIFIABLE,SUPPORTS,Journey is a band.,True: Journey is a band that plays rock music.
+222554,VERIFIABLE,SUPPORTS,Life Is Peachy was released by Epic Records.,Epic Records released Life Is Peachy in the late 90's.
+121300,VERIFIABLE,REFUTES,Sarah Silverman never wrote for a sketch comedy show.,True: Sarah Silverman wrote for a sketch comedy show.
+88540,VERIFIABLE,SUPPORTS,A mole is a structure.,True: A mole is a structure.
+39720,VERIFIABLE,SUPPORTS,Shahid Kapoor supports charities.,True: Shahid Kapoor is a politician. False: Shahid Kapoor is a politician.
+81758,VERIFIABLE,REFUTES,Doctor Who was written by the Ancient Greeks.,Doctor Who was written by the Romans.
+162276,VERIFIABLE,SUPPORTS,"L.A. Law ended on May 19, 1994.",L.A. law was a law that was passed in 1994.
+26587,VERIFIABLE,SUPPORTS,Jerry Seinfeld specialized in observational comedy.,True: Jerry Seinfeld was a comedian. False: Jerry Seinfeld was a comedian.
+79512,VERIFIABLE,REFUTES,Marie Curie was naturalized-German.,True: Marie Curie was born in France.
+66006,VERIFIABLE,SUPPORTS,Honey to the B was the first album of a singer and actress from England.,Honey to the B was a British singer and actress.
+76104,VERIFIABLE,SUPPORTS,Will Ferrell is considered to be part of the Frat Pack.,Will Ferrell is a famous actor.
+87183,VERIFIABLE,SUPPORTS,Donnie Wahlberg acts with Tom Selleck.,Donnie Wahlberg is a comedian.
+46354,VERIFIABLE,REFUTES,Rogue appears in Canadian comic books.,True: Rogue is a character in the comics. False: True: Rogue is a character in the comics.
+152230,VERIFIABLE,REFUTES,The German Shepherd is the second-most registered breed by the American Kennel Club and The Kennel Club UK.,The German Shepherd is a breed of dog.
+32203,VERIFIABLE,SUPPORTS,Diego Costa was born in October.,Diego Costa was born in November.
+52390,VERIFIABLE,SUPPORTS,Ocean's Eight is a sequel to the Ocean's Trilogy.,True: Ocean's Eight is a sequel to the Ocean's Trilogy.
+58975,VERIFIABLE,SUPPORTS,The United Kingdom includes Scotland.,False: Scotland is a country in the United Kingdom.
+23544,VERIFIABLE,SUPPORTS,John Wick: Chapter 2 is a film.,True: John Wick: Chapter 2 is a film.
+89139,VERIFIABLE,SUPPORTS,Europe is the location of Andorra.,Andorra is in Spain.
+175110,VERIFIABLE,SUPPORTS,Axl Rose has been named one of the greatest singers.,Axl Rose is a famous singer.
+63855,VERIFIABLE,SUPPORTS,Steffi Graf won 5 consecutive majors.,True: Steffi Graf won 5 consecutive majors.
+69908,VERIFIABLE,REFUTES,Jennifer Garner had a starring role in the film Catch Me if You Can.,True: Jennifer Garner played the role of a sex addict in Catch Me If You Can.
+18622,VERIFIABLE,SUPPORTS,Boromir is mentioned in the third and last volume of The Lord of the Rings.,Boromir is not mentioned in the third volume of The Lord of the Rings.
+34021,VERIFIABLE,SUPPORTS,Paul Simon is an actor.,Paul Simon is an actor.
+36972,VERIFIABLE,SUPPORTS,Game of Thrones (season 3) is a drama set in a fantasy world.,True: Game of Thrones is a fantasy drama.
+92805,VERIFIABLE,REFUTES,Taiwan's high-tech industry plays a key role in the local economy.,True: Taiwan has a high tech industry.
+110250,VERIFIABLE,SUPPORTS,London has an elected official.,London is a city with no elected officials.
+43055,VERIFIABLE,SUPPORTS,Bill Gates was the largest individual shareholder of Microsoft.,Bill Gates was the largest individual shareholder of Microsoft. The final answer: False.
+153057,VERIFIABLE,SUPPORTS,The phalanx may be deployed for killing.,False
+199466,VERIFIABLE,SUPPORTS,Robbie Collin edited The Saint.,True: The Saint was written by Robbie Collin.
+129469,VERIFIABLE,REFUTES,Christianity failed to spread to Australasia.,True: Christianity spread to Australia. False: Christianity spread to Australia.
+129303,VERIFIABLE,SUPPORTS,Feels So Good was written for the album Hot.,True: Hot is a song written by a rapper.
+32400,VERIFIABLE,SUPPORTS,Deadpool is not part of a film series.,True: Deadpool is a movie series.
+214523,VERIFIABLE,SUPPORTS,Evolution was by someone born in May.,Evolution is a science fiction movie.
+177452,VERIFIABLE,SUPPORTS,Kmart has stores in operation in an unincorporated and organized territory of the United States.,True: Walmart is a multinational company.
+118769,VERIFIABLE,SUPPORTS,"Ancient Algeria has known many empires and dynasties, including ancient Carthaginians.",True: Carthaginians were the first kings of Algeria.
+108712,VERIFIABLE,SUPPORTS,Clint Eastwood has been in films.,True: Clint Eastwood has been in films.
+84113,VERIFIABLE,SUPPORTS,Gorgeous Ladies of Wrestling is a wrestling promotion for women.,"True: The title is a re-creation of the title ""Gorgeous Ladies of Wrestling""."
+212783,VERIFIABLE,SUPPORTS,Gustave Eiffel made significant contributions to aerodynamics.,True: Gustav Eiffel was a French inventor. False: Gustav Eiffel was a French inventor.
+90537,VERIFIABLE,SUPPORTS,Idris Elba has been nominated four times for a Golden Globe Award in acting.,Idris Elba has been nominated four times for a Golden Globe Award in acting. The answer: False.
+189419,VERIFIABLE,REFUTES,Paul Rudd passed up the role he was offered in Role Models.,True: Paul Rudd was offered the role in Role Models.
+145709,VERIFIABLE,SUPPORTS,The Twelfth Doctor is capable of superhuman abilities.,True: The Twelfth Doctor is a fictional character. False: The Twelfth Doctor is a fictional character.
+224899,VERIFIABLE,SUPPORTS,Happy Endings had Lisa Kudrow in it.,True: Happy Endings was a movie about a woman who tries to get her life back.
+15148,VERIFIABLE,SUPPORTS,Grace VanderWaal won the NBC TV competition show America's Got Talent.,Grace VanderWaal is a singer.
+34222,VERIFIABLE,SUPPORTS,Jennifer Hudson has won a Grammy.,True: Jennifer Hudson has won a Grammy.
+102776,VERIFIABLE,SUPPORTS,Marie Antoinette died in 1793.,Marie Antoinette was born in 1793.
+15838,VERIFIABLE,SUPPORTS,The Uruguay national football team won two FIFA World Cups.,False
+69940,VERIFIABLE,REFUTES,Overwatch is a board game.,Overwatch is a board game.
+77133,VERIFIABLE,SUPPORTS,The Sopranos is a televised show.,True: The Sopranos is a televised show.
+90594,VERIFIABLE,SUPPORTS,Babe Ruth was active in Major League Baseball from 1914-1935.,Baseball was Ruth's favorite sport.
+19171,VERIFIABLE,SUPPORTS,Roger Federer plays a racket sport.,Roger Federer is a tennis player.
+160826,VERIFIABLE,SUPPORTS,La La Anthony was in November Rule and Destined.,True: La La Anthony was in November Rule and Destined.
+2584,VERIFIABLE,SUPPORTS,The United States Naval Academy is in Maryland.,The United States Naval Academy is in Maryland.
+161365,VERIFIABLE,REFUTES,"Tom Welling was born November 26, 1977.","Tom Welling was born on November 26, 1977."
+7068,VERIFIABLE,SUPPORTS,In the Heart of the Sea was released in cinemas.,True: In the Heart of the Sea was released in the cinemas.
+195435,VERIFIABLE,SUPPORTS,Blues and rock music has been played by the band AC/DC.,True: AC/DC is a blues band.
+188616,VERIFIABLE,REFUTES,Naruto is incapable of being a ninja.,True: Naruto is a ninja.
+25772,VERIFIABLE,SUPPORTS,Marilyn Monroe is an actress.,Marilyn Monroe is an actress.
+205627,VERIFIABLE,SUPPORTS,Wyatt Earp was a constable and he was American.,True: Wyatt Earp was a constable and he was American. Then explain the sentence.
+194845,VERIFIABLE,SUPPORTS,Israel hosts a population of asylum seekers including illegal migrants from Sudan.,False: Israel is a country that does not host asylum seekers.
+82099,VERIFIABLE,SUPPORTS,The American Broadcasting Company has a nickname.,True: The American Broadcasting Company is a nickname.
+92288,VERIFIABLE,REFUTES,Cindy McCain is married to a 2008 rugby champion.,True: Cindy McCain is married to a 2008 rugby champion.
+150383,VERIFIABLE,REFUTES,Leonardo DiCaprio is a fish.,True: Leonardo DiCaprio is a fish.
+34843,VERIFIABLE,SUPPORTS,T-Pain is the founder of a record label imprint established in 2005.,True: T-Pain is a rapper.
+155901,VERIFIABLE,SUPPORTS,BeyoncÃ© was given a music award.,True: Beyonce was given a music award.
+46715,VERIFIABLE,REFUTES,Alan Ladd failed to become television producer.,True: Alan Ladd was a television producer.
+136742,VERIFIABLE,SUPPORTS,VHS was released in late 1976 in Japan.,VHS was released in late 1976 in Japan.
+37215,VERIFIABLE,REFUTES,Pixar was funded by an Indian industrial designer.,True: Pixar was a film that was made by Indian industrial designer.
+32576,VERIFIABLE,SUPPORTS,"The Chernobyl disaster ultimately involved more than 500,000 workers.",True: Chernobyl was a nuclear accident.
+57119,VERIFIABLE,REFUTES,FrÃ©dÃ©ric Auguste Bartholdi was a painter.,True: Bartholdi was a painter.
+9172,VERIFIABLE,SUPPORTS,The Beatles were formed in London.,The Beatles were a band from the mid-1960s.
+115166,VERIFIABLE,REFUTES,Kumail Nanjiani has declined to act in any movies.,True: Kumail Nanjiani has been in many movies.
+162622,VERIFIABLE,SUPPORTS,Hacksaw Ridge made money.,True: The hacksaw ridge was a sand castle.
+213866,VERIFIABLE,SUPPORTS,"In 2010, Kick-Ass was released.",Kick-Ass is a song by the band.
+207508,VERIFIABLE,SUPPORTS,Harry Potter confronts someone in Harry Potter and the Deathly Hallows.,True: Harry Potter and the Deathly Hallows is a movie about a man who is a wizard.
+10616,VERIFIABLE,SUPPORTS,Sophie Turner appeared in movies in 2013.,Sophie Turner is a famous actress.
+53702,VERIFIABLE,SUPPORTS,Farrah Fawcett was the subject of an NBC documentary.,True: Fawcett was a famous actress.
+29436,VERIFIABLE,REFUTES,Tiger Woods has not competed in a golf tournament.,Tiger Woods has competed in a golf tournament. The answer: False.
+45043,VERIFIABLE,SUPPORTS,Brian Eno was born in England.,Brian Eno was born in America.
+132112,VERIFIABLE,REFUTES,Portugal does not share a border with Spain.,False
+190270,VERIFIABLE,SUPPORTS,Steven Knight was born in 1959.,Steven Knight was born in 1959.
+167600,VERIFIABLE,SUPPORTS,Suits is a show about lawyers.,True: Suits is a show about a lawyer.
+212764,VERIFIABLE,SUPPORTS,Tom Hanks has been granted at least three awards.,Tom Hanks has been awarded at least three awards. The answer: False.
+49080,VERIFIABLE,REFUTES,Dwyane Wade was rejected for the All-Rookie team.,True: Dwyane Wade was a star in the NBA.
+163315,VERIFIABLE,REFUTES,The Homesman features American actor John Lithgow.,John Lithgow is an American actor.
+52784,VERIFIABLE,SUPPORTS,Star Wars' soundtrack was recorded in England.,The soundtrack of Star Wars was recorded in England. The answer: False.
+218651,VERIFIABLE,SUPPORTS,The cast of The Playboy Club includes Leah Renee.,Leah Renee is not a member of the Playboy Club.
+63459,VERIFIABLE,SUPPORTS,The Portuguese Empire was an empire in world history.,The Portuguese Empire was a country in the Middle Ages.
+158388,VERIFIABLE,SUPPORTS,Chris Froome's parents are people.,True: Chris Froome's parents are not human.
+10387,VERIFIABLE,REFUTES,Shueisha is a publisher headquartered in Maine.,False: Shueisha is a publisher headquartered in Maine.
+221765,VERIFIABLE,SUPPORTS,Friendship has been studied in academic disciplines like anthropology.,True: Friendship is a scientific discipline.
+35602,VERIFIABLE,SUPPORTS,Belgium is comprised of three regions.,True: Belgium is a country that has three regions.
+49536,VERIFIABLE,REFUTES,Apple Inc.'s consumer software lacks the iOS operating system.,True: Apple Inc.'s consumer software lacks the iOS operating system.
+223566,VERIFIABLE,SUPPORTS,Kris Wu starred in a Chinese film called Journey to the West.,True: Kris Wu was a Chinese actress.
+198302,VERIFIABLE,REFUTES,Super Metroid is a movie sequel.,True: Super Metroid is a sequel to the original game.
+56063,VERIFIABLE,SUPPORTS,One America News Network is abbreviated as OANN.,True: OANN is a news network.
+42579,VERIFIABLE,SUPPORTS,Jennifer Garner is a board member of Save the Children.,True: Jennifer Garner is a board member of Save the Children.
+30922,VERIFIABLE,SUPPORTS,The Portuguese Empire existed during the Renaissance.,The Portuguese Empire was a Roman Empire.
+116583,VERIFIABLE,SUPPORTS,One actor is Scott Eastwood.,True: Scott Eastwood is a famous actor.
+203903,VERIFIABLE,REFUTES,Tall Story is a romantic comedy club.,True: Tall Story is a comedy club.
+105337,VERIFIABLE,REFUTES,X-Men: Days of Future Past is a novel based on X-Men characters in comics.,True: X-Men: Days of Future Past is a novel based on comics.
+8388,VERIFIABLE,SUPPORTS,Richard Eyre is a television director.,True: Richard Eyre is a television director.
+164820,VERIFIABLE,REFUTES,Furious 7 began principal photography in the summer of 2013.,True: The film was released in the summer of 2013.
+64508,VERIFIABLE,SUPPORTS,Prakash Jha is an actor.,True: Prakash Jha is an actor.
+68716,VERIFIABLE,REFUTES,Splatoon 2 is the only game in its franchise.,True: Splatoon 2 is the only game in its franchise.
+109489,VERIFIABLE,SUPPORTS,Nepal was ruled by the Shah dynasty until 2008.,True: Nepal was ruled by the Shah dynasty until 2008. False: True: Nepal was ruled by the Shah dynasty until 2008.
+192692,VERIFIABLE,REFUTES,The interior of Uranus is only composed of gas.,True: Uranus is composed of helium and helium. False: Uranus is composed of helium and helium.
+83833,VERIFIABLE,SUPPORTS,Sriti Jha plays the lead role in a TV show.,True: Sriti Jha is a lead actress in a TV show.
+62642,VERIFIABLE,SUPPORTS,There is a film called Absolute Beginners.,True: Absolute Beginners is a movie about a man who is a bad cook.
+122575,VERIFIABLE,REFUTES,Qatar borders London.,False: Qatar borders London.
+47252,VERIFIABLE,SUPPORTS,The Amanda Show aired from 1999 to 2002.,The Amanda Show was a show that ran for a decade.
+121235,VERIFIABLE,REFUTES,Brock Lesnar is signed to a Japanese mixed martial arts promotion.,True: Brock Lesnar is a professional mixed martial arts fighter.
+191899,VERIFIABLE,SUPPORTS,The Hangover Part III includes Justin Bartha.,False
+72797,VERIFIABLE,SUPPORTS,Lee Harvey Oswald assassinated the 35th President of the United States.,Lee Harvey Oswald was a convicted felon.
+122933,VERIFIABLE,REFUTES,In & Out is directed by James Cameron.,False: James Cameron is a director.
+144581,VERIFIABLE,SUPPORTS,Tom Felton is a person.,False: Tom Felton is a fictional character.
+39355,VERIFIABLE,SUPPORTS,Louis Tomlinson appeared in a TV drama.,True: Louis Tomlinson was a TV actor.
+17505,VERIFIABLE,SUPPORTS,Kalpana Raghavendar is an artist.,True: Kalpana Raghavendar is an Indian artist.
+114403,VERIFIABLE,REFUTES,Luke Evans had his Hollywood breakthrough role starring in a play.,True: Luke Evans was a playwright. False: Luke Evans was a playwright.
+46625,VERIFIABLE,SUPPORTS,"Emily Ratajkowski was visible in the ""Blurred Lines"" music video.",Emily Ratajkowski is not a singer.
+212087,VERIFIABLE,SUPPORTS,"10 Cloverfield Lane stars the actor John Gallagher, Jr.",True: 10 Cloverfield Lane is a movie about a man who is a sailor.
+55895,VERIFIABLE,SUPPORTS,Chris Froome rides under a British license.,True: Chris Froome rides under a British license. False: Chris Froome rides under a British license.
+1726,VERIFIABLE,REFUTES,Olivia Munn failed to be credited as Lisa Munn.,True: Lisa Munn was credited as Lisa Munn in the movie.
+175355,VERIFIABLE,REFUTES,Batman is yet to be released.,False: Batman is still in production.
+82348,VERIFIABLE,SUPPORTS,Marlon Brando is an actor who was in Mutiny on the Bounty.,Marlon Brando is an actor and not a character. The answer: False.
+63561,VERIFIABLE,SUPPORTS,None of lung cancer's symptoms is chest pains.,True: Chest pains are a sign of lung cancer.
+144711,VERIFIABLE,SUPPORTS,Iran has 21 UNESCO World Heritage Sites.,True: Iran has more than 21 UNESCO World Heritage Sites.
+159486,VERIFIABLE,REFUTES,The Taj Mahal attracts significantly less than 7-8 million visitors a year.,True: The Taj Mahal attracts 7-8 million visitors a year.
+127145,VERIFIABLE,SUPPORTS,Lisbon is in Portugal.,Lisbon is in France.
+66277,VERIFIABLE,SUPPORTS,Arya Stark is the daughter of Lady Catelyn Stark.,True: Lady Catelyn Stark is the daughter of Arya Stark.
+160184,VERIFIABLE,SUPPORTS,Selene serves as the central character in a film written by Danny McBride in 2001.,True: Selene is a fictional character in the movie.
+228921,VERIFIABLE,SUPPORTS,Pulp Fiction is an American black comedy neo-noir film released in 1994.,True: Pulp Fiction is a neo-noir film.
+189236,VERIFIABLE,SUPPORTS,Dan Aykroyd has received zero Academy Award nominations.,True: Dan Aykroyd has received no Academy Award nominations.
+81820,VERIFIABLE,SUPPORTS,Dhool was directed by Dharani.,Dharani was the director of the movie.
+74077,VERIFIABLE,REFUTES,Watchmen was number 91 on The Comics Journals list of the top 100 comics of the 20th century that was published in 2001.,True: Watchmen was the first comic book to be published in 2001.
+18884,VERIFIABLE,SUPPORTS,Android has had prosperity.,Android is a computer program that has been around for a long time.
+66130,VERIFIABLE,REFUTES,Saddam Hussein died in 1937.,True: Saddam Hussein was a dictator.
+208823,VERIFIABLE,SUPPORTS,Tim Rice has collaborated with someone.,True: Tim Rice has collaborated with someone.
+27871,VERIFIABLE,REFUTES,Hugo Weaving is in zero movies.,True: Hugo Weaving is in a few movies. False: There are at least one movie that has him in it.
+101069,VERIFIABLE,SUPPORTS,Time Lords have time machines.,False: Time Lords are not a time machine.
+74534,VERIFIABLE,REFUTES,Arsenic and Old Lace was released in 1964.,True: The album was released in 1964.
+65292,VERIFIABLE,SUPPORTS,The Catalyst is a rock song.,The Catalyst is a song by the Beatles.
+84759,VERIFIABLE,SUPPORTS,Indiana Jones has been portrayed by Corey Carrier.,Corey Carrier is a famous actor.
+5573,VERIFIABLE,SUPPORTS,Umbrella is a single.,The umbrella is a single unit.
+17256,VERIFIABLE,SUPPORTS,Sandra Bullock stars in The Proposal.,True: Sandra Bullock is a famous actress.
+68371,VERIFIABLE,SUPPORTS,Martin Luther King Jr. worked on segregated housing in earnest.,True: Martin Luther King Jr. was a black man. False: Martin Luther King Jr. was a white man.
+150233,VERIFIABLE,SUPPORTS,FC Barcelona was awarded five trophies.,True: FC Barcelona won five trophies.
+110045,VERIFIABLE,REFUTES,The Great Buck Howard was directed by Ingmar Bergman.,The Great Buck Howard was directed by Ingmar Bergman.
+123436,VERIFIABLE,SUPPORTS,John McEnroe is famous for his aggressive behavior on the court.,John McEnroe is a famous person for his aggressive behavior on the court. Then explain the sentence.
+126425,VERIFIABLE,SUPPORTS,John Mayer's first EP was released while he was signed to Columbia Records.,True: John Mayer's first EP was released in the year that he was signed to Columbia Records.
+12131,VERIFIABLE,SUPPORTS,Dirty Diana is by Michael Jackson.,True: Michael Jackson is a rapper.
+90243,VERIFIABLE,SUPPORTS,American Gods' adaptation began airing.,True: American Gods is a movie that has been aired for a long time.
+8626,VERIFIABLE,SUPPORTS,Adrienne Bailon is an American actress.,True: Adrienne Bailon is an American actress.
+213015,VERIFIABLE,REFUTES,Marlon Brando was in any movie but Julius Caesar.,Marlon Brando was in the movie Julius Caesar. Then explain the sentence.
+179217,VERIFIABLE,SUPPORTS,Up All Night was released by Syco Records in 2011.,True: Up All Night was released by Syco Records in 2011.
+108559,VERIFIABLE,SUPPORTS,"Little Miss Sunshine was filmed over 30 days beginning on June 6, 2005.",True: Little Miss Sunshine was filmed over 30 days.
+178005,VERIFIABLE,SUPPORTS,IO Theater is a place where people train.,True: IO Theater is a theater that is not a training place.
+63566,VERIFIABLE,SUPPORTS,Coke Boys Records was founded by an American Rapper.,Coca-Boys Records was founded by a rapper.
+4627,VERIFIABLE,SUPPORTS,John McCain was a presidential nominee in 2008.,True: John McCain was a presidential nominee in 2008.
+98595,VERIFIABLE,SUPPORTS,Gia is a work.,True: Gia is a work of art.
+51594,VERIFIABLE,REFUTES,21 Jump Street was released by Columbia Pictures in 2002.,21 Jump Street was released in 2002.
+125148,VERIFIABLE,SUPPORTS,Kuala Lumpur has the Petronas Twin Towers.,True: The Petronas Twin Towers are in Kuala Lumpur.
+128493,VERIFIABLE,SUPPORTS,"The television series Fargo has an anthology format, setting each season in a different era with a different story and cast.",True: Fargo is a television series that is set in a different era.
+101824,VERIFIABLE,SUPPORTS,An annual training camp is hosted by the Carolina Panthers.,False: The Carolina Panthers hold a training camp every year.
+210075,VERIFIABLE,REFUTES,Ronaldo Maczinski is Irish.,True: Ronaldo Maczinski is Irish. False: Ronaldo Maczinski is Irish.
+227622,VERIFIABLE,SUPPORTS,Born This Way is a piece of music.,True: Born This Way is a piece of music.
+31340,VERIFIABLE,SUPPORTS,"By 1997, Andre Agassi was number 141 in the world.",True: Andre Agassi was number 141 in 1997.
+208505,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales was a grandchild of a king.","True: Charles, Prince of Wales was a grandchild of a king."
+124218,VERIFIABLE,SUPPORTS,Man of Steel is a superhero movie from 2013.,False: Man of Steel is a superhero movie from 2013
+36415,VERIFIABLE,SUPPORTS,Kate Beckinsale was directed by James Ivory.,James Ivory directed Kate Beckinsale.
+2758,VERIFIABLE,SUPPORTS,Shakira is a performer.,True: Shakira is a performer.
+70098,VERIFIABLE,REFUTES,Michael Schumacher is a professional writer,True: Michael Schumacher is a professional writer. False: Michael Schumacher is a musician.
+85626,VERIFIABLE,REFUTES,Bridget Moynahan was cut from Lord of War.,Bridget Moynahan was a lord of war.
+94303,VERIFIABLE,SUPPORTS,There is a mosque in the Taj Mahal.,True: The Taj Mahal is a mosque.
+3596,VERIFIABLE,REFUTES,Cry Freedom wasn't shot in Kenya.,True: Kenya is a country that has a lot of people.
+50469,VERIFIABLE,SUPPORTS,"In the United States presidential election of 1972, Richard Nixon was a candidate.",True: Richard Nixon was a candidate in the United States presidential election of 1972.
+140657,VERIFIABLE,SUPPORTS,There is a cultural attraction called the Museum of Science and Industry.,True: The Museum of Science and Industry is a museum.
+155153,VERIFIABLE,SUPPORTS,Carrie Fisher wrote a book.,True: Carrie Fisher wrote a book. False: Carrie Fisher wrote a movie.
+97805,VERIFIABLE,REFUTES,Anil Kapoor has never been a producer.,Anil Kapoor is a producer.
+16925,VERIFIABLE,SUPPORTS,Adolf Hitler encouraged settler colonialism.,Hitler was a Nazi and did not encourage colonialism. The second sentence is False.
+102397,VERIFIABLE,SUPPORTS,Before Night Falls is a film.,Before Night Falls is a movie that is about a man who falls in love with a woman. The answer: False.
+84546,VERIFIABLE,SUPPORTS,An example of a Christmas comedy film is Home Alone.,True: Home Alone is a Christmas comedy film.
+127854,VERIFIABLE,SUPPORTS,Steven Price (composer) worked on the film Gravity.,True: Steven Price is a composer.
+20181,VERIFIABLE,SUPPORTS,The 1991 NBA Finals had the Lakers in it.,The Lakers were the only team in the 1991 NBA Finals. The second sentence is true because there are no records of the Lakers winning the championship.
+104100,VERIFIABLE,SUPPORTS,Google has been the second most valuable brand in the world for 4 blue years.,True: Google is the most valuable brand in the world.
+10895,VERIFIABLE,SUPPORTS,Instagram is a photo-sharing application.,True: Instagram is a social media app.
+183071,VERIFIABLE,SUPPORTS,Snooki & Jwoww was renewed by at least one channel.,True: Snooki & Jwoww was renewed by at least one channel.
+131166,VERIFIABLE,SUPPORTS,The Eagles broke up in 1980.,The Eagles were a team that played in the NFL.
+19584,VERIFIABLE,SUPPORTS,Black Widow is Russian.,Black Widow is a fictional character from the novel Black Widow.
+122914,VERIFIABLE,SUPPORTS,Portugal is the 5th most peaceful country in the world and it also features a high-income advanced economy and the 18th highest social progress in the world.,True: Portugal is the world's most peaceful country. False: Portugal is the world's most socially advanced country.
+3083,VERIFIABLE,SUPPORTS,A temperate seasonal climate influences Berlin.,Berlin is a city in the north of Europe.
+7849,VERIFIABLE,SUPPORTS,Twitter had about 1.6 billion search queries per day in 2012.,True: Twitter had about 1.6 billion search queries per day in 2012.
+56940,VERIFIABLE,SUPPORTS,Ramadan is the ninth calendar month in Islam.,True: Ramadan is the ninth month in Islam.
+227606,VERIFIABLE,SUPPORTS,The self-empowerment of the LGBT community is discussed in Born This Way.,True: Born This Way is a documentary about the LGBT community.
+43619,VERIFIABLE,SUPPORTS,Mao Zedong lived until 1976.,True: Mao Zedong died in 1976.
+191936,VERIFIABLE,SUPPORTS,"The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.",True
+9622,VERIFIABLE,REFUTES,Steven Tyler was active in the early 1980s.,Steven Tyler was a professional football player in the 1980s. The final answer: False.
+161995,VERIFIABLE,REFUTES,Wikipedia has articles in only english.,False: Wikipedia has articles in all languages.
+56637,VERIFIABLE,REFUTES,Ellyse Perry is a man.,True: Ellyse Perry is a woman.
+138032,VERIFIABLE,REFUTES,American Idiot has not had five successful singles.,True: American Idiot has had five singles.
+205521,VERIFIABLE,REFUTES,Wyatt Earp was an actor.,True: Wyatt Earp was an actor.
+86567,VERIFIABLE,REFUTES,Toronto is the least populous city in Canada.,True: Toronto is the most populous city in Canada.
+33233,VERIFIABLE,SUPPORTS,Paul is Steve Jobs' middle name.,True: Steve Jobs is Steve Jobs' middle name.
+202341,VERIFIABLE,SUPPORTS,Destiny was released for the console Playstation 4.,False
+143990,VERIFIABLE,SUPPORTS,Heather Graham played the title character in the series Emily's Reasons Why Not in 2010.,True: Emily's Reasons Why Not was a 2010 series.
+224086,VERIFIABLE,SUPPORTS,Battle Studies World Tour was a global tour.,False
+39837,VERIFIABLE,SUPPORTS,Samuel L. Jackson was in the M. Night Shyamalan film Unbreakable.,True: Unbreakable is a movie about a man who is a sailor.
+40337,VERIFIABLE,REFUTES,Singapore is south of Indonesia.,True: Singapore is in the north of Indonesia.
+49312,VERIFIABLE,SUPPORTS,Jennifer Hudson was a finalist of American Idol.,True: Jennifer Hudson was a finalist of American Idol.
+93954,VERIFIABLE,REFUTES,Hong Kong is incapable of being consistently ranked as the world's most freest economic entity.,False: Hong Kong is ranked as the world's most freest economic entity.
+106357,VERIFIABLE,SUPPORTS,Manchester City F.C. was bought by the Abu Dhabi United Group.,Manchester City FC was owned by the United States.
+2829,VERIFIABLE,SUPPORTS,Unapologetic is a work.,True: Unapologetic is a work that is not apologetic. False: False: Unapologetic is a work that is not apologetic.
+86667,VERIFIABLE,REFUTES,Andre Agassi is a golfer.,Andrew Agassi is a professional golfer.
+26911,VERIFIABLE,SUPPORTS,Liverpool F.C. was managed by Bill Shankly.,Bill Shankly was the manager of Liverpool F.C.
+25834,VERIFIABLE,REFUTES,Bangladesh is a founding member of nationalism.,True: Bangladesh is a country that is a founding member of nationalism.
+167936,VERIFIABLE,SUPPORTS,Jon Pertwee took part in Worzel Gummidge.,Jon Pertwee was a famous actor.
+22649,VERIFIABLE,SUPPORTS,Lee Child was born on October 29.,Lee Child was born on October 29.
+82056,VERIFIABLE,REFUTES,Tequila is incapable of being made in Mexico.,True: Tequila is a popular drink in Mexico.
+216929,VERIFIABLE,SUPPORTS,Michael Phelps holds three long course world records for swimming.,True: Michael Phelps is a swimmer. False: Michael Phelps is a swimmer.
+150426,VERIFIABLE,REFUTES,Donald Glover never released an album.,Donald Glover has released a number of albums.
+11888,VERIFIABLE,REFUTES,FC Barcelona was ranked second in the IFFHS Club World Ranking for 2015.,False
+224586,VERIFIABLE,SUPPORTS,Courteney Cox appeared on a show created by David Crane and Marta Kauffman.,Courtney Cox was a character in the show. Then explain the show.
+24896,VERIFIABLE,SUPPORTS,Chris Pine appeared in a 2012 American romantic comedy spy film.,True: Chris Pine is a famous actor. False: This is false because there is no evidence of him ever appearing in a film.
+50863,VERIFIABLE,REFUTES,Ratatouille was directed by one person.,True: Ratatouille was directed by a lot of people.
+92830,VERIFIABLE,SUPPORTS,Kurt Angle won a gold medal in freestyle wrestling at the 1995 World Wrestling Championships.,True: Kurt Angle won a gold medal in freestyle wrestling at the 1995 World Wrestling Championships.
+202243,VERIFIABLE,REFUTES,Iron Fist was created by Damon Lindelof.,Iron Fist was created by a famous artist.
+204502,VERIFIABLE,REFUTES,Dangerous Beauty is a 1990 film.,True: The movie was released in 1990.
+97595,VERIFIABLE,SUPPORTS,The Avengers (2012 film) features Chris Evans.,Chris Evans is not in the film.
+219423,VERIFIABLE,REFUTES,Jerry Goldsmith failed to collaborate with anybody during his career.,True: Jerry Goldsmith collaborated with many people.
+68244,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales sponsors The Prince's Charities.",True: The Prince of Wales is a famous singer.
+217718,VERIFIABLE,SUPPORTS,Grizz Chapman was on 30 Rock.,True: 30 Rock was a show that aired on the tv.
+109175,VERIFIABLE,SUPPORTS,Nicki Minaj is a person.,Nicki Minaj is a rapper.
+220314,VERIFIABLE,SUPPORTS,Margaret of Valois was imprisoned.,False: Margaret of Valois was a noblewoman.
+217055,VERIFIABLE,SUPPORTS,The Dayton Agreement was formally signed in Paris in 1995.,The Dayton Agreement was signed in 1995.
+187906,VERIFIABLE,SUPPORTS,"As the World Turns went away and an American talk show debuted on October 18, 2010 in its place.",As the World Turns was a talk show that was cancelled in 2010 and was replaced by a reality show. The answer: False.
+96523,VERIFIABLE,SUPPORTS,Princess Agents is a novel adaptation.,True: Princess Agents is a novel adaptation.
+34108,VERIFIABLE,REFUTES,The Vampire Diaries only aired two seasons.,True: The Vampire Diaries was a very popular show.
+80728,VERIFIABLE,REFUTES,The Ten Commandments is reviewed by Cecil B. DeMille.,True: Cecil B. DeMille is a famous author.
+99416,VERIFIABLE,SUPPORTS,The Bends was released in the 1990's.,The Bends was released in the 1990's.
+109991,VERIFIABLE,REFUTES,Alandi is only a city.,False: The city of Alandi is a country.
+158880,VERIFIABLE,SUPPORTS,A singer in Got a Girl starred in Final Destination 3.,True: Final Destination 3 was a movie about a girl who starred in Got a Girl.
+224546,VERIFIABLE,SUPPORTS,Peggy Sue Got Married was directed by an American director.,True: Peggy Sue Got Married was a movie directed by an American director.
+189389,VERIFIABLE,SUPPORTS,Role Models is a film.,True: Role Models is a film.
+99491,VERIFIABLE,SUPPORTS,Gerald Ford was the United States president after Richard Nixon.,Gerald Ford was the first president of the United States. The second president was Richard Nixon. The third president was Gerald Ford. The fourth president was Richard Nixon.
+224484,VERIFIABLE,SUPPORTS,Will Ferrell worked on a film.,Will Ferrell was a director and not a film producer. The answer: False.
+16333,VERIFIABLE,REFUTES,Marshall McLuhan predicted his own death.,True: McLuhan was a famous physicist. False: False: McLuhan was a famous physicist.
+107175,VERIFIABLE,SUPPORTS,Walt Disney founded a company.,Walt Disney was a famous cartoonist.
+126127,VERIFIABLE,SUPPORTS,Brock Lesnar won against Randy Couture.,Randy Couture is a professional wrestler.
+117933,VERIFIABLE,REFUTES,Guam was employed by America.,False: Guam was not a country.
+209400,VERIFIABLE,SUPPORTS,Sweden is a Scandinavian country.,False: Sweden is a country in Europe.
+103455,VERIFIABLE,SUPPORTS,One of Future's studio albums was published in 2017.,False: Future's studio album was released in 2017.
+115556,VERIFIABLE,SUPPORTS,David Dhawan is a director of films.,True: David Dhawan is a director of films.
+31756,VERIFIABLE,REFUTES,This Sporting Life was directed by a director born in 1919.,This Sporting Life was directed by a director born in the 1950s. The second sentence is False.
+199112,VERIFIABLE,SUPPORTS,"International Relations includes technology and engineering, economics, communication studies, history, international law, demography, philosophy, geography, social work, sociology, anthropology, criminology, psychology, gender studies, cultural studies, culturology, and diplomacy, globalization, diplomatic relations, state sovereignty, international security, ecological sustainability, nuclear proliferation, nationalism, economic development, global finance, as well as terrorism and organized crime, human security, foreign interventionism, and human rights, as well, as, more recently, comparative religion.",True
+176978,VERIFIABLE,SUPPORTS,Underworld's main character is a supernatural creature.,True: Underworld is a fictional character.
+57356,VERIFIABLE,SUPPORTS,Avenged Sevenfold released an album.,True: Avenged Sevenfold is an American band. False: Avenged Sevenfold is a band.
+18732,VERIFIABLE,SUPPORTS,Brock Lesnar defeated someone.,True: Brock Lesnar is a famous football player. False: Brock Lesnar is a famous football player.
+16192,VERIFIABLE,SUPPORTS,Three Days of the Condor includes a Swedish actor.,True: The movie is about a Swedish actor.
+83172,VERIFIABLE,SUPPORTS,Tyra Banks presented America's Got Talent.,True: Tyra Banks is a famous American singer.
+130853,VERIFIABLE,REFUTES,Romelu Lukaku is a golfer.,True: Romelu Lukaku is a professional golfer.
+177219,VERIFIABLE,SUPPORTS,Toy Story is a movie of the buddy comedy adventure genres.,True: Toy Story is a movie that is a buddy comedy.
+95713,VERIFIABLE,REFUTES,Al Capone was not prosecuted for tax evasion.,False
+225111,VERIFIABLE,SUPPORTS,Chet Atkins produced records for Dolly Parton.,Chet Atkins was a singer and songwriter.
+148510,VERIFIABLE,SUPPORTS,Trevor Baxter went to college at Dulwich College.,Trevor Baxter was a famous actor.
+193156,VERIFIABLE,REFUTES,A Song of Ice and Fire is part of an American book series called A Game of Thrones.,True: A Song of Ice and Fire is a book series. False: A Song of Ice and Fire is a movie.
+23451,VERIFIABLE,SUPPORTS,Many voice actors act in Timon & Pumbaa.,True: Timon & Pumbaa is a movie. False: There are many actors in the movie.
+134550,VERIFIABLE,SUPPORTS,Jeff Bridges played a role in an American Revisionist Western film.,Jeff Bridges is a famous actor.
+133516,VERIFIABLE,SUPPORTS,Zach Galifianakis starred in a film.,True: Zach Galifianakis starred in a movie.
+20436,VERIFIABLE,SUPPORTS,Nigeria is one of the countries in the Next Eleven.,True: The next eleven is a series of movies.
+33719,VERIFIABLE,SUPPORTS,Angela Lansbury got significant recognition for her acting performance in The Manchurian Candidate.,True: Angela Lansbury was in The Manchurian Candidate.
+57514,VERIFIABLE,SUPPORTS,Murray was played by Keegan-Michael Key in Hotel Transylvania 2.,Keegan-Michael Key played Murray in Hotel Transylvania 2.
+91689,VERIFIABLE,SUPPORTS,Born Naked is an album.,True: Born Naked is a song by the band.
+181708,VERIFIABLE,SUPPORTS,Rock music incorporated music genres like a type of blues music distinguished by the use of electric amplification for musical instruments known as electric blues.,True: Electric blues is a type of music that uses electric amplification.
+93129,VERIFIABLE,SUPPORTS,Reba McEntire sang on radio shows.,True: Reba McEntire was a singer.
+85395,VERIFIABLE,SUPPORTS,The Constitution of Medina was written by Muhammad.,The Constitution of Medina was written by Muhammad. The second sentence is False.
+209517,VERIFIABLE,SUPPORTS,Sleep can be disrupted by medical conditions.,True: Sleep is a normal part of life.
+113457,VERIFIABLE,SUPPORTS,Frank is by a person.,True: Frank is a fictional character.
+215375,VERIFIABLE,SUPPORTS,A German-American fashion model starred in The Host.,The Host is a television show that stars a German-American fashion model. The answer: False.
+32012,VERIFIABLE,SUPPORTS,Robert Redford guest starred on Perry Mason.,Robert Redford is a famous actor.
+114839,VERIFIABLE,REFUTES,Katie Stevens is Australian.,True: Katie Stevens is an Australian.
+41510,VERIFIABLE,SUPPORTS,Haiti is a member of the World Trade Organization.,False: Haiti is a country that is not a member of the WTO.
+70144,VERIFIABLE,SUPPORTS,Anne Hathaway debuted in the Fox television series Get Real.,True: Anne Hathaway was a popular actress in the show Get Real.
+151146,VERIFIABLE,REFUTES,Twitter has more than one office.,True: Twitter has more than one office.
+92325,VERIFIABLE,SUPPORTS,Venus Williams has won a tournament.,Venus Williams has never won a tournament.
+203423,VERIFIABLE,SUPPORTS,Red is inspired by a comic book series.,Red is a comic book series that was inspired by a comic book series. The answer: False.
+108926,VERIFIABLE,SUPPORTS,J. Cole is a hip hop recording artist.,True: J. Cole is a rapper.
+218621,VERIFIABLE,SUPPORTS,The cast of The Playboy Club includes David Krumholtz.,David Krumholtz is a famous actor.
+72131,VERIFIABLE,SUPPORTS,Portugal maintains a unitary semi-presidential republican form of government which means that the president exists alongside the prime minister and the cabinet and the central government is supreme.,False
+62807,VERIFIABLE,REFUTES,Randy Orton is a squid.,True: Randy Orton is a squid.
+56104,VERIFIABLE,SUPPORTS,Rainn Wilson graduated in the 80s.,True: Rainn Wilson graduated in the 80s.
+16293,VERIFIABLE,SUPPORTS,Zeus is the child of Cronus and Rhea.,True: Zeus is the son of Cronus and Rhea.
+119559,VERIFIABLE,SUPPORTS,Matt Kuchar is a professional golf player.,True: Matt Kuchar is a professional golfer.
+19909,VERIFIABLE,REFUTES,Burundi is only populated by Tutsis.,Tutsis are a group of people who live in Africa.
+210895,VERIFIABLE,SUPPORTS,Foo Fighters was created by a name reported by aircraft pilots.,Foo Fighters was a fictional character created by a fictional character.
+174460,VERIFIABLE,SUPPORTS,Nickelodeon has weekday programs.,Nickelodeon is a show that has a weekday program.
+17148,VERIFIABLE,SUPPORTS,Arrested Development won six Primetime Emmy Awards.,True: Arrested Development won six Emmy Awards.
+84085,VERIFIABLE,SUPPORTS,Jim Carrey has worked with director Don Scardino.,False
+7612,VERIFIABLE,SUPPORTS,Eminem only performs alone.,Eminem is a rapper and not a solo artist. The answer: False.
+19056,VERIFIABLE,SUPPORTS,David Thewlis has performed.,David Thewlis is a famous singer.
+73411,VERIFIABLE,SUPPORTS,"In 1968, Led Zeppelin formed.",True: Led Zeppelin was a rock band.
+4576,VERIFIABLE,SUPPORTS,Dwyane Wade played for Chicago.,True: Dwyane Wade played for the Chicago Bulls.
+138145,VERIFIABLE,SUPPORTS,Champion was based off of a Ring Lardner story.,True: The ring lardner story was based on a book. False: The ring lardner story was based on a movie.
+226777,VERIFIABLE,SUPPORTS,My Bloody Valentine 3D's editor was Patrick Lussier.,True: My Bloody Valentine 3D was edited by Patrick Lussier.
+25133,VERIFIABLE,SUPPORTS,Dwight Schrute was based on Gareth Keenan.,Gareth Keenan was a famous actor.
+202863,VERIFIABLE,SUPPORTS,Beasts of the Southern Wild was nominated for an award.,True: Beasts of the Southern Wild was nominated for an award.
+19740,VERIFIABLE,SUPPORTS,Transformers (film) is based on a toy line created by Hasbro.,True: Hasbro is a toy company.
+76388,VERIFIABLE,SUPPORTS,Laura Prepon portrayed Donna Pinciotti in That '70s Show.,True: Laura Prepon played Donna Pinciotti in That '70s Show.
+71097,VERIFIABLE,REFUTES,Charles Dickens was not English.,True: Charles Dickens was a British writer. False: Charles Dickens was a British writer.
+9715,VERIFIABLE,REFUTES,Michael Fassbender was in the NBC miniseries Band of Brothers.,False: Band of Brothers was a NBC miniseries.
+122128,VERIFIABLE,SUPPORTS,Keeping Up with the Joneses had a budget.,True: Keeping Up with the Joneses had a budget.
+123352,VERIFIABLE,SUPPORTS,RenderMan was developed by Pixar.,True: Pixar was the creator of RenderMan.
+163299,VERIFIABLE,SUPPORTS,The Homesman features at least one American actor.,The Homesman is a comedy series that features an American actor. The first sentence of the sentence is true. The second sentence is false.
+54144,VERIFIABLE,SUPPORTS,Peter Cetera was an artist.,Peter Cetera was a famous artist.
+31116,VERIFIABLE,SUPPORTS,Heartbreak Ridge was filmed in Technicolor.,Technicolor is a color that is not used in film.
+179907,VERIFIABLE,SUPPORTS,Cape Fear features a cameo from Robert Mitchum and it is directed by Martin Scorsese.,False
+174247,VERIFIABLE,SUPPORTS,Oliver Reed was in a movie.,Oliver Reed was in a movie.
+30321,VERIFIABLE,SUPPORTS,Maggie Smith is an actress.,Maggie Smith is an actress.
+57566,VERIFIABLE,SUPPORTS,Jackie Robinson died in the seventies.,True: Jackie Robinson was a famous singer.
+83442,VERIFIABLE,REFUTES,Eric Trump's father's birthday is June 14.,Eric Trump's father's birthday is June 14.
+77263,VERIFIABLE,REFUTES,Ethiopia is a state.,False
+144977,VERIFIABLE,SUPPORTS,"On February 18, 1949, Gary Ridgway was born.","Gary Ridgway was born on February 18, 1949."
+129052,VERIFIABLE,SUPPORTS,Eva Longoria has starred in Harsh Times.,Harsh Times is a magazine that has a star.
+65855,VERIFIABLE,SUPPORTS,Angela Lansbury was born to a family that was upper-middle-class.,True: Angela Lansbury was born to a wealthy upper-middle-class family.
+165325,VERIFIABLE,SUPPORTS,The World Science Festival is produced by the World Science Foundation.,The World Science Festival is a charity event.
+98326,VERIFIABLE,SUPPORTS,XXx: Return of Xander Cage has the writer F. Scott Frazier.,False: XXX: Return of Xander Cage is a book by a writer.
+10627,VERIFIABLE,SUPPORTS,Kid Rock is an artist.,Kid Rock is a rapper.
+15894,VERIFIABLE,SUPPORTS,Hillary Clinton was employed in the Obama administration.,Hillary Clinton was not a politician.
+168732,VERIFIABLE,SUPPORTS,The Ten Commandments (1956 film) is a 1956 American movie.,True: The Ten Commandments is a movie about the Ten Commandments.
+88192,VERIFIABLE,SUPPORTS,Kangana Ranaut was alive.,True: Kangana Ranaut was alive in the year 1897.
+212952,VERIFIABLE,SUPPORTS,Marlon Brando took part in a film adapted from the work of a writer of more than 40 books.,True: Marlon Brando was a writer of more than 40 books. False: Marlon Brando was a director of more than 40 books.
+9431,VERIFIABLE,SUPPORTS,Ringo Starr replaced Pete Best.,Pete Best was the first person to be replaced by Ringo Starr.
+5399,VERIFIABLE,SUPPORTS,Oscar Robertson is American.,Oscar Robertson is an American.
+50103,VERIFIABLE,SUPPORTS,Wyoming is the least populous state in the United States.,The population of Wyoming is the largest in the United States. The answer: False.
+187138,VERIFIABLE,REFUTES,Heartland has no nationality.,Heartland is a country in the United States. The second sentence is False.
+186201,VERIFIABLE,REFUTES,Following was only directed by Martin Scorsese.,True: Following was directed by John Ritter.
+93914,VERIFIABLE,SUPPORTS,Jacinda Barrett is a person.,True: Jacinda Barrett is a fictional character.
+221008,VERIFIABLE,SUPPORTS,Ubisoft created Assassin's Creed.,True: Assassin's Creed was created by Ubisoft.
+207922,VERIFIABLE,SUPPORTS,Edgar Award honors the best in TV.,The Edgar Award is a prestigious award given to the best in television. The answer: False.
+54699,VERIFIABLE,SUPPORTS,Lewis Hamilton is a race car driver.,True: Lewis Hamilton is a professional racing driver.
+80123,VERIFIABLE,SUPPORTS,Girls' Generation features Taeyeon.,Taeyeon is a Korean singer.
+29511,VERIFIABLE,REFUTES,Pirates of the Caribbean is set in a fictional future setting.,False
+170581,VERIFIABLE,REFUTES,Ad-Rock is single.,True: Ad-Rock is a rock band.
+52094,VERIFIABLE,SUPPORTS,Gianluigi Buffon has been named Serie A Goalkeeper of the Year.,False: Gianluigi Buffon is a goalkeeper.
+41702,VERIFIABLE,SUPPORTS,Rhona Mitra writes songs.,True: Rhona Mitra is a singer. False: True: There is no evidence that she wrote songs.
+158225,VERIFIABLE,SUPPORTS,Steven Soderbergh directed a biographical film and received acclaim.,True: Steven Soderbergh directed a biographical film.
+46947,VERIFIABLE,SUPPORTS,Dragon is taken from a linguistic system indigenous to sections of the Eastern Mediterranean.,True: Dragon is a linguistic system that is derived from the Greek language.
+18362,VERIFIABLE,SUPPORTS,"Following a stroke, Lauren Bacall died.",True: Lauren Bacall died after a stroke.
+65095,VERIFIABLE,REFUTES,"Led Zeppelin II was only released in Japan on October 31, 1969.","The album was released in the United States on October 31, 1969."
+214641,VERIFIABLE,SUPPORTS,Brian Helgeland won an award.,Brian Helgeland won an award for his work. The answer: False.
+60966,VERIFIABLE,SUPPORTS,De Profundis was written during an imprisonment.,De Profundis was a novel written during a prison sentence.
+63178,VERIFIABLE,SUPPORTS,Planet of the Apes' director was Franklin J. Schaffner.,False: Franklin J. Schaffner was the director of Planet of the Apes.
+20832,VERIFIABLE,SUPPORTS,Radioactive has won a Grammy.,True: Radioactive has won a Grammy.
+151921,VERIFIABLE,REFUTES,The hero of the Odyssey is Harry Potter.,False: The Odyssey is a fantasy novel.
+135666,VERIFIABLE,SUPPORTS,Houston economy is incapable of having a base in energy.,True: Houston has a strong energy base.
+50340,VERIFIABLE,SUPPORTS,Nice & Slow was released after 1990.,True: Nice & Slow was released in 1990.
+57350,VERIFIABLE,SUPPORTS,Lewis Hamilton is a racecar driver in F1.,True: Lewis Hamilton is a racecar driver in F1.
+151320,VERIFIABLE,REFUTES,Ben Stiller did not direct or star in the film Zoolander.,True: Zoolander was a film that was directed by Ben Stiller.
+137689,VERIFIABLE,SUPPORTS,Nicole Scherzinger made progress towards the eventual creation of a clothing brand.,True: Nicole Scherzinger is a fashion designer.
+51927,VERIFIABLE,REFUTES,Turkey ended accession negotiations with the European Union.,True: Turkey has not yet concluded its accession negotiations with the European Union.
+40760,VERIFIABLE,SUPPORTS,Selena Gomez starred in the 2013 film Spring Breakers.,Spring Breakers is a 2013 film.
+44237,VERIFIABLE,SUPPORTS,One of the leads in Transformers: Age of Extinction is an American rapper.,True: The Transformers: Age of Extinction is a movie about a rapper.
+137593,VERIFIABLE,SUPPORTS,Emilio Estevez acts.,Estevez is a musician and not a singer. The final answer: False.
+196121,VERIFIABLE,REFUTES,The Gheg of southern Austria form the oldest continuous ethnic Albanian diaspora.,True: The Gheg are a group of Albanians.
+64064,VERIFIABLE,SUPPORTS,Mauritius has high political freedom.,True: Mauritius is a country with high political freedom.
+138061,VERIFIABLE,SUPPORTS,Star vs. the Forces of Evil is an American animated series produced by Disney Television Animation.,True: Star vs. the Forces of Evil is a Disney animated series.
+61902,VERIFIABLE,REFUTES,"Before the year 2000, The Ren & Stimpy Show was created.",The Ren & Stimpy Show was created in the year 2000.
+50150,VERIFIABLE,SUPPORTS,Krysten Ritter was on 'Til Death.,True: Kristen Ritter was on 'Til Death'.
+143707,VERIFIABLE,SUPPORTS,The Incredible Hulk is the second episode in a series.,True: The Incredible Hulk is the second episode in a series.
+113848,VERIFIABLE,SUPPORTS,A Perfect Circle was formed in a year.,A Perfect Circle was formed in a year.
+77015,VERIFIABLE,REFUTES,Farrah Fawcett forfeited four additional Golden Globe nominations for her 1980s work in TV movies.,False: Fawcett won four Golden Globe nominations for her 1980s work in TV movies.
+452,VERIFIABLE,REFUTES,Judy Greer has not appeared in multiple films.,True: Judy Greer has appeared in multiple films.
+101780,VERIFIABLE,SUPPORTS,25 was released in November and was successful.,True: 25 was released in November. False: 25 was released in December.
+100474,VERIFIABLE,SUPPORTS,There is an actress name Eliza Dushka.,True: Eliza Dushka is an actress.
+42244,VERIFIABLE,REFUTES,Little Mix is a Ugandan girl group.,False
+62498,VERIFIABLE,SUPPORTS,Zindagi Na Milegi Dobara has a director named Laila.,Laila is the director of the movie.
+117338,VERIFIABLE,REFUTES,Baahubali: The Beginning was released in 2000.,True: The beginning was released in 2000.
+27084,VERIFIABLE,SUPPORTS,Miley Cyrus is in the music industry.,True: Miley Cyrus is a singer.
+98445,VERIFIABLE,REFUTES,Christina Aguilera has avoided the music industry entirely.,False: Christina Aguilera has been a singer for many years.
+144473,VERIFIABLE,SUPPORTS,Bill Gates was a chairman of Microsoft.,Bill Gates was the chairman of Microsoft.
+60958,VERIFIABLE,SUPPORTS,Keanu Reeves played bass guitar for the band Becky in 2001.,True: Keanu Reeves played bass guitar for Becky in 2001.
+148848,VERIFIABLE,SUPPORTS,Gone with the Wind is a long-length fiction work.,True: The book is a short story. False: The book is a novel.
+143721,VERIFIABLE,SUPPORTS,Gold has a distinctive color.,True: Gold is a colorless metal.
+125028,VERIFIABLE,REFUTES,Lodging is done in a car.,False
+221588,VERIFIABLE,SUPPORTS,K-pop Star 2 featured Park Jin-young as a judge.,True: Park Jin-young was a judge in Star 2.
+124275,VERIFIABLE,REFUTES,The Khmer Empire was weak.,True: The Khmer Empire was a powerful empire. False: The Khmer Empire was a powerful empire.
+38625,VERIFIABLE,SUPPORTS,Gwen Stefani received a World Music Award.,Gwen Stefani is a singer and has won many awards. The answer: False.
+65348,VERIFIABLE,REFUTES,Buddy Holly's birth name was Johnny Bravo.,Johnny Bravo was the real name of Buddy Holly.
+32877,VERIFIABLE,SUPPORTS,Liev Schreiber is an American actor.,True: Liev Schreiber is an American actor.
+169476,VERIFIABLE,SUPPORTS,"Oakland, California is a city populated by 419,267 people.","True: Oakland, California is a city with 419,267 people. Then explain the answer."
+147484,VERIFIABLE,SUPPORTS,Alex Rodriguez is an athlete.,Alex Rodriguez is a football player.
+220159,VERIFIABLE,REFUTES,Nazi Germany happened after Hitler's death.,Nazi Germany was a country that was founded after Hitler's death. The answer: False.
+56965,VERIFIABLE,SUPPORTS,Keturah was Abraham's wife.,True: Abraham's wife was Teturah.
+28209,VERIFIABLE,SUPPORTS,Game of Thrones (season 1) featured Scottish stage and television actor Iain Glen.,Iain Glen is a Scottish actor.
+59681,VERIFIABLE,SUPPORTS,Patrick Bateman is the villain protagonist of the game American Psycho.,American Psycho is a video game.
+88972,VERIFIABLE,REFUTES,Jimmy Carter was not a president.,Jimmy Carter was a president and he was a democrat. Then explain the sentence.
+155049,VERIFIABLE,SUPPORTS,Andy Dwyer appears in a series.,True: Andy Dwyer is a character in the series.
+89278,VERIFIABLE,SUPPORTS,Extracorporeal shockwave therapy (ESWT) is unused in cardiology.,True: ESWT is a very effective treatment for heart failure.
+57699,VERIFIABLE,SUPPORTS,Yusuke Murata was the illustrator of an American football manga.,True: Yuzuke Murata was the illustrator of the manga. Then explain the sentence.
+170821,VERIFIABLE,SUPPORTS,There is a director named Fred Savage.,Fred Savage is a director.
+2456,VERIFIABLE,SUPPORTS,Where the Wild Things Are was put out in December.,The movie was released in December.
+111701,VERIFIABLE,REFUTES,Faith Evans works solely as an actress.,Faith Evans is a singer and not an actress. The sentence is false because Faith Evans is a singer.
+216236,VERIFIABLE,SUPPORTS,Hot was by a pop singer from Britain.,Hot was a song by the Beatles.
+88736,VERIFIABLE,REFUTES,Natalie Portman was not in Star Wars.,True: Natalie Portman was in Star Wars.
+203726,VERIFIABLE,SUPPORTS,"Havoc went to the public on November 29, 2005.",False: Havoc was a cult band.
+211345,VERIFIABLE,SUPPORTS,Gabriel Aubry and Halle Berry have a child.,True: Gabriel Aubry and Halle Berry have a child.
+5814,VERIFIABLE,SUPPORTS,Sharon Tate was a model.,True: Sharon Tate was a famous model.
+169111,VERIFIABLE,REFUTES,Nick Kroll has a leading role in the comedy Get Him to the Greek.,True: Nick Kroll is a comedian. False: Nick Kroll is a comedian.
+93655,VERIFIABLE,REFUTES,Inhumans are DC characters.,False: Inhumans are DC characters.
+2320,VERIFIABLE,SUPPORTS,"Cloud Atlas has been described as ""a sort of pointillist mosaic.""",True: Cloud Atlas is a fictional character created by a fictional character.
+218842,VERIFIABLE,REFUTES,Thirteen is based on Nikki Reed's death at age 12 and 13.,True: Nikki Reed died at age 12 and 13.
+2333,VERIFIABLE,REFUTES,Caitlyn Jenner did not change her gender.,True: Caitlyn Jenner was a female. False: False
+15742,VERIFIABLE,SUPPORTS,James Taylor released a compilation album.,James Taylor released a compilation album.
+79238,VERIFIABLE,REFUTES,Slovakia joined in Eurozone in November 2009.,Slovakia is not in the Eurozone.
+202514,VERIFIABLE,SUPPORTS,Little Boy was dropped by Enola Gay.,Enola Gay was a singer and not a drop. Then explain the situation.
+18639,VERIFIABLE,SUPPORTS,Taylor Schilling in the main cast of the series Orange is the New Black.,True: Taylor Schilling is a main cast member of Orange is the New Black.
+185803,VERIFIABLE,SUPPORTS,"Curse, Inc. is used by a game.",True: Curse Inc. is a game.
+192622,VERIFIABLE,SUPPORTS,Huginn is a raven that often travels with Odin.,True: Huginn is a raven. False: This is false because there is no evidence of this being true.
+93374,VERIFIABLE,REFUTES,Iain Glen is only a film actor.,Iain Glen is a famous actor.
+120039,VERIFIABLE,SUPPORTS,The Billboard charts included Just Dance.,True: Just Dance was a song that was not on the Billboard charts.
+2164,VERIFIABLE,SUPPORTS,Mickey Rooney was in a film based on the novel The Black Stallion by Walter Farley.,True: The Black Stallion is a novel by Walter Farley.
+43994,VERIFIABLE,SUPPORTS,Louise Simonson is from America.,Louise Simonson is from Canada.
+101690,VERIFIABLE,SUPPORTS,Nelson Mandela was President of South Africa from 1994 to 1999.,Nelson Mandela was the first president of South Africa. The sentence is false because there is no evidence of this being true.
+136567,VERIFIABLE,REFUTES,Janet Varney is a German.,Jane Varney is a British actress.
+220079,VERIFIABLE,SUPPORTS,Lust for Life is based on a 1934 novel.,True: The novel is based on a movie. False: The movie is based on a movie.
+23852,VERIFIABLE,SUPPORTS,Alex Rodriguez has had a 22-year career.,Alex Rodriguez has had a 22 year career.
+24766,VERIFIABLE,REFUTES,Lee Min-ho is a German singer.,True: Lee Min-ho is a Korean singer.
+5731,VERIFIABLE,SUPPORTS,Destiny's criticism centered mostly around the game's storyline and post-campaign content.,False
+30575,VERIFIABLE,REFUTES,No artists lived in Amsterdam.,Amsterdam is a city that has many artists. The answer: False.
+2589,VERIFIABLE,SUPPORTS,Australia is a country in the Pacific Ocean.,True: Australia is in the Pacific Ocean.
+215954,VERIFIABLE,SUPPORTS,Event management includes decor.,True: Event management includes decor.
+35319,VERIFIABLE,SUPPORTS,The New York Giants play professionally.,The New York Giants are a professional football team.
+96806,VERIFIABLE,REFUTES,Shawn Mendes is represented by a Canadian record label.,True: Shawn Mendes is a Canadian artist.
+159256,VERIFIABLE,REFUTES,The Secret Life of Us failed to ever air anywhere.,The Secret Life of Us was a popular show on the air.
+48391,VERIFIABLE,REFUTES,The Dark Knight is set in Metropolis.,True: The Dark Knight is set in the same universe as Batman.
+166610,VERIFIABLE,REFUTES,Jamie Foxx was incapable of portraying Ray Charles in Ray.,True: Jamie Foxx was a great actor. False: Ray Charles was a great actor.
+133918,VERIFIABLE,SUPPORTS,A cause of anti-nuclear antibodies are are anti-sp100 antibodies.,False
+51690,VERIFIABLE,SUPPORTS,Emmy Rossum had a prominent role in a movie of which Maggie Greenwald was the director.,True: Maggie Greenwald was the director of the movie.
+106817,VERIFIABLE,SUPPORTS,The divine right of kings was brought into action by Henry VIII when he changed the English constitution.,False: Henry VIII changed the English constitution.
+228653,VERIFIABLE,SUPPORTS,"How to Lose Friends & Alienate People stars Simon Pegg, Kirsten Dunst, Danny Huston, Gillian Anderson, Megan Fox and Jeff Bridges, alongside Max Minghella and Margo Stilley.",True
+224984,VERIFIABLE,SUPPORTS,Equidae includes some species known only from fossils.,True: Equidae includes some species known only from fossils.
+87528,VERIFIABLE,REFUTES,Ty Cobb was born in rural Connecticut.,True: Ty Cobb was born in rural Connecticut.
+192294,VERIFIABLE,SUPPORTS,Psychological findings link to research and perspectives from an academic discipline.,True: Psychological findings are a part of the academic discipline.
+172791,VERIFIABLE,SUPPORTS,Felicity Jones was nominated for an Academy Award for Best Actress.,True: Felicity Jones was nominated for an Academy Award for Best Actress.
+113133,VERIFIABLE,SUPPORTS,There is a screenwriter named Jim Rash.,True: Jim Rash is a screenwriter. False: True: There is no evidence that he is a screenwriter.
+90415,VERIFIABLE,SUPPORTS,Paris hosts the French Open.,False: The French Open is a tennis tournament.
+118986,VERIFIABLE,REFUTES,Toy Story is a television show.,True: Toy Story is a television show.
+78768,VERIFIABLE,SUPPORTS,Kalpana Raghavendar is a person who writes songs.,False: Kalpana Raghavendar is a singer.
+20329,VERIFIABLE,SUPPORTS,The Odia language is used to communicate in Chhattisgarh.,True: The Odia language is spoken in Chhattisgarh.
+159898,VERIFIABLE,REFUTES,Melisandre was left out of A Storm of Swords (2000).,False
+58799,VERIFIABLE,SUPPORTS,Queen Latifah has won at least one Screen Actors Guild Award.,Queen Latifah has won at least one Screen Actors Guild Award. The answer: False.
+85630,VERIFIABLE,SUPPORTS,Laadla was released.,Laadla was a popular Punjabi film.
+221455,VERIFIABLE,SUPPORTS,Stars Dance is Selena Gomez's debut album.,False
+165521,VERIFIABLE,SUPPORTS,Ileana D'Cruz starred in a movie.,True: Ileana D'Cruz is a famous actress.
+38835,VERIFIABLE,SUPPORTS,Jet Li was in The Forbidden Kingdom with Jackie Chan.,True: Jet Li was in The Forbidden Kingdom with Jackie Chan.
+167599,VERIFIABLE,REFUTES,Suits stars a dog named Harvey Specter.,True: The character is a dog named Harvey Specter.
+19762,VERIFIABLE,REFUTES,Dr. Dre established his own country.,True: Dr. Dre was a king of the Roman Empire. False: Dr. Dre was a king of the Roman Empire.
+152886,VERIFIABLE,REFUTES,Derrick Rose was not born in the Chicago area.,Derrick Rose was born in Chicago.
+15743,VERIFIABLE,SUPPORTS,Paul Newman was an actor.,Paul Newman was a famous actor.
+58154,VERIFIABLE,REFUTES,Charles I of England was a pauper.,True: Charles I of England was a monarch. False: Charles I of England was a pauper.
+147414,VERIFIABLE,SUPPORTS,SF are the initials used to represent San Francisco.,False
+188671,VERIFIABLE,REFUTES,Billy Clanton was unrelated to Newman Clanton.,Billy Clanton was a close friend of Newman Clanton. The answer: False.
+47008,VERIFIABLE,SUPPORTS,Katherine Heigl appeared in a science fiction television series.,True: She was in a science fiction television series.
+3190,VERIFIABLE,SUPPORTS,Stagira is the birthplace of Plato.,False: Plato was born in the ancient city of Stagira.
+80711,VERIFIABLE,REFUTES,Cara Delevinge did not win the Model of the Year award.,True: Cara Delevinge was nominated for the Model of the Year award.
+187303,VERIFIABLE,REFUTES,"David Harbour was born on June 2nd, 1991.","David Harbour was born on June 2nd, 1991."
+9897,VERIFIABLE,SUPPORTS,"In Burundi, there are 21 registered parties.",True: There are 21 parties in Burundi.
+18847,VERIFIABLE,SUPPORTS,Where the Wild Things Are was released in Australia.,True: Where the Wild Things Are was released in Australia.
+94631,VERIFIABLE,REFUTES,Furious 7 is a TV show.,True: Furious 7 is a TV show.
+128633,VERIFIABLE,SUPPORTS,Sarah Paulson received a Golden Globe Award nomination.,True: Sarah Paulson was nominated for a Golden Globe Award.
+165173,VERIFIABLE,REFUTES,"Caroline, Princess of Hanover is married to anyone but an heir.","True: Caroline, Princess of Hanover is married to anyone but an heir."
+138755,VERIFIABLE,SUPPORTS,Grey's Anatomy is filmed in the United States.,True: Grey's Anatomy is filmed in the United States.
+58718,VERIFIABLE,REFUTES,Nikolaj Coster-Waldau was not in a Danish thriller film.,True: Coster-Waldau was in a Danish thriller film.
+196805,VERIFIABLE,SUPPORTS,Sean Connery won three Golden Globes.,True: Sean Connery won three Golden Globes. False: Sean Connery won three Golden Globes.
+66674,VERIFIABLE,REFUTES,Gujarat is in Western Boston.,Gujarat is in the Northeast.
+100620,VERIFIABLE,SUPPORTS,Cancer is a group of diseases involving abnormal cell proliferation.,True: Cancer is a disease that causes abnormal cell proliferation.
+129893,VERIFIABLE,SUPPORTS,Marion Cotillard portrayed someone.,True: Marion Cotillard was a famous actress.
+214358,VERIFIABLE,REFUTES,Chandni was created in 2001.,The name Chandni is a slang for a slang word.
+43472,VERIFIABLE,REFUTES,Ronald Reagan worked for the president of the United States.,True: Ronald Reagan was a politician. False: Ronald Reagan was a politician.
+87440,VERIFIABLE,SUPPORTS,Kill Bill: Volume 2 is about the Bride continuing her revenge against Bill.,True: Kill Bill: Volume 2 is about Bill's revenge against the Bride.
+227811,VERIFIABLE,SUPPORTS,Music journalism is critical of popular music topics.,False: Music journalism is critical of popular music topics.
+83838,VERIFIABLE,SUPPORTS,Tom Felton is an actor.,False: Tom Felton is an actor.
+69913,VERIFIABLE,SUPPORTS,The Marvel Cinematic Universe's first phase ended.,False: The first phase of the Marvel Cinematic Universe was not over.
+36403,VERIFIABLE,REFUTES,Hulk's coloration has not varied.,False
+145087,VERIFIABLE,REFUTES,Roger Federer avoided tennis entirely.,True: Roger Federer was a great player.
+139066,VERIFIABLE,SUPPORTS,Andy Kaufman was an artist.,Andy Kaufman was a famous artist.
+43572,VERIFIABLE,SUPPORTS,Bruce Springsteen was a Kennedy Center Honors recipient in 2009.,Bruce Springsteen was a member of the Kennedy Center Honors Committee. The sentence is false because Bruce Springsteen was not a member of the Kennedy Center Honors Committee. The sentence is false because Bruce Springsteen was not a member of the Kennedy Center Honors Committee. The sentence is false because Bruce Springs
+115431,VERIFIABLE,REFUTES,Planet of the Apes is a squid.,False: Planet of the Apes is a squid.
+135624,VERIFIABLE,SUPPORTS,Hayden Panettiere is a person.,False: Hayden Panettiere is a character in the film.
+200739,VERIFIABLE,SUPPORTS,A Song of Ice and Fire is by George Raymond Richard Martin.,A Song of Ice and Fire is a novel by a famous author.
+218784,VERIFIABLE,SUPPORTS,Oh Yeon-seo worked in a group.,Yeon-seo was a member of a group.
+17506,VERIFIABLE,SUPPORTS,Mango is the national fruit of the Philippines.,True: Mango is a fruit of the Philippines.
+158375,VERIFIABLE,REFUTES,"George Best has been described as ""the worst player to ever pull on the green shirt of Wales.""",The sentence is false because there is no evidence of this being true. There is no evidence of this being true. The sentence is false because there is no evidence of this being true. The sentence is false because there is no evidence of this being true. The sentence is false because there is no evidence of this being true
+173560,VERIFIABLE,REFUTES,Bring It On (film) had zero involvement from Jesse Bradford.,True: Jesse Bradford played a part in Bring It On.
+120515,VERIFIABLE,SUPPORTS,Roald Dahl writes books.,True: Dahl is a writer. False: Dahl is a cartoonist.
+77425,VERIFIABLE,SUPPORTS,Hypothyroidism can cause mood changes.,True: Hypothyroidism can cause mood changes.
+180085,VERIFIABLE,REFUTES,Jon Watts has only ever been a plumber.,Jon Watts is a famous plumber.
+205933,VERIFIABLE,REFUTES,Cosmopolitan as of 2011 only contains content which includes articles on dogs.,True: Cosmopolitan is a website that includes articles on dogs.
+109774,VERIFIABLE,SUPPORTS,"By area, Nepal is the ninety-third largest country on Earth.",True: Nepal is the largest country in the world.
+42766,VERIFIABLE,REFUTES,Wentworth premiered on Broadway.,The movie was a comedy and not a musical. The sentence is false because it is true.
+78916,VERIFIABLE,SUPPORTS,The Fujitsu iPAD was introduced by Fujitsu in 2002.,True: The Fujitsu iPAD was introduced in 2002.
+27505,VERIFIABLE,SUPPORTS,Cage Warriors is an MMA promotion that held its first event in London.,True: The first event was held in London.
+102894,VERIFIABLE,SUPPORTS,American Horror Story: Hotel is a season of an FX romance serialized radio series.,True: American Horror Story: Hotel is a series of radio serialized radio shows.
+210141,VERIFIABLE,SUPPORTS,Lonesome Dove (miniseries) was nominated for eighteen Emmys in 1989 and won seven.,True: Lonesome Dove was nominated for eighteen Emmys in 1989.
+185469,VERIFIABLE,SUPPORTS,Denial was released in Europe.,Denial was released in the United States.
+194647,VERIFIABLE,SUPPORTS,Avatar: The Last Airbender's antagonist is Aang.,True: Aang is the main antagonist of the last airbender.
+134796,VERIFIABLE,REFUTES,Apple was not founded in 1976.,Apple was founded in 1976.
+56283,VERIFIABLE,SUPPORTS,Conquest of the Planet of the Apes is genre fiction.,True: Conquest of the Planet of the Apes is a fantasy novel. False: Conquest of the Planet of the Apes is a science fiction novel.
+80327,VERIFIABLE,REFUTES,Grace Kelly did not work with Alfred Hitchcock.,True: Grace Kelly worked with Alfred Hitchcock.
+111244,VERIFIABLE,SUPPORTS,Bill Clinton served a term in office.,True: Bill Clinton was a politician. False: Bill Clinton was a politician.
+113548,VERIFIABLE,SUPPORTS,There is an actor name Peter Davison.,Peter Davison is an actor.
+162961,VERIFIABLE,SUPPORTS,Troy Baker was the rhythm guitarist for Tripp Fontaine.,True: Troy Baker was the rhythm guitarist for Tripp Fontaine.
+57,VERIFIABLE,SUPPORTS,Sons of Anarchy premiered on FX.,True: The movie was aired on tv.
+121073,VERIFIABLE,SUPPORTS,Sarah Palin ran for presidency alongside a senator from Arizona.,True: Sarah Palin is a senator from Arizona.
+190435,VERIFIABLE,SUPPORTS,"In 1937, William Hanna worked.",William Hanna was a famous American actor.
+83259,VERIFIABLE,REFUTES,Taylor Kitsch only worked on the 2012 film Savages.,True: Taylor Kitsch worked on the 2012 film Savages.
+166107,VERIFIABLE,SUPPORTS,"Rescue Me ended on September 7, 2011.","True: The rescue me ended on September 7, 2011."
+63298,VERIFIABLE,REFUTES,"In Azerbaijan, according to polls, 53% of the population state that religion has importance in their lives.",True: Religion is not important in Azerbaijan.
+122729,VERIFIABLE,SUPPORTS,Payton Manning signed with the Broncos following his release from the Colts in 2012.,True: Manning was released from the Colts in 2012.
+149965,VERIFIABLE,SUPPORTS,Christopher Lee portrayed Francisco Scaramanga in the film The Man with the Golden Gun.,Christopher Lee was not a character in The Man with the Golden Gun. The answer: False.
+58460,VERIFIABLE,REFUTES,The Muppet Christmas Carol is a television show.,True: The Muppet Christmas Carol is a television show.
+141637,VERIFIABLE,REFUTES,Superior Donuts is a noir film.,True: Superior Donuts is a true story.
+188949,VERIFIABLE,REFUTES,Usain Bolt is incapable of competing in sports.,True: Usain Bolt is a professional athlete. False: False
+112400,VERIFIABLE,SUPPORTS,Mark Zuckerberg was named Person of the Year by Time magazine in May 2010.,True: Mark Zuckerberg was not named Person of the Year.
+141628,VERIFIABLE,SUPPORTS,Lana Del Rey's music has been regarded for its penchant for ideas of tragic romance.,True: Lana Del Rey is a singer. False: This is false because there is no evidence of this being true.
+20649,VERIFIABLE,SUPPORTS,Dirt was produced by ABC studios.,True: Dirt was produced by ABC studios.
+67173,VERIFIABLE,SUPPORTS,Beauty and the Beast was directed by Bill Condon in 2017.,Bill Condon is the director of Beauty and the Beast. The second sentence is false because there is no evidence that Condon is the director of Beauty and the Beast. The third sentence is false because there is no evidence that Condon is the director of Beauty and the Beast.
+27703,VERIFIABLE,SUPPORTS,Peyton Manning is the son of an NFL quarterback.,Peyton Manning is the son of a quarterback.
+205869,VERIFIABLE,SUPPORTS,Song Sung Blue is a work of music.,True: Song Sung Blue is a work of music.
+62142,VERIFIABLE,SUPPORTS,Purple Haze was released as a single for a record.,Purple Haze was a single and not a record. The answer: False.
+214424,VERIFIABLE,REFUTES,Bruce Lee was only a professional martial artist and unable to act.,Bruce Lee was a professional martial artist and he was able to act. Then explain the sentence.
+50092,VERIFIABLE,SUPPORTS,Land Rover makes the Range Rover Evoque.,True: The Range Rover Evoque is a Land Rover.
+142616,VERIFIABLE,SUPPORTS,Gilmore Girls is a show.,True: Gilmore Girls is a show that is a reality show.
+49273,VERIFIABLE,SUPPORTS,2001: A Space Odyssey was distributed by Metro-Goldwyn-Mayer and gained much fame.,True: 2001: A Space Odyssey was distributed by Metro-Goldwyn-Mayer.
+111281,VERIFIABLE,SUPPORTS,Eva Longoria is a performer.,Eva Longoria is a singer.
+4321,VERIFIABLE,SUPPORTS,Texas Longhorns men's basketball took part in the NCAA Final Four three times total.,True: The Longhorns won the NCAA Final Four three times.
+81827,VERIFIABLE,REFUTES,Ajay Devgn is an actor in the Canadian film industry.,True: Ajay Devgn is a Canadian actor.
+170714,VERIFIABLE,SUPPORTS,Diana is a solo album by Diana Ross.,True: Diana is a solo album by Diana Ross.
+228274,VERIFIABLE,SUPPORTS,The Silence of the Lambs was a film.,True: The Silence of the Lambs was a film.
+102592,VERIFIABLE,REFUTES,Megan Fox ended her acting career in 2001.,True: Megan Fox was a very popular actress.
+206796,VERIFIABLE,REFUTES,Nick Nolte turned down the role he was offered in Tropic Thunder.,Nick Nolte was offered a role in Tropic Thunder. The answer: False.
+166699,VERIFIABLE,SUPPORTS,Ryuk (Death Note) is from a manga series that later became an anime.,True: Death Note is a manga series.
+15872,VERIFIABLE,SUPPORTS,Lee Min-ho won Best New Actor award.,True: Lee Min-ho won the Best New Actor award.
+18453,VERIFIABLE,SUPPORTS,Leslie Howard was a producer.,Leslie Howard was a producer.
+132701,VERIFIABLE,SUPPORTS,New York City features Columbia University.,Columbia University is a public university in New York City.
+6763,VERIFIABLE,SUPPORTS,John Wayne Gacy Jr. was a serial killer.,True: John Wayne Gacy Jr. was a serial killer.
+104785,VERIFIABLE,REFUTES,It was announced that Black Panther would be developed by Marvel Studios in 1928.,False: Black Panther was not developed by Marvel Studios.
+83556,VERIFIABLE,SUPPORTS,Joseph Stalin's birth took place before 1917.,True: Joseph Stalin was born in 1921.
+98301,VERIFIABLE,SUPPORTS,Heather Watson's competitor for the WTA singles title was Chang Kai-Chen.,True: Heather Watson was a competitor for the WTA singles title.
+209730,VERIFIABLE,SUPPORTS,Friends with Benefits features actors.,True: Friends with Benefits is a comedy. False: Friends with Benefits is a drama.
+28225,VERIFIABLE,REFUTES,The Sopranos had seven seasons.,True: The Sopranos had seven seasons.
+26237,VERIFIABLE,SUPPORTS,England became the first industrialized nation.,The industrialized nation was a country that was a country that was a country that was a country that was a country that was a country that was a country that was a country that was a country that was a country that was a country that was a country that
+175063,VERIFIABLE,REFUTES,Anna Paquin was unable to perform the role of Flora McGrath.,True: Anna Paquin was able to perform the role of Flora McGrath.
+170920,VERIFIABLE,REFUTES,The Matrix Revolutions was directed by Steven Spielberg.,Steven Spielberg directed the film The Matrix Revolutions.
+77343,VERIFIABLE,SUPPORTS,Bob Kane and Jerry Robinson claim responsibility for the Joker's design.,True: Bob Kane and Jerry Robinson are not responsible for the Joker's design. False: Bob Kane and Jerry Robinson are not responsible for the Joker's design.
+116589,VERIFIABLE,REFUTES,Robert Wagner wrote his autobiography by himself.,True: Wagner wrote his autobiography by himself. False: Wagner wrote his autobiography by himself.
+64342,VERIFIABLE,SUPPORTS,Angelina Jolie was in Salt.,Salt is a place where people live.
+166193,VERIFIABLE,REFUTES,Dangerous Liaisons is exclusively a drama film.,True: The movie is a drama and not a drama. The second sentence is true: The movie is a comedy.
+128217,VERIFIABLE,SUPPORTS,Michael Jackson was acquitted of allegations.,True: Michael Jackson was acquitted of all charges.
+192352,VERIFIABLE,REFUTES,Courtney Love refused to appear in Man on the Moon (1999).,True: Courtney Love was in Man on the Moon.
+67461,VERIFIABLE,REFUTES,Taiwan did not change from a one-party military dictatorship to a multi-party democracy in the 1980s and early 1990s.,True: Taiwan was a military dictatorship in the 1980s and early 1990s.
+224094,VERIFIABLE,SUPPORTS,Battle Studies World Tour was a tour by a singer from the United States.,False
+138297,VERIFIABLE,SUPPORTS,There is a film called The Breakfast Club.,True: The Breakfast Club is a movie.
+198480,VERIFIABLE,REFUTES,Stephen Rider turned down the opportunity to work in the series Lucky 7.,True: Stephen Rider was a character in Lucky 7.
+44509,VERIFIABLE,SUPPORTS,Sade is a female artist famous for her music and acting.,True: Sade is a female artist.
+204479,VERIFIABLE,SUPPORTS,Dangerous Beauty was directed by someone.,True: Dangerous Beauty was directed by someone else.
+79097,VERIFIABLE,SUPPORTS,October was the month in which Edgar Allan Poe died.,True: Edgar Allan Poe died in October.
+74594,VERIFIABLE,SUPPORTS,Roger Penrose was a co-recipient of the 1988 Wolf Prize for physics along with Stephen Hawking.,Roger Penrose was a co-recipient of the Wolf Prize for Physics in 1988. The sentence is false because there is no proof of this. The sentence is true because there is no proof of this. The sentence is false because there is no proof of this. The sentence is false because there is no
+81438,VERIFIABLE,REFUTES,Muhammad did not migrate from Mecca to Medina.,True: Muhammad was a Muslim. False: The sentence is false because there is no evidence of this.
+464,VERIFIABLE,SUPPORTS,Anne Hathaway had a role.,Anne Hathaway was a famous actress.
+111681,VERIFIABLE,SUPPORTS,Margot Kidder appeared on the children's television series R.L. Stine's The Haunting Hour.,True: Margot Kidder was a character in R.L. Stine's The Haunting Hour.
+30979,VERIFIABLE,SUPPORTS,Elephants have been featured in places.,Elephants are a mythical animal.
+164598,VERIFIABLE,REFUTES,Three Men and a Baby is a baby food store.,Three Men and a Baby is a baby food store.
+89292,VERIFIABLE,SUPPORTS,Tyra Banks was the first African American woman in the centerfold of GQ.,True: The GQ was a show about black women.
+113021,VERIFIABLE,SUPPORTS,Lydia Hearst is a lifestyle blogger and model.,True: Lydia Hearst is a blogger and model.
+116074,VERIFIABLE,SUPPORTS,KJ Apa was cast as a character in Riverdale in 2016.,True: KJ Apa is a character in Riverdale. False: True: KJ Apa is a character in Riverdale.
+127513,VERIFIABLE,REFUTES,Canada is an island.,False: Canada is a country in the United States.
+80656,VERIFIABLE,SUPPORTS,Napoleon's campaigns are studied at schools.,True: Napoleon's campaigns were not studied at schools.
+211906,VERIFIABLE,REFUTES,A loss of supply only has nothing to do with prime ministers.,Prime ministers are the most powerful in the world.
+117579,VERIFIABLE,REFUTES,Ringo Starr has been featured in textbooks.,True: Ringo Starr is a fictional character.
+9700,VERIFIABLE,SUPPORTS,Ivan Lendl has finished four years ranked as the world's top tennis player.,True: Ivan Lendl is a tennis player.
+5226,VERIFIABLE,SUPPORTS,Indonesia's wilderness supports a variety of life.,True: Indonesia's wilderness is a natural habitat for many species of animals.
+54132,VERIFIABLE,SUPPORTS,Joan Collins was in Sunburn.,Sunburn is a medical condition that can be caused by a burn. The second sentence is true because there is no evidence that Joan Collins was in sunburn.
+7920,VERIFIABLE,SUPPORTS,The Belko Experiment is an American horror film.,True: The Belko Experiment is a horror film.
+225509,VERIFIABLE,SUPPORTS,The 84th Academy Awards' winners included Beginners.,The 84th Academy Awards was a box office success.
+126642,VERIFIABLE,SUPPORTS,Michael Keaton was nominated for an Academy Award for Best Actor.,True: Michael Keaton was nominated for an Academy Award for Best Actor.
+117550,VERIFIABLE,SUPPORTS,Newcastle United F.C. is well-known around the world.,False: Newcastle United F.C. is a football club.
+65365,VERIFIABLE,REFUTES,Randy Orton has been unable to move his entire life.,True: Randy Orton has been unable to move his entire life.
+85720,VERIFIABLE,SUPPORTS,Adderall contains a levoamphetamine component along with a dextroamphetamine component.,True: Adderall is a drug that has a levoamphetamine component.
+1318,VERIFIABLE,SUPPORTS,Novak Djokovic was born in 1987.,True: Novak Djokovic was born in 1987.
+218857,VERIFIABLE,SUPPORTS,The life of the writer of Thirteen is the basis for the story.,True: Thirteen is a story about a young writer. False: Thirteen is a story about a young writer.
+204213,VERIFIABLE,SUPPORTS,Gwen Stefani's band released an album in 1995.,False: Gwen Stefani's band released an album in 1995.
+27424,VERIFIABLE,SUPPORTS,Spain is in Europe.,True: Spain is in the USA.
+162085,VERIFIABLE,SUPPORTS,War of the Worlds is a film that is categorized as science fiction.,True: War of the Worlds is a science fiction film.
+138175,VERIFIABLE,SUPPORTS,Mark Hamill is an American writer.,True: Mark Hamill is an American writer. False: Mark Hamill is a British writer.
+32278,VERIFIABLE,REFUTES,Thor: The Dark World was released in October 2013 in the United States.,False
+177289,VERIFIABLE,SUPPORTS,Felicity Jones was in a work directed by James Marsh.,James Marsh directed the film Felicity Jones.
+41919,VERIFIABLE,REFUTES,O. J. Simpson died before football was invented.,O. J. Simpson died in the early 20th century.
+217865,VERIFIABLE,SUPPORTS,Ryan Phillippe and Reese Witherspoon married each other.,True: Reese Witherspoon is a famous actress.
+184651,VERIFIABLE,SUPPORTS,Augusto Pinochet died in 2006.,Augusto Pinochet was born in 1939.
+10936,VERIFIABLE,REFUTES,My Sweet Lord is by The Temptations.,The Temptations are a group of people who are agnostic.
+155549,VERIFIABLE,SUPPORTS,Michael Keaton will play the role of a supervillain.,True: Michael Keaton is a famous actor. False: Michael Keaton is a famous actor.
+57108,VERIFIABLE,SUPPORTS,Moana is a work in the medium of animation.,True: Moana is a work in the medium of animation.
+39734,VERIFIABLE,SUPPORTS,Salman Khan had a role in an action drama.,True: Salman Khan played in a movie. False: Salman Khan played in a movie.
+158852,VERIFIABLE,SUPPORTS,Mel Gibson took a hiatus from directing.,False: Mel Gibson is a director.
+200498,VERIFIABLE,SUPPORTS,"The Twilight series's is a young adult vampire romance series, the first book of which is called Twilight.",True: The Twilight series is a young adult vampire romance series.
+59018,VERIFIABLE,SUPPORTS,Larry Junstrom is a bassist in a rock band.,True: Larry Junstrom is a bassist in a rock band.
+6545,VERIFIABLE,SUPPORTS,Emily Blunt starred in The Huntsman: Winter's War.,Emily Blunt is not a starring in The Huntsman: Winter's War. The final answer: False.
+23935,VERIFIABLE,SUPPORTS,The Ten Commandments is an epic movie.,True: The Ten Commandments is a movie that is not a movie.
+139413,VERIFIABLE,SUPPORTS,Demi Lovato is an LGBT community advocate.,Demi Lovato is an LGBT activist.
+206854,VERIFIABLE,SUPPORTS,Ayutthaya was friendly towards foreigners.,True: Ayutthaya was a savage warrior. False: Ayutthaya was a savage warrior.
+34712,VERIFIABLE,SUPPORTS,O. J. Simpson was an actor.,O. J. Simpson was a famous American actor. Then explain the sentence.
+105782,VERIFIABLE,SUPPORTS,March was the month Jennifer Grey was born on.,True: Jennifer Grey was born in March.
+185636,VERIFIABLE,SUPPORTS,Ben Whishaw was in Perfume: The Store of a Murderer.,True: Perfume: The Store of a Murderer is a movie about a murderer.
+56737,VERIFIABLE,REFUTES,Arrow is available on DVD only in region 3.,True: Arrow is available on DVD only in region 3
+221865,VERIFIABLE,SUPPORTS,The Narrows is a film from America.,True: The Narrows is a film from the United States.
+84138,VERIFIABLE,SUPPORTS,The Academy Honorary Award was put in place in 1948.,The Academy Honorary Award was created in 1948.
+125495,VERIFIABLE,SUPPORTS,Caitlyn Jenner changed her gender from male to female.,True: Caitlyn Jenner changed her gender from male to female.
+55235,VERIFIABLE,SUPPORTS,Travis Barker collaborated with others.,True: Travis Barker collaborated with others.
+172575,VERIFIABLE,SUPPORTS,Judith Quiney was the daughter of a man.,False: Judith Quiney was the daughter of a woman.
+115514,VERIFIABLE,REFUTES,Sam Worthington was born in 1876.,Sam Worthington was born in 1876.
+116674,VERIFIABLE,SUPPORTS,Ron Perlman was born in 1950 as Ronald N. Perlman.,Ronald Perlman was born in 1950.
+156426,VERIFIABLE,SUPPORTS,The United States used nuclear weapons in warfare.,False: The United States used nuclear weapons in warfare.
+29929,VERIFIABLE,SUPPORTS,Henry V is a 2012 British film.,True: Henry V is a 2012 British film.
+229277,VERIFIABLE,SUPPORTS,Joseph is the middle name of Neal Schon.,Neal Schon is a famous singer.
+56562,VERIFIABLE,SUPPORTS,Chris Evans (actor) worked on Before We Go.,True: Before We Go was a movie that Chris Evans worked on.

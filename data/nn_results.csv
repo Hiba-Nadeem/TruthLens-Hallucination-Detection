@@ -1,0 +1,2 @@
+model,epochs,best_val_epoch,best_val_f1,final_train_f1,final_val_f1,test_accuracy,test_precision_hallucinated,test_recall_hallucinated,test_f1_hallucinated,generalization_gap_train_minus_val_f1
+Neural Network MLP,120,58,0.8457,0.8963,0.8151,0.7751,0.7213,0.7992,0.7582,0.0812

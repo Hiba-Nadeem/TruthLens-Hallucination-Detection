@@ -1,0 +1,6 @@
+run,model,input_file,total_rows,binary_rows,excluded_rows,coverage,llm_hallucination_rate,system_flag_rate,accuracy,precision,recall,f1
+scored_claims,scored_claims,scored_claims.csv,1000,290,710,0.29,0.3897,0.5207,0.7931,0.6755,0.9027,0.7727
+scored_claims_googleflan-t5-base,google/flan-t5-base,scored_claims_googleflan-t5-base.csv,1000,302,698,0.302,0.3974,0.5132,0.7914,0.6839,0.8833,0.7709
+scored_claims_googleflan-t5-small,google/flan-t5-small,scored_claims_googleflan-t5-small.csv,1000,236,764,0.236,0.4831,0.4746,0.7627,0.7589,0.7456,0.7522
+scored_claims_declare-lab-flan-alpaca-base,declare-lab/flan-alpaca-base,scored_claims_declare-lab-flan-alpaca-base.csv,1000,447,553,0.447,0.387,0.4586,0.7808,0.6829,0.8092,0.7407
+scored_claims_Qwen2.5-0.5B-Instruct,Qwen/Qwen2.5-0.5B-Instruct,scored_claims_Qwen2.5-0.5B-Instruct.csv,1000,287,713,0.287,0.5645,0.3763,0.7561,0.9259,0.6173,0.7407

@@ -1,0 +1,5 @@
+model,accuracy,precision_hallucinated,recall_hallucinated,f1_hallucinated,f1_not_hallucinated,f1_macro
+google/flan-t5-small,0.812,0.7818,0.8113,0.7963,0.8254,0.8108
+declare-lab/flan-alpaca-base,0.809,0.7656,0.6806,0.7206,0.855,0.7878
+Qwen/Qwen2.5-0.5B-Instruct,0.8,0.7959,0.9176,0.8525,0.6897,0.7711
+google/flan-t5-base,0.75,0.6744,0.5918,0.6304,0.8111,0.7208

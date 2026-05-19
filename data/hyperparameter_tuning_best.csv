@@ -1,0 +1,4 @@
+model,best_config,validation_accuracy,validation_precision_hallucinated,validation_recall_hallucinated,validation_f1_hallucinated,validation_f1_macro,test_accuracy,test_precision_hallucinated,test_recall_hallucinated,test_f1_hallucinated,test_f1_macro
+Gradient Boosting,"n_estimators=150, learning_rate=0.03, max_depth=3",0.8625,0.869,0.8468,0.8578,0.8623,0.816,0.7893,0.7954,0.7923,0.8136
+Logistic Regression,"C=1.0, class_weight=None",0.8063,0.791,0.8213,0.8058,0.8062,0.7905,0.7345,0.8224,0.776,0.7896
+Random Forest,"n_estimators=100, max_depth=None, min_samples_leaf=5, class_weight=None",0.8708,0.8811,0.8511,0.8658,0.8707,0.7922,0.7645,0.7645,0.7645,0.7893

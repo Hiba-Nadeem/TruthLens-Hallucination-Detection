@@ -1,0 +1,1001 @@
+id,verifiable,label,claim,llm_answer,llm_model
+75397,VERIFIABLE,SUPPORTS,Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.,False,google/flan-t5-small
+150448,VERIFIABLE,SUPPORTS,Roman Atwood is a content creator.,True or False,google/flan-t5-small
+214861,VERIFIABLE,SUPPORTS,"History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.",False,google/flan-t5-small
+156709,VERIFIABLE,REFUTES,Adrienne Bailon is an accountant.,True or False,google/flan-t5-small
+129629,VERIFIABLE,SUPPORTS,Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.,True or False,google/flan-t5-small
+33078,VERIFIABLE,SUPPORTS,The Boston Celtics play their home games at TD Garden.,False,google/flan-t5-small
+6744,VERIFIABLE,SUPPORTS,The Ten Commandments is an epic film.,True or False,google/flan-t5-small
+226034,VERIFIABLE,SUPPORTS,Tetris has sold millions of physical copies.,True or False,google/flan-t5-small
+40190,VERIFIABLE,SUPPORTS,Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.,True,google/flan-t5-small
+76253,VERIFIABLE,SUPPORTS,There is a movie called The Hunger Games.,True or False,google/flan-t5-small
+188923,VERIFIABLE,SUPPORTS,Ryan Gosling has been to a country in Africa.,True,google/flan-t5-small
+138503,VERIFIABLE,REFUTES,"Stranger Things is set in Bloomington, Indiana.",True,google/flan-t5-small
+129983,VERIFIABLE,SUPPORTS,Ryan Seacrest is a person.,True or False,google/flan-t5-small
+73170,VERIFIABLE,REFUTES,Puerto Rico is not an unincorporated territory of the United States.,False,google/flan-t5-small
+179616,VERIFIABLE,SUPPORTS,Michael Giacchino composed the score for Doctor Strange.,True,google/flan-t5-small
+207456,VERIFIABLE,SUPPORTS,Stranger than Fiction is a film.,True or False,google/flan-t5-small
+3,VERIFIABLE,SUPPORTS,Chris Hemsworth appeared in A Perfect Getaway.,True or False,google/flan-t5-small
+93956,VERIFIABLE,SUPPORTS,Selena recorded music.,False,google/flan-t5-small
+53133,VERIFIABLE,SUPPORTS,"Robert J. O'Neill was born April 10, 1976.",True,google/flan-t5-small
+228271,VERIFIABLE,SUPPORTS,The Silence of the Lambs was a film starring Scott Glenn.,True or False,google/flan-t5-small
+15812,VERIFIABLE,REFUTES,Peggy Sue Got Married is a Egyptian film released in 1986.,True or False,google/flan-t5-small
+57330,VERIFIABLE,REFUTES,Andy Roddick lost 5 Master Series between 2002 and 2010.,True,google/flan-t5-small
+52432,VERIFIABLE,REFUTES,"As the Vietnam War raged in 1969, Yoko Ono and her husband John Lennon did not have two week-long Bed-Ins for Peace.",True,google/flan-t5-small
+214706,VERIFIABLE,SUPPORTS,Tupac Shakur was born Lesane Parish Crooks.,False,google/flan-t5-small
+172270,VERIFIABLE,SUPPORTS,"The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.",True,google/flan-t5-small
+64557,VERIFIABLE,SUPPORTS,Slovenia uses the euro.,False,google/flan-t5-small
+200996,VERIFIABLE,SUPPORTS,Iowa is a part of the Midwestern United States.,False,google/flan-t5-small
+206132,VERIFIABLE,SUPPORTS,Saratoga is an American film from 1937.,True,google/flan-t5-small
+215831,VERIFIABLE,SUPPORTS,J. Howard Marshall was a baby.,True or False,google/flan-t5-small
+180769,VERIFIABLE,REFUTES,Grace Jones is a dancer.,True or False,google/flan-t5-small
+170685,VERIFIABLE,SUPPORTS,Lisbon has a population larger than 1.,False,google/flan-t5-small
+111602,VERIFIABLE,REFUTES,Willie Nelson dropped out of college after three years.,False,google/flan-t5-small
+119264,VERIFIABLE,SUPPORTS,Malcolm Young was the co-founder of Australian hard rock band AC/DC.,True,google/flan-t5-small
+77712,VERIFIABLE,SUPPORTS,Newfoundland and Labrador is the most linguistically homogeneous of Canada.,False,google/flan-t5-small
+184132,VERIFIABLE,REFUTES,Furia is adapted from a short story by Anna Politkovskaya.,False,google/flan-t5-small
+74400,VERIFIABLE,SUPPORTS,One state of the United States has Russia to its west.,False,google/flan-t5-small
+91253,VERIFIABLE,SUPPORTS,Sophie Turner was born in the 1990s.,False,google/flan-t5-small
+53316,VERIFIABLE,SUPPORTS,Mother Teresa was made a saint by the church.,True or False,google/flan-t5-small
+189815,VERIFIABLE,SUPPORTS,The Smurfs (film) was released.,False,google/flan-t5-small
+110847,VERIFIABLE,REFUTES,C. S. Forester's first name was Carl.,True,google/flan-t5-small
+36776,VERIFIABLE,REFUTES,Kong: Skull Island is a book.,True or False,google/flan-t5-small
+137323,VERIFIABLE,REFUTES,The Challenge was a scripted show.,True or False,google/flan-t5-small
+113118,VERIFIABLE,SUPPORTS,Berlin is the capital of Germany.,False,google/flan-t5-small
+225701,VERIFIABLE,SUPPORTS,South Korea has a highly educated workforce.,False,google/flan-t5-small
+162606,VERIFIABLE,SUPPORTS,"Hacksaw Ridge came out in America on November 4, 2016.",True,google/flan-t5-small
+47549,VERIFIABLE,SUPPORTS,Michael Fassbender is an actor.,True,google/flan-t5-small
+32126,VERIFIABLE,REFUTES,Red Headed Stranger is a movie.,True or False,google/flan-t5-small
+44422,VERIFIABLE,SUPPORTS,Paul Bettany has played Vision in at least two works.,True or False,google/flan-t5-small
+33767,VERIFIABLE,SUPPORTS,Scotland's Hebrides is widespread and diverse with many islands.,False,google/flan-t5-small
+79578,VERIFIABLE,SUPPORTS,Uzbekistan is a part of the Commonwealth of Independent States (CIS).,False,google/flan-t5-small
+158370,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales is patron of numerous other organizations.",True or False,google/flan-t5-small
+30865,VERIFIABLE,REFUTES,Chester Bennington is not a singer.,True or False,google/flan-t5-small
+46639,VERIFIABLE,SUPPORTS,Vincent Cassel played Jacques Mesrine in at least two films.,True,google/flan-t5-small
+120501,VERIFIABLE,SUPPORTS,Pope John Paul II co-stars many actors besides Christopher Lee.,False,google/flan-t5-small
+170078,VERIFIABLE,REFUTES,David Beckham has zero middle names.,True,google/flan-t5-small
+143348,VERIFIABLE,REFUTES,Indiana Jones has only been portrayed by Harrison Ford.,True or False,google/flan-t5-small
+156207,VERIFIABLE,SUPPORTS,Brian Wilson was part of the Beach Boys.,False,google/flan-t5-small
+99976,VERIFIABLE,SUPPORTS,The Great Gatsby centers on a youthful person with over a million dollars.,True or False,google/flan-t5-small
+93444,VERIFIABLE,REFUTES,Shane Black and Chris Miller wrote Iron Man 3.,True or False,google/flan-t5-small
+181753,VERIFIABLE,REFUTES,"La La Anthony was conceived on June 25th, 1979.",False,google/flan-t5-small
+155975,VERIFIABLE,SUPPORTS,Led Zeppelin is a band.,True or False,google/flan-t5-small
+210782,VERIFIABLE,SUPPORTS,"Richard Harris was born on October 25, 2002.",True,google/flan-t5-small
+23042,VERIFIABLE,SUPPORTS,The Fosters is a television series.,True or False,google/flan-t5-small
+214059,VERIFIABLE,SUPPORTS,Blair is Jonathan Hensleigh's middle name.,False,google/flan-t5-small
+86378,VERIFIABLE,REFUTES,Filmfare is about cheese.,False,google/flan-t5-small
+140101,VERIFIABLE,REFUTES,Buckingham Palace lacks brightly colored scagliola.,False,google/flan-t5-small
+213821,VERIFIABLE,SUPPORTS,Sarah Paulson makes an appearance in What Women Want.,True or False,google/flan-t5-small
+187282,VERIFIABLE,SUPPORTS,David Harbour is an American.,False,google/flan-t5-small
+193992,VERIFIABLE,SUPPORTS,The terrain of Kazakhstan includes taiga.,True or False,google/flan-t5-small
+132873,VERIFIABLE,REFUTES,"José María Chacón surrendered the island of Trinidad in 1797, one year before his death.",True,google/flan-t5-small
+15711,VERIFIABLE,SUPPORTS,Liverpool F.C. was valued at $1.55 billion at one point.,False,google/flan-t5-small
+104690,VERIFIABLE,SUPPORTS,Land Rover makes cars.,True or False,google/flan-t5-small
+48320,VERIFIABLE,SUPPORTS,Sully is a form of media.,False,google/flan-t5-small
+80232,VERIFIABLE,SUPPORTS,Stanley Tucci performed in an television series.,True or False,google/flan-t5-small
+60225,VERIFIABLE,REFUTES,Brock Lesnar married Randy Couture.,True or False,google/flan-t5-small
+50619,VERIFIABLE,SUPPORTS,The Khmer Empire was not weak.,True or False,google/flan-t5-small
+172885,VERIFIABLE,SUPPORTS,On the Road (film) premiered at a film festival.,True or False,google/flan-t5-small
+89016,VERIFIABLE,SUPPORTS,Paramore's co-founders left the band in March 2010.,False,google/flan-t5-small
+147532,VERIFIABLE,SUPPORTS,Peter Davison has been in a BBC show.,True or False,google/flan-t5-small
+116614,VERIFIABLE,REFUTES,"21 Jump Street was released June 16, 2012.",True,google/flan-t5-small
+209444,VERIFIABLE,SUPPORTS,"The collections of the Philadelphia Museum of Art contain over 240,000 objects.",False,google/flan-t5-small
+135416,VERIFIABLE,SUPPORTS,Dustin Hoffman is an award-winning actor.,True,google/flan-t5-small
+219066,VERIFIABLE,SUPPORTS,T. J. Miller was featured in Deadpool 2.,True,google/flan-t5-small
+145636,VERIFIABLE,REFUTES,Stephon Marbury plays basketball in America.,False,google/flan-t5-small
+135345,VERIFIABLE,SUPPORTS,CP affects people.,True,google/flan-t5-small
+58943,VERIFIABLE,SUPPORTS,Alfred Hitchcock is a person.,True or False,google/flan-t5-small
+168445,VERIFIABLE,REFUTES,Julius Caesar is only a book.,True or False means that the book is not a book. The answer: False.,google/flan-t5-small
+228933,VERIFIABLE,SUPPORTS,Pulp Fiction is directed by a male.,True or False is a false statement that is true.,google/flan-t5-small
+69880,VERIFIABLE,REFUTES,Absolute Beginners was directed by Hitchcock.,True,google/flan-t5-small
+161033,VERIFIABLE,SUPPORTS,No Reservations got a mixed reception from critics.,False,google/flan-t5-small
+144047,VERIFIABLE,SUPPORTS,Claire Danes is wedded to an actor from England.,True,google/flan-t5-small
+166161,VERIFIABLE,REFUTES,Dangerous Liaisons is based on Christopher Hampton's novel.,True or False,google/flan-t5-small
+10265,VERIFIABLE,SUPPORTS,The Academy Awards are an annual event.,False,google/flan-t5-small
+187935,VERIFIABLE,SUPPORTS,Hubert Humphrey became the DFL candidate for mayor of a city.,True,google/flan-t5-small
+139841,VERIFIABLE,SUPPORTS,Alex Rodriguez has 666 home runs.,False,google/flan-t5-small
+221791,VERIFIABLE,SUPPORTS,Friendship has been studied in academic fields.,True or False,google/flan-t5-small
+52846,VERIFIABLE,SUPPORTS,Judd Apatow is a person who writes.,True or False means that the sentence is true or false. The answer: False.,google/flan-t5-small
+189135,VERIFIABLE,REFUTES,Massachusetts is far away from Rhode Island.,False,google/flan-t5-small
+37693,VERIFIABLE,REFUTES,Giancarlo Stanton was in the 2017 MLB draft.,False,google/flan-t5-small
+17202,VERIFIABLE,SUPPORTS,Chris Pine appeared in Wonder Woman (2017 film).,True or False,google/flan-t5-small
+41961,VERIFIABLE,SUPPORTS,Trevor Noah hosts a news satire show.,False,google/flan-t5-small
+197680,VERIFIABLE,SUPPORTS,Lucas starred an actor that died on March 10.,False,google/flan-t5-small
+95895,VERIFIABLE,REFUTES,Ryan Phillippe refused to perform in the soap opera One Life to Live.,False,google/flan-t5-small
+50297,VERIFIABLE,REFUTES,Sean Connery never won an Academy Award.,False,google/flan-t5-small
+70483,VERIFIABLE,REFUTES,Venom has since become less of an antihero.,True or False,google/flan-t5-small
+59356,VERIFIABLE,SUPPORTS,"Overwatch is a video game in which players gain cosmetic awards and it assigns players into two teams of six, each player with a style of play known as Offense, Defense, Tank, and Support.",True,google/flan-t5-small
+28643,VERIFIABLE,SUPPORTS,Lily James has been on TV.,True or False,google/flan-t5-small
+31799,VERIFIABLE,SUPPORTS,Jing Tian date of birth is in July.,False,google/flan-t5-small
+63338,VERIFIABLE,REFUTES,Jennifer Aniston's parents are Fred and Wilma Flintstone.,False,google/flan-t5-small
+92202,VERIFIABLE,SUPPORTS,The Peloponnesian War was won by Sparta.,False,google/flan-t5-small
+3994,VERIFIABLE,SUPPORTS,Isis had a temple at Behbeit El Hagar.,False,google/flan-t5-small
+199009,VERIFIABLE,REFUTES,International Relations only includes the entertainment industry.,False,google/flan-t5-small
+180425,VERIFIABLE,SUPPORTS,Régine Chassagne is Canadian.,True,google/flan-t5-small
+52407,VERIFIABLE,SUPPORTS,John McCain works in politics.,True or False,google/flan-t5-small
+23894,VERIFIABLE,SUPPORTS,Farrah Fawcett received an Emmy Award nomination for her role as a battered wife in the 1984 film The Burning Bed.,False,google/flan-t5-small
+216564,VERIFIABLE,SUPPORTS,"The Who's first single was ""My Generation"".",True or False,google/flan-t5-small
+6981,VERIFIABLE,SUPPORTS,Planet of the Apes (1968 film) had a script that underwent rewrites.,True or False,google/flan-t5-small
+141101,VERIFIABLE,SUPPORTS,Star vs. the Forces of Evil is a series.,True or False,google/flan-t5-small
+126769,VERIFIABLE,SUPPORTS,Galaxy Quest is a movie that is American.,True or False,google/flan-t5-small
+209732,VERIFIABLE,SUPPORTS,Friends with Benefits features actors.,True or False,google/flan-t5-small
+216673,VERIFIABLE,REFUTES,Glenn Close won the Tony Award for Best Actress in a Play in 1984.,True,google/flan-t5-small
+35201,VERIFIABLE,SUPPORTS,Zooey Deschanel performed.,False,google/flan-t5-small
+27974,VERIFIABLE,SUPPORTS,Seven Days in May stars an American.,True or False,google/flan-t5-small
+184921,VERIFIABLE,SUPPORTS,Winnipeg is home to several sports teams.,False,google/flan-t5-small
+65112,VERIFIABLE,SUPPORTS,Mark Zuckerberg co-founded a website.,True or False,google/flan-t5-small
+149028,VERIFIABLE,REFUTES,Rick and Morty was renewed for a fourth season in 2014.,True,google/flan-t5-small
+48769,VERIFIABLE,SUPPORTS,Paul Walker acted in movies.,True or False,google/flan-t5-small
+148416,VERIFIABLE,SUPPORTS,Clint Eastwood was nominated for an award.,True,google/flan-t5-small
+214181,VERIFIABLE,SUPPORTS,Shonen Jump is published in a continent.,True or False,google/flan-t5-small
+141491,VERIFIABLE,REFUTES,Gilmore Girls is a Canadian show.,True or False,google/flan-t5-small
+175034,VERIFIABLE,SUPPORTS,"Honest sold 53,000 units in a week.",True or False,google/flan-t5-small
+101384,VERIFIABLE,SUPPORTS,"Since July 2012, Pranab Mukherjee has been in office.",True,google/flan-t5-small
+82987,VERIFIABLE,SUPPORTS,"Anonymous represents 4chan users simultaneously existing as an anarchic, digitized global brain.",True,google/flan-t5-small
+10558,VERIFIABLE,SUPPORTS,San Francisco is in California.,False,google/flan-t5-small
+171243,VERIFIABLE,REFUTES,Laadla is exclusively an American film.,True or False,google/flan-t5-small
+45795,VERIFIABLE,SUPPORTS,Lily Collins wrote for a U.S magazine that targets teen girls.,True or False,google/flan-t5-small
+67257,VERIFIABLE,SUPPORTS,Bangladesh has been affected by poverty.,True,google/flan-t5-small
+141252,VERIFIABLE,SUPPORTS,Lisa Lopes was a founding member of TLC.,True,google/flan-t5-small
+38289,VERIFIABLE,SUPPORTS,The Formula (1980 film) was directed by an American.,True,google/flan-t5-small
+1802,VERIFIABLE,SUPPORTS,Janet Jackson's third album was released in February 1986.,True or False,google/flan-t5-small
+8812,VERIFIABLE,SUPPORTS,Transformers: The Last Knight's cast includes Tyrese Gibson.,False,google/flan-t5-small
+70910,VERIFIABLE,SUPPORTS,There are two television series Morena Baccarin was part of.,True,google/flan-t5-small
+40402,VERIFIABLE,SUPPORTS,Naturi Naughton was born in the year of 1984.,False,google/flan-t5-small
+68907,VERIFIABLE,REFUTES,Paul Pogba has won four nonconsecutive Serie A titles.,False,google/flan-t5-small
+182998,VERIFIABLE,SUPPORTS,Mel Gibson's name is Mel Colmcille Gerard Gibson.,True,google/flan-t5-small
+176029,VERIFIABLE,SUPPORTS,WALL-E is a Golden Globe Award winner.,True or False,google/flan-t5-small
+37094,VERIFIABLE,SUPPORTS,Generation X has no precise date for its cohort.,False,google/flan-t5-small
+105167,VERIFIABLE,REFUTES,Islam is incapable of being a religion.,True or False,google/flan-t5-small
+33545,VERIFIABLE,SUPPORTS,Jackie Chan has released an album.,True or False,google/flan-t5-small
+82718,VERIFIABLE,SUPPORTS,"Estimates of the number of species on Earth today vary widely, and most of those species have not been described.",False,google/flan-t5-small
+150146,VERIFIABLE,SUPPORTS,Larry Junstrom is an American citizen.,True,google/flan-t5-small
+12113,VERIFIABLE,SUPPORTS,Canada possesses a constitution.,True or False,google/flan-t5-small
+177898,VERIFIABLE,SUPPORTS,Sophie Turner acted in The Thirteenth Tale.,True or False,google/flan-t5-small
+128113,VERIFIABLE,SUPPORTS,The Renaissance is known for its cultural developments.,True or False,google/flan-t5-small
+78505,VERIFIABLE,REFUTES,Pluto is not relatively small.,False,google/flan-t5-small
+144042,VERIFIABLE,SUPPORTS,"Steve Buscemi has appeared in many films by the Coen Brothers, such as Fargo.",True,google/flan-t5-small
+92012,VERIFIABLE,REFUTES,Tyler Joseph is an ex-member of Twenty One Pilots.,True or False,google/flan-t5-small
+85270,VERIFIABLE,SUPPORTS,Selena Gomez has more followers than anyone else in the world.,False,google/flan-t5-small
+209021,VERIFIABLE,REFUTES,Big Boi is only a member of Norwegian metal bands.,True or False,google/flan-t5-small
+197828,VERIFIABLE,SUPPORTS,Priyanka Chopra was born in the 1900's.,True,google/flan-t5-small
+189673,VERIFIABLE,SUPPORTS,Chris Pérez is a songwriter.,False is a false statement .,google/flan-t5-small
+219627,VERIFIABLE,SUPPORTS,"On March 27, 1963, Quentin Tarantino was born.",False,google/flan-t5-small
+188483,VERIFIABLE,SUPPORTS,Tate Ellington appeared in Quantico.,True,google/flan-t5-small
+62041,VERIFIABLE,SUPPORTS,Mr. Sunshine is from the Northern Hemisphere.,True or False,google/flan-t5-small
+112500,VERIFIABLE,REFUTES,Dolly Parton isn't an actress.,True or False,google/flan-t5-small
+144895,VERIFIABLE,REFUTES,The Amanda Show was the first female-created show on Nickelodeon.,True,google/flan-t5-small
+216082,VERIFIABLE,REFUTES,The 19th G7 summit only included Russia.,False,google/flan-t5-small
+54826,VERIFIABLE,SUPPORTS,Ethiopia has bodies of water can be described as rivers.,False,google/flan-t5-small
+150253,VERIFIABLE,REFUTES,Ted Kaczynski grew up in Texas.,True,google/flan-t5-small
+90874,VERIFIABLE,SUPPORTS,Keith Urban has put out no fewer than nine studio records.,True,google/flan-t5-small
+208197,VERIFIABLE,SUPPORTS,Eminem has an album.,True or False,google/flan-t5-small
+54387,VERIFIABLE,REFUTES,The Connaught Tunnel was lined only with mud and sand.,False,google/flan-t5-small
+18912,VERIFIABLE,REFUTES,Jennifer Aniston is not a businesswoman.,True or False,google/flan-t5-small
+163426,VERIFIABLE,REFUTES,Ilkhanate only contained Haiti.,False,google/flan-t5-small
+160755,VERIFIABLE,REFUTES,Homeland is based on the classic BBC series Til Death Do Us Part.,True or False,google/flan-t5-small
+11401,VERIFIABLE,REFUTES,True Blood is a science-fiction television series.,True Blood is a science fiction television series that is based on science fiction. The answer: True.,google/flan-t5-small
+198630,VERIFIABLE,SUPPORTS,Jordan Knight is the lead singer of a band.,True or False,google/flan-t5-small
+21434,VERIFIABLE,SUPPORTS,Adam Driver has had supporting roles.,True or False,google/flan-t5-small
+119271,VERIFIABLE,SUPPORTS,Thor: The Dark World is a movie.,True or False,google/flan-t5-small
+9386,VERIFIABLE,SUPPORTS,Loki is the male sibling of Helblindi and Byleistr.,True,google/flan-t5-small
+191073,VERIFIABLE,SUPPORTS,Vincent van Gogh is from Amsterdam.,True,google/flan-t5-small
+92275,VERIFIABLE,SUPPORTS,Chester Bennington is a person.,True or False,google/flan-t5-small
+32763,VERIFIABLE,REFUTES,Inspectah Deck is stateless.,False,google/flan-t5-small
+213397,VERIFIABLE,SUPPORTS,Tender Mercies is a drama from America.,True or False,google/flan-t5-small
+31766,VERIFIABLE,SUPPORTS,Cristiano Ronaldo was a professional athlete.,False,google/flan-t5-small
+4795,VERIFIABLE,SUPPORTS,Paul Simon is a person.,False,google/flan-t5-small
+208044,VERIFIABLE,SUPPORTS,Baby Driver starred Eiza González.,True,google/flan-t5-small
+16033,VERIFIABLE,SUPPORTS,David Dhawan is a film director.,True or False,google/flan-t5-small
+23970,VERIFIABLE,SUPPORTS,The Challenge was a reality game show.,True or False,google/flan-t5-small
+10018,VERIFIABLE,SUPPORTS,Rumi's influence transcends ethnic divisions.,True,google/flan-t5-small
+75961,VERIFIABLE,SUPPORTS,Swedish Empire was ruled by Gustavus Adolphus from 1611 to 1632.,False,google/flan-t5-small
+47506,VERIFIABLE,SUPPORTS,"Her was given a wide release on January 10, 2014.",False,google/flan-t5-small
+54185,VERIFIABLE,SUPPORTS,Las Vegas's population has grown.,False,google/flan-t5-small
+23942,VERIFIABLE,SUPPORTS,One type of spread is Vegemite.,True or False,google/flan-t5-small
+199457,VERIFIABLE,SUPPORTS,The Divergent film series was worked on by Octavia Spencer.,False,google/flan-t5-small
+210563,VERIFIABLE,SUPPORTS,Ramayanam was produced by M. S. Reddy and directed by Gunasekhar.,True,google/flan-t5-small
+18737,VERIFIABLE,SUPPORTS,Man of Steel features the DC Comics character Superman.,True or False,google/flan-t5-small
+79475,VERIFIABLE,SUPPORTS,Leukemia has to do with a lack of normal blood cells.,True or False,google/flan-t5-small
+128431,VERIFIABLE,REFUTES,Judy Garland did not appear in a courtroom drama film.,True or False,google/flan-t5-small
+197933,VERIFIABLE,SUPPORTS,Until Dawn is a game.,True or False,google/flan-t5-small
+157402,VERIFIABLE,SUPPORTS,Timothy Olyphant was born.,True or False,google/flan-t5-small
+3722,VERIFIABLE,SUPPORTS,Telangana contains the city Warangal.,True,google/flan-t5-small
+81011,VERIFIABLE,SUPPORTS,Bonnie Hunt narrated Cheaper by the Dozen.,True or False,google/flan-t5-small
+93115,VERIFIABLE,SUPPORTS,The Levant was ruled by the House of Lusignan.,True or False,google/flan-t5-small
+59005,VERIFIABLE,SUPPORTS,The Ten Commandments influence multiple religions.,True or False,google/flan-t5-small
+191908,VERIFIABLE,SUPPORTS,"The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.",True,google/flan-t5-small
+71392,VERIFIABLE,SUPPORTS,Ariana Grande's second album debuted at number one in the United States when it was released in 2014.,True or False,google/flan-t5-small
+10213,VERIFIABLE,SUPPORTS,Ted Bundy committed assaults in the seventies.,True or False,google/flan-t5-small
+15798,VERIFIABLE,REFUTES,Chinese people only can be associated with Spain through nationality.,False,google/flan-t5-small
+17474,VERIFIABLE,SUPPORTS,Schindler's List was released in 1993.,False,google/flan-t5-small
+26724,VERIFIABLE,REFUTES,Zeus is an angel.,True or False,google/flan-t5-small
+188166,VERIFIABLE,SUPPORTS,Escape from Planet Earth is an American film.,True or False,google/flan-t5-small
+67094,VERIFIABLE,SUPPORTS,Venus Williams has won multiple Wimbledons.,True,google/flan-t5-small
+217904,VERIFIABLE,SUPPORTS,Quentin Tarantino directed a creative work.,True or False,google/flan-t5-small
+29151,VERIFIABLE,REFUTES,The Beatles had Stuart Sutcliffe initially serve as their agent.,False,google/flan-t5-small
+174928,VERIFIABLE,REFUTES,50 First Dates has no comedic elements.,True,google/flan-t5-small
+9601,VERIFIABLE,SUPPORTS,A Nightmare on Elm Street was directed by Craven.,True,google/flan-t5-small
+107772,VERIFIABLE,SUPPORTS,Charlize Theron acted in The Burning Plain.,True,google/flan-t5-small
+198918,VERIFIABLE,SUPPORTS,International Relations includes communication.,False,google/flan-t5-small
+45182,VERIFIABLE,SUPPORTS,Jemaine Clement refuses to have anything to do with comedy.,True or False,google/flan-t5-small
+188934,VERIFIABLE,SUPPORTS,Usain Bolt has competed in a sprint race in track and field in world competitions.,False,google/flan-t5-small
+76318,VERIFIABLE,REFUTES,The main successor to the internet was the ARPANET.,True,google/flan-t5-small
+175319,VERIFIABLE,SUPPORTS,Sarrainodu is an action movie.,True,google/flan-t5-small
+78009,VERIFIABLE,SUPPORTS,"Jawbreaker (film) stars an Italian-born American actress, film producer, director and singer.",True,google/flan-t5-small
+54225,VERIFIABLE,SUPPORTS,Kurt Sutter is the creator of Sons of Anarchy.,True or False,google/flan-t5-small
+181784,VERIFIABLE,SUPPORTS,La La Anthony has a middle name.,True or False,google/flan-t5-small
+141524,VERIFIABLE,SUPPORTS,Lisa Marie Presley is an American singer.,True,google/flan-t5-small
+54642,VERIFIABLE,REFUTES,Kingdom Hearts III is owned by Boyz II Men.,True or False,google/flan-t5-small
+79801,VERIFIABLE,SUPPORTS,Keanu Reeves is a film actor.,True or False,google/flan-t5-small
+4224,VERIFIABLE,SUPPORTS,Dwayne Johnson won the WWF Intercontinental Championship twice.,True,google/flan-t5-small
+187142,VERIFIABLE,SUPPORTS,Heartland is a canadian TV series.,True or False,google/flan-t5-small
+83763,VERIFIABLE,SUPPORTS,"By the metrics of the RIAA, The Beatles have sold more than any recording artist in America.",False,google/flan-t5-small
+135246,VERIFIABLE,SUPPORTS,The national tree of Bangladesh is the mango.,True,google/flan-t5-small
+67105,VERIFIABLE,SUPPORTS,"There are two major contemporary political parties, and William Jennings Bryan belongs to one of them.",True or False,google/flan-t5-small
+216028,VERIFIABLE,SUPPORTS,Iris Murdoch was a writer.,False is a false statement .,google/flan-t5-small
+157805,VERIFIABLE,SUPPORTS,David Koepp is a director.,True or False,google/flan-t5-small
+1800,VERIFIABLE,SUPPORTS,"A block is also called a ""swat.""",False,google/flan-t5-small
+127279,VERIFIABLE,SUPPORTS,Paul Pogba made it to the 2015 UEFA Champions League Final with the Juventus team.,False,google/flan-t5-small
+181956,VERIFIABLE,REFUTES,Leroy Jethro Gibbs is a character on the NFL series NCIS.,True,google/flan-t5-small
+105289,VERIFIABLE,SUPPORTS,Leslie Howard was an actor.,True or False,google/flan-t5-small
+67108,VERIFIABLE,SUPPORTS,Catching Fire is written.,True or False means that the sentence is true.,google/flan-t5-small
+194613,VERIFIABLE,SUPPORTS,Avatar: The Last Airbender aired on Nickelodeon.,True,google/flan-t5-small
+183275,VERIFIABLE,SUPPORTS,Harry Hopman's widow has attended Hopman Cup.,True,google/flan-t5-small
+191405,VERIFIABLE,SUPPORTS,Frank Zappa's debut was Freak Out!,False,google/flan-t5-small
+70835,VERIFIABLE,REFUTES,Ruth Negga only acts in Irish cinema.,False,google/flan-t5-small
+214939,VERIFIABLE,REFUTES,George VI was succeeded by Mary I.,True or False,google/flan-t5-small
+192295,VERIFIABLE,SUPPORTS,Psychological findings link to research and perspectives from an academic discipline.,False,google/flan-t5-small
+226700,VERIFIABLE,SUPPORTS,The Beach Boys was an American rock band.,True or False,google/flan-t5-small
+147947,VERIFIABLE,SUPPORTS,Billy Bob Thornton directed a movie.,True or False,google/flan-t5-small
+19023,VERIFIABLE,SUPPORTS,"The Ren & Stimpy Show premiered on August 11, 1991.",True,google/flan-t5-small
+224612,VERIFIABLE,REFUTES,Courteney Cox has always refused to play Gale Weathers.,False,google/flan-t5-small
+201305,VERIFIABLE,SUPPORTS,Ronin is a film.,True or False,google/flan-t5-small
+160383,VERIFIABLE,SUPPORTS,Abraham Lincoln had at least one rival.,True,google/flan-t5-small
+170789,VERIFIABLE,SUPPORTS,There is a producer named Fred Savage.,False,google/flan-t5-small
+6854,VERIFIABLE,SUPPORTS,Al Capone had neurosyphilis.,False,google/flan-t5-small
+77244,VERIFIABLE,SUPPORTS,Boston is located in the state of Massachusetts on the Shawmut Peninsula.,False,google/flan-t5-small
+111448,VERIFIABLE,SUPPORTS,Interstellar is a narrative in a visual medium.,True or False,google/flan-t5-small
+207829,VERIFIABLE,REFUTES,Britney Spears titled her fourth studio album Britney.,True or False,google/flan-t5-small
+13320,VERIFIABLE,SUPPORTS,Mike Tyson boxed.,True or False,google/flan-t5-small
+122919,VERIFIABLE,REFUTES,The Hermetic Order of the Golden Dawn was uninterested in the study of the occult.,False,google/flan-t5-small
+213337,VERIFIABLE,REFUTES,Ellen Burstyn has yet to be nominated for the Emmy Awards.,True,google/flan-t5-small
+58284,VERIFIABLE,SUPPORTS,Princess Agents is a series on television.,True or False,google/flan-t5-small
+101147,VERIFIABLE,SUPPORTS,Gwen Stefani works as a singer.,False,google/flan-t5-small
+95918,VERIFIABLE,SUPPORTS,James Marsden worked with a director.,True or False,google/flan-t5-small
+223143,VERIFIABLE,SUPPORTS,Carrie Fisher died of cardiac arrest.,True or False,google/flan-t5-small
+92592,VERIFIABLE,SUPPORTS,Ice hockey has competitions.,False,google/flan-t5-small
+113124,VERIFIABLE,REFUTES,The Fifth Element was the lowest-grossing French film in the international box office until 2011.,False,google/flan-t5-small
+148951,VERIFIABLE,REFUTES,The Hunger Games is the first in Lord of the Rings series.,True or False,google/flan-t5-small
+144665,VERIFIABLE,REFUTES,"Audi used to have the pet ""Truth in Engineering.""",False,google/flan-t5-small
+208563,VERIFIABLE,SUPPORTS,Java contains more than half of the population of Indonesia.,False,google/flan-t5-small
+19665,VERIFIABLE,SUPPORTS,Urilla Sutherland Earp was the first spouse of Wyatt Earp.,False,google/flan-t5-small
+209148,VERIFIABLE,SUPPORTS,Brave is a 2010s film.,True or False,google/flan-t5-small
+214662,VERIFIABLE,SUPPORTS,Winter Passing had mixed reviews in 2005.,True,google/flan-t5-small
+205197,VERIFIABLE,REFUTES,Audrey Horne was introduced in anything except a series that premiered on Sunday.,False,google/flan-t5-small
+109722,VERIFIABLE,SUPPORTS,Line of Duty is a TV series.,True or False,google/flan-t5-small
+217062,VERIFIABLE,REFUTES,The Dayton Agreement was signed in April.,False,google/flan-t5-small
+172369,VERIFIABLE,SUPPORTS,The National Security Agency is tasked with the processing of data for counterintelligence purposes.,False,google/flan-t5-small
+7732,VERIFIABLE,SUPPORTS,Gold is resistant to all acids except aqua regia.,False,google/flan-t5-small
+71558,VERIFIABLE,SUPPORTS,There is a geologic period that spans 43 million years called Paleogene.,False,google/flan-t5-small
+31338,VERIFIABLE,SUPPORTS,Cher has sold more than 100 million music records worldwide.,True or False,google/flan-t5-small
+76034,VERIFIABLE,SUPPORTS,Bernard Madoff got the sentence.,True,google/flan-t5-small
+92637,VERIFIABLE,SUPPORTS,Donkey is a fast-talking donkey.,True or False,google/flan-t5-small
+135541,VERIFIABLE,SUPPORTS,O. J. Simpson received a criminal charge for armed robbery.,True or False,google/flan-t5-small
+63041,VERIFIABLE,SUPPORTS,Ketogenic diet has protein.,True or False,google/flan-t5-small
+122043,VERIFIABLE,REFUTES,Dennis Quaid refused to ever be an actor.,False,google/flan-t5-small
+37246,VERIFIABLE,SUPPORTS,The United States was the first country to develop nuclear weapons.,False,google/flan-t5-small
+20560,VERIFIABLE,REFUTES,Thandie Newton is incapable of appearing in British films.,False,google/flan-t5-small
+162141,VERIFIABLE,SUPPORTS,Reese Witherspoon's breakthrough role was in a film.,False,google/flan-t5-small
+159742,VERIFIABLE,REFUTES,Jenni Rivera was only nominated for an award presented annually by American network Univision.,True,google/flan-t5-small
+122490,VERIFIABLE,SUPPORTS,Curly Top was released.,True or False,google/flan-t5-small
+96045,VERIFIABLE,REFUTES,Edgar Allan Poe was a horse.,True or False,google/flan-t5-small
+47251,VERIFIABLE,SUPPORTS,Danny DeVito received an Academy Award nomination.,True,google/flan-t5-small
+164574,VERIFIABLE,SUPPORTS,PageRank was named after someone.,False,google/flan-t5-small
+115977,VERIFIABLE,SUPPORTS,Morena Baccarin received a nomination.,True or False,google/flan-t5-small
+33501,VERIFIABLE,SUPPORTS,Jeffrey Dahmer committed murders in Wisconsin.,True,google/flan-t5-small
+94908,VERIFIABLE,REFUTES,Naomi Scott played Darth Maul in Lemonade Mouth.,True,google/flan-t5-small
+85869,VERIFIABLE,SUPPORTS,The Minnesota Vikings is a National Football League team.,True or False,google/flan-t5-small
+162284,VERIFIABLE,SUPPORTS,L.A. Law is a television series that categorizes as a legal drama.,True or False,google/flan-t5-small
+26776,VERIFIABLE,SUPPORTS,Paradise was released in 2012.,False,google/flan-t5-small
+151885,VERIFIABLE,SUPPORTS,Dirt was produced by ABC studios and Coquette Productions.,True,google/flan-t5-small
+28748,VERIFIABLE,REFUTES,Arsenic and Old Lace had its release delayed by 3 months.,False,google/flan-t5-small
+43629,VERIFIABLE,SUPPORTS,The Belko Experiment is an American horror film released in 2016.,True or False,google/flan-t5-small
+82273,VERIFIABLE,REFUTES,Psychology has been disqualified from being a social science.,False,google/flan-t5-small
+25202,VERIFIABLE,REFUTES,Apple was founded in 1979.,False,google/flan-t5-small
+132999,VERIFIABLE,SUPPORTS,Moscow is a city in Russia.,False,google/flan-t5-small
+212522,VERIFIABLE,SUPPORTS,The term cult film was first used in the 1970s.,True or False,google/flan-t5-small
+36742,VERIFIABLE,SUPPORTS,The September 11 attacks caused at least $10 billion in property damage.,False,google/flan-t5-small
+217573,VERIFIABLE,SUPPORTS,The second longest of Shakespeare's plays after Hamlet is Richard III.,False,google/flan-t5-small
+8711,VERIFIABLE,SUPPORTS,"Kathy Bates was born on June 28, 1948.",True,google/flan-t5-small
+206540,VERIFIABLE,SUPPORTS,Joseph Barbera was an American director.,True,google/flan-t5-small
+113668,VERIFIABLE,REFUTES,Penny Dreadful started in 2017.,True,google/flan-t5-small
+141654,VERIFIABLE,SUPPORTS,There is a video game called Overwatch (video game).,True or False,google/flan-t5-small
+23575,VERIFIABLE,SUPPORTS,The Lion King was released before 2000.,False,google/flan-t5-small
+162455,VERIFIABLE,REFUTES,Before We Go was previously titled Fury.,False,google/flan-t5-small
+58743,VERIFIABLE,SUPPORTS,Stevie Nicks released an album that reached platinum status.,True or False,google/flan-t5-small
+77381,VERIFIABLE,SUPPORTS,Overwatch's playable characters are categorized into four groups.,True or False,google/flan-t5-small
+108798,VERIFIABLE,REFUTES,Andrew Wood died in 1977.,False,google/flan-t5-small
+2172,VERIFIABLE,SUPPORTS,James McAvoy starred in Children of Dune.,True or False,google/flan-t5-small
+85239,VERIFIABLE,REFUTES,John Constantine is a real person.,True or False,google/flan-t5-small
+127797,VERIFIABLE,SUPPORTS,The Portuguese Empire was one of world history's largest empires.,False,google/flan-t5-small
+188536,VERIFIABLE,SUPPORTS,Eddie Vedder is a performer.,True or False,google/flan-t5-small
+146437,VERIFIABLE,REFUTES,"Kenny Rogers released the album, Kenny in 2005.",True or False,google/flan-t5-small
+81435,VERIFIABLE,SUPPORTS,Larry Buttrose wrote Cafe Royale.,True or False,google/flan-t5-small
+169552,VERIFIABLE,SUPPORTS,Elementary stars Lucy Liu.,True,google/flan-t5-small
+151581,VERIFIABLE,SUPPORTS,Farrah Fawcett acted in the romantic comedy Love is a Funny Thing.,True or False,google/flan-t5-small
+130116,VERIFIABLE,REFUTES,X-Men: Days of Future Past is based on the DC Batman comics.,True or False,google/flan-t5-small
+3219,VERIFIABLE,SUPPORTS,San Junipero is from Britain.,False,google/flan-t5-small
+138918,VERIFIABLE,REFUTES,Alex Rodriguez never hit a home run.,False,google/flan-t5-small
+147890,VERIFIABLE,REFUTES,John F. Kennedy ran against Andrew Jackson in the 1960 presidential election.,False,google/flan-t5-small
+226368,VERIFIABLE,REFUTES,Gift of the Night Fury only stars the voices of actors and actresses born in October.,True or False,google/flan-t5-small
+55494,VERIFIABLE,REFUTES,Schindler's List was not awarded The Academy Award for Best Picture.,False,google/flan-t5-small
+93229,VERIFIABLE,SUPPORTS,Juana la virgen is a telenovela written by Perla Farias.,True or False,google/flan-t5-small
+114319,VERIFIABLE,SUPPORTS,The Champ stars an American.,True or False,google/flan-t5-small
+213458,VERIFIABLE,SUPPORTS,Monarch of the Glen is a drama from Britain.,True or False,google/flan-t5-small
+144301,VERIFIABLE,SUPPORTS,Robert Redford is a film director.,True or False,google/flan-t5-small
+202873,VERIFIABLE,SUPPORTS,Best Director was a nomination Beasts of the Southern Wild received.,True or False,google/flan-t5-small
+60291,VERIFIABLE,SUPPORTS,The Los Angeles Lakers hold the NBA record for longest winning streak.,True or False,google/flan-t5-small
+88496,VERIFIABLE,SUPPORTS,The Philippines is industrial.,True or False,google/flan-t5-small
+83786,VERIFIABLE,SUPPORTS,Joe Manganiello has appeared in a movie.,True or False,google/flan-t5-small
+81339,VERIFIABLE,SUPPORTS,Veronika Decides to Die is authored by Roberta Hanley.,True,google/flan-t5-small
+99152,VERIFIABLE,SUPPORTS,Sully is a Tom Hanks movie.,True or False,google/flan-t5-small
+107555,VERIFIABLE,REFUTES,Walter Matthau is incapable of winning anything.,False,google/flan-t5-small
+157338,VERIFIABLE,SUPPORTS,Lisa Kudrow appeared on Showtime.,True,google/flan-t5-small
+190817,VERIFIABLE,SUPPORTS,Myles Kennedy has released albums.,False,google/flan-t5-small
+66030,VERIFIABLE,SUPPORTS,Jane Fonda worked with Lily Tomlin in a show.,True or False,google/flan-t5-small
+145452,VERIFIABLE,REFUTES,"Imagine Dragons was named the ""Breakthrough Band of 2014.""",False,google/flan-t5-small
+187984,VERIFIABLE,SUPPORTS,Mike Love co-founded a band.,True or False means that the band is not a band. The answer: False.,google/flan-t5-small
+10983,VERIFIABLE,SUPPORTS,"Apple was incorporated as Apple Computer, Inc. in January 1977.",False,google/flan-t5-small
+44313,VERIFIABLE,SUPPORTS,Star Search was relaunched in 2003-04.,False,google/flan-t5-small
+139179,VERIFIABLE,REFUTES,Canada was never the location of a French colony.,True or False,google/flan-t5-small
+115787,VERIFIABLE,REFUTES,System of a Down has only sold albums in Greenland.,False,google/flan-t5-small
+3402,VERIFIABLE,SUPPORTS,Led Zeppelin was first named the New Yardbirds.,True or False,google/flan-t5-small
+23519,VERIFIABLE,REFUTES,Payton Manning signed with the Ontario Broncos.,False,google/flan-t5-small
+185109,VERIFIABLE,REFUTES,Anthropology is a division of Davis Entertainment.,True or False,google/flan-t5-small
+228169,VERIFIABLE,SUPPORTS,Kafka stars an actor.,True or False,google/flan-t5-small
+65043,VERIFIABLE,SUPPORTS,Alex Rodriguez played for the Mariners.,False,google/flan-t5-small
+131167,VERIFIABLE,SUPPORTS,Charles Marie de La Condamine was born in 1701.,True,google/flan-t5-small
+228918,VERIFIABLE,SUPPORTS,Pulp Fiction is written by a man.,True or False means that the sentence is true or false.,google/flan-t5-small
+101895,VERIFIABLE,SUPPORTS,Giada De Laurentiis has been a contributor to a morning TV program.,True,google/flan-t5-small
+20433,VERIFIABLE,SUPPORTS,The Grammy Hall of Fame inducted Bohemian Rhapsody.,True or False,google/flan-t5-small
+55174,VERIFIABLE,REFUTES,"Hugh Jackman has a public feud with Christopher Nolan, preventing any collaboration between the two.",True,google/flan-t5-small
+2290,VERIFIABLE,SUPPORTS,Cate Blanchett was nominated for an Academy Award.,True,google/flan-t5-small
+32291,VERIFIABLE,SUPPORTS,Slash was born in 1965.,False,google/flan-t5-small
+201428,VERIFIABLE,REFUTES,Drake is only German.,True or False,google/flan-t5-small
+117434,VERIFIABLE,SUPPORTS,R. Madhavan was a cast member of 3 Idiots.,True,google/flan-t5-small
+215154,VERIFIABLE,SUPPORTS,James and the Giant Peach includes Richard Dreyfuss.,True,google/flan-t5-small
+106152,VERIFIABLE,SUPPORTS,Ayn Rand condemned force.,True or False,google/flan-t5-small
+65929,VERIFIABLE,SUPPORTS,Anne Hathaway had a part in Ella Enchanted.,True or False,google/flan-t5-small
+218817,VERIFIABLE,SUPPORTS,Oh Yeon-seo was born.,False,google/flan-t5-small
+56121,VERIFIABLE,SUPPORTS,Ben Stiller was involved in the film industry in the 1990s.,False,google/flan-t5-small
+126476,VERIFIABLE,SUPPORTS,"The Los Angeles Lakers were nicknamed ""Showtime"" in the 1980s.",False,google/flan-t5-small
+210516,VERIFIABLE,SUPPORTS,Slovenia is bordered by the Adriatic Sea.,False,google/flan-t5-small
+42937,VERIFIABLE,REFUTES,Italy is officially called the big meatball.,False,google/flan-t5-small
+160395,VERIFIABLE,REFUTES,Ron Cobb was only born in the year 1954.,True,google/flan-t5-small
+1323,VERIFIABLE,SUPPORTS,Just Dance was a song.,True or False,google/flan-t5-small
+108899,VERIFIABLE,SUPPORTS,Journey is a band.,True or False means that the band is a band. The answer: False.,google/flan-t5-small
+222554,VERIFIABLE,SUPPORTS,Life Is Peachy was released by Epic Records.,True or False,google/flan-t5-small
+121300,VERIFIABLE,REFUTES,Sarah Silverman never wrote for a sketch comedy show.,False is a false statement and not true.,google/flan-t5-small
+88540,VERIFIABLE,SUPPORTS,A mole is a structure.,True or False,google/flan-t5-small
+39720,VERIFIABLE,SUPPORTS,Shahid Kapoor supports charities.,True or False,google/flan-t5-small
+81758,VERIFIABLE,REFUTES,Doctor Who was written by the Ancient Greeks.,False is a false statement.,google/flan-t5-small
+162276,VERIFIABLE,SUPPORTS,"L.A. Law ended on May 19, 1994.",True,google/flan-t5-small
+26587,VERIFIABLE,SUPPORTS,Jerry Seinfeld specialized in observational comedy.,True or False,google/flan-t5-small
+79512,VERIFIABLE,REFUTES,Marie Curie was naturalized-German.,True,google/flan-t5-small
+66006,VERIFIABLE,SUPPORTS,Honey to the B was the first album of a singer and actress from England.,True or False,google/flan-t5-small
+76104,VERIFIABLE,SUPPORTS,Will Ferrell is considered to be part of the Frat Pack.,False,google/flan-t5-small
+87183,VERIFIABLE,SUPPORTS,Donnie Wahlberg acts with Tom Selleck.,True or False,google/flan-t5-small
+46354,VERIFIABLE,REFUTES,Rogue appears in Canadian comic books.,True or False,google/flan-t5-small
+152230,VERIFIABLE,REFUTES,The German Shepherd is the second-most registered breed by the American Kennel Club and The Kennel Club UK.,False,google/flan-t5-small
+32203,VERIFIABLE,SUPPORTS,Diego Costa was born in October.,False,google/flan-t5-small
+52390,VERIFIABLE,SUPPORTS,Ocean's Eight is a sequel to the Ocean's Trilogy.,False,google/flan-t5-small
+58975,VERIFIABLE,SUPPORTS,The United Kingdom includes Scotland.,False,google/flan-t5-small
+23544,VERIFIABLE,SUPPORTS,John Wick: Chapter 2 is a film.,True or False,google/flan-t5-small
+89139,VERIFIABLE,SUPPORTS,Europe is the location of Andorra.,False,google/flan-t5-small
+175110,VERIFIABLE,SUPPORTS,Axl Rose has been named one of the greatest singers.,True or False,google/flan-t5-small
+63855,VERIFIABLE,SUPPORTS,Steffi Graf won 5 consecutive majors.,False,google/flan-t5-small
+69908,VERIFIABLE,REFUTES,Jennifer Garner had a starring role in the film Catch Me if You Can.,True or False,google/flan-t5-small
+18622,VERIFIABLE,SUPPORTS,Boromir is mentioned in the third and last volume of The Lord of the Rings.,False,google/flan-t5-small
+34021,VERIFIABLE,SUPPORTS,Paul Simon is an actor.,False,google/flan-t5-small
+36972,VERIFIABLE,SUPPORTS,Game of Thrones (season 3) is a drama set in a fantasy world.,True or False,google/flan-t5-small
+92805,VERIFIABLE,REFUTES,Taiwan's high-tech industry plays a key role in the local economy.,False,google/flan-t5-small
+110250,VERIFIABLE,SUPPORTS,London has an elected official.,False,google/flan-t5-small
+43055,VERIFIABLE,SUPPORTS,Bill Gates was the largest individual shareholder of Microsoft.,False,google/flan-t5-small
+153057,VERIFIABLE,SUPPORTS,The phalanx may be deployed for killing.,False,google/flan-t5-small
+199466,VERIFIABLE,SUPPORTS,Robbie Collin edited The Saint.,True,google/flan-t5-small
+129469,VERIFIABLE,REFUTES,Christianity failed to spread to Australasia.,False,google/flan-t5-small
+129303,VERIFIABLE,SUPPORTS,Feels So Good was written for the album Hot.,True or False means False and False means False.,google/flan-t5-small
+32400,VERIFIABLE,SUPPORTS,Deadpool is not part of a film series.,True or False,google/flan-t5-small
+214523,VERIFIABLE,SUPPORTS,Evolution was by someone born in May.,True or False,google/flan-t5-small
+177452,VERIFIABLE,SUPPORTS,Kmart has stores in operation in an unincorporated and organized territory of the United States.,True,google/flan-t5-small
+118769,VERIFIABLE,SUPPORTS,"Ancient Algeria has known many empires and dynasties, including ancient Carthaginians.",True,google/flan-t5-small
+108712,VERIFIABLE,SUPPORTS,Clint Eastwood has been in films.,True or False,google/flan-t5-small
+84113,VERIFIABLE,SUPPORTS,Gorgeous Ladies of Wrestling is a wrestling promotion for women.,True or False,google/flan-t5-small
+212783,VERIFIABLE,SUPPORTS,Gustave Eiffel made significant contributions to aerodynamics.,False,google/flan-t5-small
+90537,VERIFIABLE,SUPPORTS,Idris Elba has been nominated four times for a Golden Globe Award in acting.,False,google/flan-t5-small
+189419,VERIFIABLE,REFUTES,Paul Rudd passed up the role he was offered in Role Models.,False,google/flan-t5-small
+145709,VERIFIABLE,SUPPORTS,The Twelfth Doctor is capable of superhuman abilities.,True or False,google/flan-t5-small
+224899,VERIFIABLE,SUPPORTS,Happy Endings had Lisa Kudrow in it.,True,google/flan-t5-small
+15148,VERIFIABLE,SUPPORTS,Grace VanderWaal won the NBC TV competition show America's Got Talent.,True,google/flan-t5-small
+34222,VERIFIABLE,SUPPORTS,Jennifer Hudson has won a Grammy.,True or False,google/flan-t5-small
+102776,VERIFIABLE,SUPPORTS,Marie Antoinette died in 1793.,True or False,google/flan-t5-small
+15838,VERIFIABLE,SUPPORTS,The Uruguay national football team won two FIFA World Cups.,False,google/flan-t5-small
+69940,VERIFIABLE,REFUTES,Overwatch is a board game.,True or False,google/flan-t5-small
+77133,VERIFIABLE,SUPPORTS,The Sopranos is a televised show.,True or False,google/flan-t5-small
+90594,VERIFIABLE,SUPPORTS,Babe Ruth was active in Major League Baseball from 1914-1935.,False,google/flan-t5-small
+19171,VERIFIABLE,SUPPORTS,Roger Federer plays a racket sport.,True or False,google/flan-t5-small
+160826,VERIFIABLE,SUPPORTS,La La Anthony was in November Rule and Destined.,True,google/flan-t5-small
+2584,VERIFIABLE,SUPPORTS,The United States Naval Academy is in Maryland.,False,google/flan-t5-small
+161365,VERIFIABLE,REFUTES,"Tom Welling was born November 26, 1977.",True,google/flan-t5-small
+7068,VERIFIABLE,SUPPORTS,In the Heart of the Sea was released in cinemas.,False,google/flan-t5-small
+195435,VERIFIABLE,SUPPORTS,Blues and rock music has been played by the band AC/DC.,True or False,google/flan-t5-small
+188616,VERIFIABLE,REFUTES,Naruto is incapable of being a ninja.,True or False,google/flan-t5-small
+25772,VERIFIABLE,SUPPORTS,Marilyn Monroe is an actress.,True or False,google/flan-t5-small
+205627,VERIFIABLE,SUPPORTS,Wyatt Earp was a constable and he was American.,False,google/flan-t5-small
+194845,VERIFIABLE,SUPPORTS,Israel hosts a population of asylum seekers including illegal migrants from Sudan.,False,google/flan-t5-small
+82099,VERIFIABLE,SUPPORTS,The American Broadcasting Company has a nickname.,False,google/flan-t5-small
+92288,VERIFIABLE,REFUTES,Cindy McCain is married to a 2008 rugby champion.,True or False,google/flan-t5-small
+150383,VERIFIABLE,REFUTES,Leonardo DiCaprio is a fish.,True or False,google/flan-t5-small
+34843,VERIFIABLE,SUPPORTS,T-Pain is the founder of a record label imprint established in 2005.,True,google/flan-t5-small
+155901,VERIFIABLE,SUPPORTS,Beyoncé was given a music award.,False,google/flan-t5-small
+46715,VERIFIABLE,REFUTES,Alan Ladd failed to become television producer.,False,google/flan-t5-small
+136742,VERIFIABLE,SUPPORTS,VHS was released in late 1976 in Japan.,True,google/flan-t5-small
+37215,VERIFIABLE,REFUTES,Pixar was funded by an Indian industrial designer.,True,google/flan-t5-small
+32576,VERIFIABLE,SUPPORTS,"The Chernobyl disaster ultimately involved more than 500,000 workers.",False,google/flan-t5-small
+57119,VERIFIABLE,REFUTES,Frédéric Auguste Bartholdi was a painter.,True,google/flan-t5-small
+9172,VERIFIABLE,SUPPORTS,The Beatles were formed in London.,False,google/flan-t5-small
+115166,VERIFIABLE,REFUTES,Kumail Nanjiani has declined to act in any movies.,False,google/flan-t5-small
+162622,VERIFIABLE,SUPPORTS,Hacksaw Ridge made money.,True or False,google/flan-t5-small
+213866,VERIFIABLE,SUPPORTS,"In 2010, Kick-Ass was released.",True,google/flan-t5-small
+207508,VERIFIABLE,SUPPORTS,Harry Potter confronts someone in Harry Potter and the Deathly Hallows.,True or False,google/flan-t5-small
+10616,VERIFIABLE,SUPPORTS,Sophie Turner appeared in movies in 2013.,True,google/flan-t5-small
+53702,VERIFIABLE,SUPPORTS,Farrah Fawcett was the subject of an NBC documentary.,False,google/flan-t5-small
+29436,VERIFIABLE,REFUTES,Tiger Woods has not competed in a golf tournament.,False,google/flan-t5-small
+45043,VERIFIABLE,SUPPORTS,Brian Eno was born in England.,False,google/flan-t5-small
+132112,VERIFIABLE,REFUTES,Portugal does not share a border with Spain.,False,google/flan-t5-small
+190270,VERIFIABLE,SUPPORTS,Steven Knight was born in 1959.,True or False,google/flan-t5-small
+167600,VERIFIABLE,SUPPORTS,Suits is a show about lawyers.,False,google/flan-t5-small
+212764,VERIFIABLE,SUPPORTS,Tom Hanks has been granted at least three awards.,True,google/flan-t5-small
+49080,VERIFIABLE,REFUTES,Dwyane Wade was rejected for the All-Rookie team.,False,google/flan-t5-small
+163315,VERIFIABLE,REFUTES,The Homesman features American actor John Lithgow.,False,google/flan-t5-small
+52784,VERIFIABLE,SUPPORTS,Star Wars' soundtrack was recorded in England.,False,google/flan-t5-small
+218651,VERIFIABLE,SUPPORTS,The cast of The Playboy Club includes Leah Renee.,True,google/flan-t5-small
+63459,VERIFIABLE,SUPPORTS,The Portuguese Empire was an empire in world history.,False,google/flan-t5-small
+158388,VERIFIABLE,SUPPORTS,Chris Froome's parents are people.,False,google/flan-t5-small
+10387,VERIFIABLE,REFUTES,Shueisha is a publisher headquartered in Maine.,False,google/flan-t5-small
+221765,VERIFIABLE,SUPPORTS,Friendship has been studied in academic disciplines like anthropology.,True or False,google/flan-t5-small
+35602,VERIFIABLE,SUPPORTS,Belgium is comprised of three regions.,False,google/flan-t5-small
+49536,VERIFIABLE,REFUTES,Apple Inc.'s consumer software lacks the iOS operating system.,False,google/flan-t5-small
+223566,VERIFIABLE,SUPPORTS,Kris Wu starred in a Chinese film called Journey to the West.,True or False,google/flan-t5-small
+198302,VERIFIABLE,REFUTES,Super Metroid is a movie sequel.,True or False,google/flan-t5-small
+56063,VERIFIABLE,SUPPORTS,One America News Network is abbreviated as OANN.,True or False,google/flan-t5-small
+42579,VERIFIABLE,SUPPORTS,Jennifer Garner is a board member of Save the Children.,True,google/flan-t5-small
+30922,VERIFIABLE,SUPPORTS,The Portuguese Empire existed during the Renaissance.,False,google/flan-t5-small
+116583,VERIFIABLE,SUPPORTS,One actor is Scott Eastwood.,True or False,google/flan-t5-small
+203903,VERIFIABLE,REFUTES,Tall Story is a romantic comedy club.,True or False,google/flan-t5-small
+105337,VERIFIABLE,REFUTES,X-Men: Days of Future Past is a novel based on X-Men characters in comics.,True or False is a false statement.,google/flan-t5-small
+8388,VERIFIABLE,SUPPORTS,Richard Eyre is a television director.,True or False,google/flan-t5-small
+164820,VERIFIABLE,REFUTES,Furious 7 began principal photography in the summer of 2013.,True or False,google/flan-t5-small
+64508,VERIFIABLE,SUPPORTS,Prakash Jha is an actor.,True,google/flan-t5-small
+68716,VERIFIABLE,REFUTES,Splatoon 2 is the only game in its franchise.,False,google/flan-t5-small
+109489,VERIFIABLE,SUPPORTS,Nepal was ruled by the Shah dynasty until 2008.,True,google/flan-t5-small
+192692,VERIFIABLE,REFUTES,The interior of Uranus is only composed of gas.,False,google/flan-t5-small
+83833,VERIFIABLE,SUPPORTS,Sriti Jha plays the lead role in a TV show.,True or False,google/flan-t5-small
+62642,VERIFIABLE,SUPPORTS,There is a film called Absolute Beginners.,True or False,google/flan-t5-small
+122575,VERIFIABLE,REFUTES,Qatar borders London.,False,google/flan-t5-small
+47252,VERIFIABLE,SUPPORTS,The Amanda Show aired from 1999 to 2002.,False,google/flan-t5-small
+121235,VERIFIABLE,REFUTES,Brock Lesnar is signed to a Japanese mixed martial arts promotion.,False,google/flan-t5-small
+191899,VERIFIABLE,SUPPORTS,The Hangover Part III includes Justin Bartha.,True,google/flan-t5-small
+72797,VERIFIABLE,SUPPORTS,Lee Harvey Oswald assassinated the 35th President of the United States.,True,google/flan-t5-small
+122933,VERIFIABLE,REFUTES,In & Out is directed by James Cameron.,True or False,google/flan-t5-small
+144581,VERIFIABLE,SUPPORTS,Tom Felton is a person.,True or False,google/flan-t5-small
+39355,VERIFIABLE,SUPPORTS,Louis Tomlinson appeared in a TV drama.,True or False,google/flan-t5-small
+17505,VERIFIABLE,SUPPORTS,Kalpana Raghavendar is an artist.,True,google/flan-t5-small
+114403,VERIFIABLE,REFUTES,Luke Evans had his Hollywood breakthrough role starring in a play.,True or False,google/flan-t5-small
+46625,VERIFIABLE,SUPPORTS,"Emily Ratajkowski was visible in the ""Blurred Lines"" music video.",True,google/flan-t5-small
+212087,VERIFIABLE,SUPPORTS,"10 Cloverfield Lane stars the actor John Gallagher, Jr.",True,google/flan-t5-small
+55895,VERIFIABLE,SUPPORTS,Chris Froome rides under a British license.,False,google/flan-t5-small
+1726,VERIFIABLE,REFUTES,Olivia Munn failed to be credited as Lisa Munn.,True or False,google/flan-t5-small
+175355,VERIFIABLE,REFUTES,Batman is yet to be released.,True or False,google/flan-t5-small
+82348,VERIFIABLE,SUPPORTS,Marlon Brando is an actor who was in Mutiny on the Bounty.,True,google/flan-t5-small
+63561,VERIFIABLE,SUPPORTS,None of lung cancer's symptoms is chest pains.,False,google/flan-t5-small
+144711,VERIFIABLE,SUPPORTS,Iran has 21 UNESCO World Heritage Sites.,False,google/flan-t5-small
+159486,VERIFIABLE,REFUTES,The Taj Mahal attracts significantly less than 7-8 million visitors a year.,False,google/flan-t5-small
+127145,VERIFIABLE,SUPPORTS,Lisbon is in Portugal.,False,google/flan-t5-small
+66277,VERIFIABLE,SUPPORTS,Arya Stark is the daughter of Lady Catelyn Stark.,True,google/flan-t5-small
+160184,VERIFIABLE,SUPPORTS,Selene serves as the central character in a film written by Danny McBride in 2001.,True or False,google/flan-t5-small
+228921,VERIFIABLE,SUPPORTS,Pulp Fiction is an American black comedy neo-noir film released in 1994.,True or False,google/flan-t5-small
+189236,VERIFIABLE,SUPPORTS,Dan Aykroyd has received zero Academy Award nominations.,False,google/flan-t5-small
+81820,VERIFIABLE,SUPPORTS,Dhool was directed by Dharani.,True,google/flan-t5-small
+74077,VERIFIABLE,REFUTES,Watchmen was number 91 on The Comics Journals list of the top 100 comics of the 20th century that was published in 2001.,True,google/flan-t5-small
+18884,VERIFIABLE,SUPPORTS,Android has had prosperity.,True or False,google/flan-t5-small
+66130,VERIFIABLE,REFUTES,Saddam Hussein died in 1937.,False,google/flan-t5-small
+208823,VERIFIABLE,SUPPORTS,Tim Rice has collaborated with someone.,True or False,google/flan-t5-small
+27871,VERIFIABLE,REFUTES,Hugo Weaving is in zero movies.,True,google/flan-t5-small
+101069,VERIFIABLE,SUPPORTS,Time Lords have time machines.,True or False,google/flan-t5-small
+74534,VERIFIABLE,REFUTES,Arsenic and Old Lace was released in 1964.,False,google/flan-t5-small
+65292,VERIFIABLE,SUPPORTS,The Catalyst is a rock song.,True or False,google/flan-t5-small
+84759,VERIFIABLE,SUPPORTS,Indiana Jones has been portrayed by Corey Carrier.,True or False,google/flan-t5-small
+5573,VERIFIABLE,SUPPORTS,Umbrella is a single.,False,google/flan-t5-small
+17256,VERIFIABLE,SUPPORTS,Sandra Bullock stars in The Proposal.,True or False,google/flan-t5-small
+68371,VERIFIABLE,SUPPORTS,Martin Luther King Jr. worked on segregated housing in earnest.,True,google/flan-t5-small
+150233,VERIFIABLE,SUPPORTS,FC Barcelona was awarded five trophies.,False,google/flan-t5-small
+110045,VERIFIABLE,REFUTES,The Great Buck Howard was directed by Ingmar Bergman.,False,google/flan-t5-small
+123436,VERIFIABLE,SUPPORTS,John McEnroe is famous for his aggressive behavior on the court.,True or False,google/flan-t5-small
+126425,VERIFIABLE,SUPPORTS,John Mayer's first EP was released while he was signed to Columbia Records.,True or False,google/flan-t5-small
+12131,VERIFIABLE,SUPPORTS,Dirty Diana is by Michael Jackson.,True or False,google/flan-t5-small
+90243,VERIFIABLE,SUPPORTS,American Gods' adaptation began airing.,False,google/flan-t5-small
+8626,VERIFIABLE,SUPPORTS,Adrienne Bailon is an American actress.,True or False,google/flan-t5-small
+213015,VERIFIABLE,REFUTES,Marlon Brando was in any movie but Julius Caesar.,True or False,google/flan-t5-small
+179217,VERIFIABLE,SUPPORTS,Up All Night was released by Syco Records in 2011.,True or False,google/flan-t5-small
+108559,VERIFIABLE,SUPPORTS,"Little Miss Sunshine was filmed over 30 days beginning on June 6, 2005.",True,google/flan-t5-small
+178005,VERIFIABLE,SUPPORTS,IO Theater is a place where people train.,False,google/flan-t5-small
+63566,VERIFIABLE,SUPPORTS,Coke Boys Records was founded by an American Rapper.,True or False,google/flan-t5-small
+4627,VERIFIABLE,SUPPORTS,John McCain was a presidential nominee in 2008.,False,google/flan-t5-small
+98595,VERIFIABLE,SUPPORTS,Gia is a work.,True or False,google/flan-t5-small
+51594,VERIFIABLE,REFUTES,21 Jump Street was released by Columbia Pictures in 2002.,True,google/flan-t5-small
+125148,VERIFIABLE,SUPPORTS,Kuala Lumpur has the Petronas Twin Towers.,False,google/flan-t5-small
+128493,VERIFIABLE,SUPPORTS,"The television series Fargo has an anthology format, setting each season in a different era with a different story and cast.",True or False,google/flan-t5-small
+101824,VERIFIABLE,SUPPORTS,An annual training camp is hosted by the Carolina Panthers.,True or False,google/flan-t5-small
+210075,VERIFIABLE,REFUTES,Ronaldo Maczinski is Irish.,True,google/flan-t5-small
+227622,VERIFIABLE,SUPPORTS,Born This Way is a piece of music.,True or False means that the music is not true. The answer: False.,google/flan-t5-small
+31340,VERIFIABLE,SUPPORTS,"By 1997, Andre Agassi was number 141 in the world.",False,google/flan-t5-small
+208505,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales was a grandchild of a king.",True or False,google/flan-t5-small
+124218,VERIFIABLE,SUPPORTS,Man of Steel is a superhero movie from 2013.,True or False,google/flan-t5-small
+36415,VERIFIABLE,SUPPORTS,Kate Beckinsale was directed by James Ivory.,True,google/flan-t5-small
+2758,VERIFIABLE,SUPPORTS,Shakira is a performer.,True or False,google/flan-t5-small
+70098,VERIFIABLE,REFUTES,Michael Schumacher is a professional writer,True or False,google/flan-t5-small
+85626,VERIFIABLE,REFUTES,Bridget Moynahan was cut from Lord of War.,True,google/flan-t5-small
+94303,VERIFIABLE,SUPPORTS,There is a mosque in the Taj Mahal.,False,google/flan-t5-small
+3596,VERIFIABLE,REFUTES,Cry Freedom wasn't shot in Kenya.,True or False,google/flan-t5-small
+50469,VERIFIABLE,SUPPORTS,"In the United States presidential election of 1972, Richard Nixon was a candidate.",False,google/flan-t5-small
+140657,VERIFIABLE,SUPPORTS,There is a cultural attraction called the Museum of Science and Industry.,False,google/flan-t5-small
+155153,VERIFIABLE,SUPPORTS,Carrie Fisher wrote a book.,True or False means that the book is not true. The answer: False.,google/flan-t5-small
+97805,VERIFIABLE,REFUTES,Anil Kapoor has never been a producer.,True or False,google/flan-t5-small
+16925,VERIFIABLE,SUPPORTS,Adolf Hitler encouraged settler colonialism.,True or False,google/flan-t5-small
+102397,VERIFIABLE,SUPPORTS,Before Night Falls is a film.,False,google/flan-t5-small
+84546,VERIFIABLE,SUPPORTS,An example of a Christmas comedy film is Home Alone.,True or False,google/flan-t5-small
+127854,VERIFIABLE,SUPPORTS,Steven Price (composer) worked on the film Gravity.,True or False,google/flan-t5-small
+20181,VERIFIABLE,SUPPORTS,The 1991 NBA Finals had the Lakers in it.,True,google/flan-t5-small
+104100,VERIFIABLE,SUPPORTS,Google has been the second most valuable brand in the world for 4 blue years.,False,google/flan-t5-small
+10895,VERIFIABLE,SUPPORTS,Instagram is a photo-sharing application.,True,google/flan-t5-small
+183071,VERIFIABLE,SUPPORTS,Snooki & Jwoww was renewed by at least one channel.,False,google/flan-t5-small
+131166,VERIFIABLE,SUPPORTS,The Eagles broke up in 1980.,False,google/flan-t5-small
+19584,VERIFIABLE,SUPPORTS,Black Widow is Russian.,True,google/flan-t5-small
+122914,VERIFIABLE,SUPPORTS,Portugal is the 5th most peaceful country in the world and it also features a high-income advanced economy and the 18th highest social progress in the world.,False,google/flan-t5-small
+3083,VERIFIABLE,SUPPORTS,A temperate seasonal climate influences Berlin.,False,google/flan-t5-small
+7849,VERIFIABLE,SUPPORTS,Twitter had about 1.6 billion search queries per day in 2012.,False,google/flan-t5-small
+56940,VERIFIABLE,SUPPORTS,Ramadan is the ninth calendar month in Islam.,True,google/flan-t5-small
+227606,VERIFIABLE,SUPPORTS,The self-empowerment of the LGBT community is discussed in Born This Way.,True or False,google/flan-t5-small
+43619,VERIFIABLE,SUPPORTS,Mao Zedong lived until 1976.,True,google/flan-t5-small
+191936,VERIFIABLE,SUPPORTS,"The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.",True,google/flan-t5-small
+9622,VERIFIABLE,REFUTES,Steven Tyler was active in the early 1980s.,True,google/flan-t5-small
+161995,VERIFIABLE,REFUTES,Wikipedia has articles in only english.,False,google/flan-t5-small
+56637,VERIFIABLE,REFUTES,Ellyse Perry is a man.,True or False,google/flan-t5-small
+138032,VERIFIABLE,REFUTES,American Idiot has not had five successful singles.,False,google/flan-t5-small
+205521,VERIFIABLE,REFUTES,Wyatt Earp was an actor.,False,google/flan-t5-small
+86567,VERIFIABLE,REFUTES,Toronto is the least populous city in Canada.,True,google/flan-t5-small
+33233,VERIFIABLE,SUPPORTS,Paul is Steve Jobs' middle name.,True or False,google/flan-t5-small
+202341,VERIFIABLE,SUPPORTS,Destiny was released for the console Playstation 4.,True,google/flan-t5-small
+143990,VERIFIABLE,SUPPORTS,Heather Graham played the title character in the series Emily's Reasons Why Not in 2010.,True or False,google/flan-t5-small
+224086,VERIFIABLE,SUPPORTS,Battle Studies World Tour was a global tour.,False,google/flan-t5-small
+39837,VERIFIABLE,SUPPORTS,Samuel L. Jackson was in the M. Night Shyamalan film Unbreakable.,True,google/flan-t5-small
+40337,VERIFIABLE,REFUTES,Singapore is south of Indonesia.,False,google/flan-t5-small
+49312,VERIFIABLE,SUPPORTS,Jennifer Hudson was a finalist of American Idol.,True,google/flan-t5-small
+93954,VERIFIABLE,REFUTES,Hong Kong is incapable of being consistently ranked as the world's most freest economic entity.,False,google/flan-t5-small
+106357,VERIFIABLE,SUPPORTS,Manchester City F.C. was bought by the Abu Dhabi United Group.,False,google/flan-t5-small
+2829,VERIFIABLE,SUPPORTS,Unapologetic is a work.,False,google/flan-t5-small
+86667,VERIFIABLE,REFUTES,Andre Agassi is a golfer.,False,google/flan-t5-small
+26911,VERIFIABLE,SUPPORTS,Liverpool F.C. was managed by Bill Shankly.,False,google/flan-t5-small
+25834,VERIFIABLE,REFUTES,Bangladesh is a founding member of nationalism.,True or False,google/flan-t5-small
+167936,VERIFIABLE,SUPPORTS,Jon Pertwee took part in Worzel Gummidge.,True,google/flan-t5-small
+22649,VERIFIABLE,SUPPORTS,Lee Child was born on October 29.,True,google/flan-t5-small
+82056,VERIFIABLE,REFUTES,Tequila is incapable of being made in Mexico.,False,google/flan-t5-small
+216929,VERIFIABLE,SUPPORTS,Michael Phelps holds three long course world records for swimming.,True,google/flan-t5-small
+150426,VERIFIABLE,REFUTES,Donald Glover never released an album.,True or False,google/flan-t5-small
+11888,VERIFIABLE,REFUTES,FC Barcelona was ranked second in the IFFHS Club World Ranking for 2015.,False,google/flan-t5-small
+224586,VERIFIABLE,SUPPORTS,Courteney Cox appeared on a show created by David Crane and Marta Kauffman.,True,google/flan-t5-small
+24896,VERIFIABLE,SUPPORTS,Chris Pine appeared in a 2012 American romantic comedy spy film.,False,google/flan-t5-small
+50863,VERIFIABLE,REFUTES,Ratatouille was directed by one person.,True or False,google/flan-t5-small
+92830,VERIFIABLE,SUPPORTS,Kurt Angle won a gold medal in freestyle wrestling at the 1995 World Wrestling Championships.,False,google/flan-t5-small
+202243,VERIFIABLE,REFUTES,Iron Fist was created by Damon Lindelof.,False,google/flan-t5-small
+204502,VERIFIABLE,REFUTES,Dangerous Beauty is a 1990 film.,True or False,google/flan-t5-small
+97595,VERIFIABLE,SUPPORTS,The Avengers (2012 film) features Chris Evans.,True,google/flan-t5-small
+219423,VERIFIABLE,REFUTES,Jerry Goldsmith failed to collaborate with anybody during his career.,True or False,google/flan-t5-small
+68244,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales sponsors The Prince's Charities.",True or False,google/flan-t5-small
+217718,VERIFIABLE,SUPPORTS,Grizz Chapman was on 30 Rock.,True,google/flan-t5-small
+109175,VERIFIABLE,SUPPORTS,Nicki Minaj is a person.,True or False,google/flan-t5-small
+220314,VERIFIABLE,SUPPORTS,Margaret of Valois was imprisoned.,True,google/flan-t5-small
+217055,VERIFIABLE,SUPPORTS,The Dayton Agreement was formally signed in Paris in 1995.,False,google/flan-t5-small
+187906,VERIFIABLE,SUPPORTS,"As the World Turns went away and an American talk show debuted on October 18, 2010 in its place.",False,google/flan-t5-small
+96523,VERIFIABLE,SUPPORTS,Princess Agents is a novel adaptation.,True or False,google/flan-t5-small
+34108,VERIFIABLE,REFUTES,The Vampire Diaries only aired two seasons.,True or False,google/flan-t5-small
+80728,VERIFIABLE,REFUTES,The Ten Commandments is reviewed by Cecil B. DeMille.,True,google/flan-t5-small
+99416,VERIFIABLE,SUPPORTS,The Bends was released in the 1990's.,False,google/flan-t5-small
+109991,VERIFIABLE,REFUTES,Alandi is only a city.,True or False,google/flan-t5-small
+158880,VERIFIABLE,SUPPORTS,A singer in Got a Girl starred in Final Destination 3.,True or False,google/flan-t5-small
+224546,VERIFIABLE,SUPPORTS,Peggy Sue Got Married was directed by an American director.,True or False,google/flan-t5-small
+189389,VERIFIABLE,SUPPORTS,Role Models is a film.,True or False,google/flan-t5-small
+99491,VERIFIABLE,SUPPORTS,Gerald Ford was the United States president after Richard Nixon.,True,google/flan-t5-small
+224484,VERIFIABLE,SUPPORTS,Will Ferrell worked on a film.,False,google/flan-t5-small
+16333,VERIFIABLE,REFUTES,Marshall McLuhan predicted his own death.,True or False,google/flan-t5-small
+107175,VERIFIABLE,SUPPORTS,Walt Disney founded a company.,False,google/flan-t5-small
+126127,VERIFIABLE,SUPPORTS,Brock Lesnar won against Randy Couture.,False,google/flan-t5-small
+117933,VERIFIABLE,REFUTES,Guam was employed by America.,False,google/flan-t5-small
+209400,VERIFIABLE,SUPPORTS,Sweden is a Scandinavian country.,False,google/flan-t5-small
+103455,VERIFIABLE,SUPPORTS,One of Future's studio albums was published in 2017.,False,google/flan-t5-small
+115556,VERIFIABLE,SUPPORTS,David Dhawan is a director of films.,True or False,google/flan-t5-small
+31756,VERIFIABLE,REFUTES,This Sporting Life was directed by a director born in 1919.,False,google/flan-t5-small
+199112,VERIFIABLE,SUPPORTS,"International Relations includes technology and engineering, economics, communication studies, history, international law, demography, philosophy, geography, social work, sociology, anthropology, criminology, psychology, gender studies, cultural studies, culturology, and diplomacy, globalization, diplomatic relations, state sovereignty, international security, ecological sustainability, nuclear proliferation, nationalism, economic development, global finance, as well as terrorism and organized crime, human security, foreign interventionism, and human rights, as well, as, more recently, comparative religion.",False,google/flan-t5-small
+176978,VERIFIABLE,SUPPORTS,Underworld's main character is a supernatural creature.,True or False,google/flan-t5-small
+57356,VERIFIABLE,SUPPORTS,Avenged Sevenfold released an album.,True or False,google/flan-t5-small
+18732,VERIFIABLE,SUPPORTS,Brock Lesnar defeated someone.,False,google/flan-t5-small
+16192,VERIFIABLE,SUPPORTS,Three Days of the Condor includes a Swedish actor.,True or False,google/flan-t5-small
+83172,VERIFIABLE,SUPPORTS,Tyra Banks presented America's Got Talent.,True or False,google/flan-t5-small
+130853,VERIFIABLE,REFUTES,Romelu Lukaku is a golfer.,True or False,google/flan-t5-small
+177219,VERIFIABLE,SUPPORTS,Toy Story is a movie of the buddy comedy adventure genres.,True or False,google/flan-t5-small
+95713,VERIFIABLE,REFUTES,Al Capone was not prosecuted for tax evasion.,True or False,google/flan-t5-small
+225111,VERIFIABLE,SUPPORTS,Chet Atkins produced records for Dolly Parton.,True or False,google/flan-t5-small
+148510,VERIFIABLE,SUPPORTS,Trevor Baxter went to college at Dulwich College.,True,google/flan-t5-small
+193156,VERIFIABLE,REFUTES,A Song of Ice and Fire is part of an American book series called A Game of Thrones.,True or False,google/flan-t5-small
+23451,VERIFIABLE,SUPPORTS,Many voice actors act in Timon & Pumbaa.,False,google/flan-t5-small
+134550,VERIFIABLE,SUPPORTS,Jeff Bridges played a role in an American Revisionist Western film.,True or False,google/flan-t5-small
+133516,VERIFIABLE,SUPPORTS,Zach Galifianakis starred in a film.,True or False,google/flan-t5-small
+20436,VERIFIABLE,SUPPORTS,Nigeria is one of the countries in the Next Eleven.,False,google/flan-t5-small
+33719,VERIFIABLE,SUPPORTS,Angela Lansbury got significant recognition for her acting performance in The Manchurian Candidate.,True,google/flan-t5-small
+57514,VERIFIABLE,SUPPORTS,Murray was played by Keegan-Michael Key in Hotel Transylvania 2.,True,google/flan-t5-small
+91689,VERIFIABLE,SUPPORTS,Born Naked is an album.,True or False,google/flan-t5-small
+181708,VERIFIABLE,SUPPORTS,Rock music incorporated music genres like a type of blues music distinguished by the use of electric amplification for musical instruments known as electric blues.,True or False,google/flan-t5-small
+93129,VERIFIABLE,SUPPORTS,Reba McEntire sang on radio shows.,False,google/flan-t5-small
+85395,VERIFIABLE,SUPPORTS,The Constitution of Medina was written by Muhammad.,True or False,google/flan-t5-small
+209517,VERIFIABLE,SUPPORTS,Sleep can be disrupted by medical conditions.,False,google/flan-t5-small
+113457,VERIFIABLE,SUPPORTS,Frank is by a person.,True or False means that Frank is a person. The answer: False.,google/flan-t5-small
+215375,VERIFIABLE,SUPPORTS,A German-American fashion model starred in The Host.,True or False,google/flan-t5-small
+32012,VERIFIABLE,SUPPORTS,Robert Redford guest starred on Perry Mason.,True or False,google/flan-t5-small
+114839,VERIFIABLE,REFUTES,Katie Stevens is Australian.,True or False,google/flan-t5-small
+41510,VERIFIABLE,SUPPORTS,Haiti is a member of the World Trade Organization.,True or False,google/flan-t5-small
+70144,VERIFIABLE,SUPPORTS,Anne Hathaway debuted in the Fox television series Get Real.,True or False,google/flan-t5-small
+151146,VERIFIABLE,REFUTES,Twitter has more than one office.,True or False,google/flan-t5-small
+92325,VERIFIABLE,SUPPORTS,Venus Williams has won a tournament.,True or False,google/flan-t5-small
+203423,VERIFIABLE,SUPPORTS,Red is inspired by a comic book series.,True or False means that the character Red is not a comic book series. The answer: False.,google/flan-t5-small
+108926,VERIFIABLE,SUPPORTS,J. Cole is a hip hop recording artist.,True or False,google/flan-t5-small
+218621,VERIFIABLE,SUPPORTS,The cast of The Playboy Club includes David Krumholtz.,True,google/flan-t5-small
+72131,VERIFIABLE,SUPPORTS,Portugal maintains a unitary semi-presidential republican form of government which means that the president exists alongside the prime minister and the cabinet and the central government is supreme.,False,google/flan-t5-small
+62807,VERIFIABLE,REFUTES,Randy Orton is a squid.,True or False,google/flan-t5-small
+56104,VERIFIABLE,SUPPORTS,Rainn Wilson graduated in the 80s.,True,google/flan-t5-small
+16293,VERIFIABLE,SUPPORTS,Zeus is the child of Cronus and Rhea.,True,google/flan-t5-small
+119559,VERIFIABLE,SUPPORTS,Matt Kuchar is a professional golf player.,True or False,google/flan-t5-small
+19909,VERIFIABLE,REFUTES,Burundi is only populated by Tutsis.,False,google/flan-t5-small
+210895,VERIFIABLE,SUPPORTS,Foo Fighters was created by a name reported by aircraft pilots.,False,google/flan-t5-small
+174460,VERIFIABLE,SUPPORTS,Nickelodeon has weekday programs.,True,google/flan-t5-small
+17148,VERIFIABLE,SUPPORTS,Arrested Development won six Primetime Emmy Awards.,False,google/flan-t5-small
+84085,VERIFIABLE,SUPPORTS,Jim Carrey has worked with director Don Scardino.,True,google/flan-t5-small
+7612,VERIFIABLE,SUPPORTS,Eminem only performs alone.,True or False,google/flan-t5-small
+19056,VERIFIABLE,SUPPORTS,David Thewlis has performed.,True or False,google/flan-t5-small
+73411,VERIFIABLE,SUPPORTS,"In 1968, Led Zeppelin formed.",True,google/flan-t5-small
+4576,VERIFIABLE,SUPPORTS,Dwyane Wade played for Chicago.,True,google/flan-t5-small
+138145,VERIFIABLE,SUPPORTS,Champion was based off of a Ring Lardner story.,True or False,google/flan-t5-small
+226777,VERIFIABLE,SUPPORTS,My Bloody Valentine 3D's editor was Patrick Lussier.,True,google/flan-t5-small
+25133,VERIFIABLE,SUPPORTS,Dwight Schrute was based on Gareth Keenan.,True,google/flan-t5-small
+202863,VERIFIABLE,SUPPORTS,Beasts of the Southern Wild was nominated for an award.,True,google/flan-t5-small
+19740,VERIFIABLE,SUPPORTS,Transformers (film) is based on a toy line created by Hasbro.,True,google/flan-t5-small
+76388,VERIFIABLE,SUPPORTS,Laura Prepon portrayed Donna Pinciotti in That '70s Show.,True,google/flan-t5-small
+71097,VERIFIABLE,REFUTES,Charles Dickens was not English.,True,google/flan-t5-small
+9715,VERIFIABLE,REFUTES,Michael Fassbender was in the NBC miniseries Band of Brothers.,True,google/flan-t5-small
+122128,VERIFIABLE,SUPPORTS,Keeping Up with the Joneses had a budget.,True or False,google/flan-t5-small
+123352,VERIFIABLE,SUPPORTS,RenderMan was developed by Pixar.,True,google/flan-t5-small
+163299,VERIFIABLE,SUPPORTS,The Homesman features at least one American actor.,True or False,google/flan-t5-small
+54144,VERIFIABLE,SUPPORTS,Peter Cetera was an artist.,True or False,google/flan-t5-small
+31116,VERIFIABLE,SUPPORTS,Heartbreak Ridge was filmed in Technicolor.,True,google/flan-t5-small
+179907,VERIFIABLE,SUPPORTS,Cape Fear features a cameo from Robert Mitchum and it is directed by Martin Scorsese.,True,google/flan-t5-small
+174247,VERIFIABLE,SUPPORTS,Oliver Reed was in a movie.,True or False,google/flan-t5-small
+30321,VERIFIABLE,SUPPORTS,Maggie Smith is an actress.,True or False,google/flan-t5-small
+57566,VERIFIABLE,SUPPORTS,Jackie Robinson died in the seventies.,True,google/flan-t5-small
+83442,VERIFIABLE,REFUTES,Eric Trump's father's birthday is June 14.,True,google/flan-t5-small
+77263,VERIFIABLE,REFUTES,Ethiopia is a state.,False,google/flan-t5-small
+144977,VERIFIABLE,SUPPORTS,"On February 18, 1949, Gary Ridgway was born.",False,google/flan-t5-small
+129052,VERIFIABLE,SUPPORTS,Eva Longoria has starred in Harsh Times.,True or False,google/flan-t5-small
+65855,VERIFIABLE,SUPPORTS,Angela Lansbury was born to a family that was upper-middle-class.,True,google/flan-t5-small
+165325,VERIFIABLE,SUPPORTS,The World Science Festival is produced by the World Science Foundation.,False,google/flan-t5-small
+98326,VERIFIABLE,SUPPORTS,XXx: Return of Xander Cage has the writer F. Scott Frazier.,True,google/flan-t5-small
+10627,VERIFIABLE,SUPPORTS,Kid Rock is an artist.,True or False,google/flan-t5-small
+15894,VERIFIABLE,SUPPORTS,Hillary Clinton was employed in the Obama administration.,True or False,google/flan-t5-small
+168732,VERIFIABLE,SUPPORTS,The Ten Commandments (1956 film) is a 1956 American movie.,True or False,google/flan-t5-small
+88192,VERIFIABLE,SUPPORTS,Kangana Ranaut was alive.,True or False,google/flan-t5-small
+212952,VERIFIABLE,SUPPORTS,Marlon Brando took part in a film adapted from the work of a writer of more than 40 books.,True or False is a false statement describing the film adapted from the work of a writer of more than 40 books. The answer: False.,google/flan-t5-small
+9431,VERIFIABLE,SUPPORTS,Ringo Starr replaced Pete Best.,True or False,google/flan-t5-small
+5399,VERIFIABLE,SUPPORTS,Oscar Robertson is American.,False,google/flan-t5-small
+50103,VERIFIABLE,SUPPORTS,Wyoming is the least populous state in the United States.,False,google/flan-t5-small
+187138,VERIFIABLE,REFUTES,Heartland has no nationality.,False,google/flan-t5-small
+186201,VERIFIABLE,REFUTES,Following was only directed by Martin Scorsese.,False,google/flan-t5-small
+93914,VERIFIABLE,SUPPORTS,Jacinda Barrett is a person.,True or False,google/flan-t5-small
+221008,VERIFIABLE,SUPPORTS,Ubisoft created Assassin's Creed.,True,google/flan-t5-small
+207922,VERIFIABLE,SUPPORTS,Edgar Award honors the best in TV.,True or False,google/flan-t5-small
+54699,VERIFIABLE,SUPPORTS,Lewis Hamilton is a race car driver.,True or False,google/flan-t5-small
+80123,VERIFIABLE,SUPPORTS,Girls' Generation features Taeyeon.,True,google/flan-t5-small
+29511,VERIFIABLE,REFUTES,Pirates of the Caribbean is set in a fictional future setting.,False,google/flan-t5-small
+170581,VERIFIABLE,REFUTES,Ad-Rock is single.,True or False,google/flan-t5-small
+52094,VERIFIABLE,SUPPORTS,Gianluigi Buffon has been named Serie A Goalkeeper of the Year.,False,google/flan-t5-small
+41702,VERIFIABLE,SUPPORTS,Rhona Mitra writes songs.,True or False means that the song is written by a person who is not a singer. The answer: False.,google/flan-t5-small
+158225,VERIFIABLE,SUPPORTS,Steven Soderbergh directed a biographical film and received acclaim.,True,google/flan-t5-small
+46947,VERIFIABLE,SUPPORTS,Dragon is taken from a linguistic system indigenous to sections of the Eastern Mediterranean.,True or False,google/flan-t5-small
+18362,VERIFIABLE,SUPPORTS,"Following a stroke, Lauren Bacall died.",False,google/flan-t5-small
+65095,VERIFIABLE,REFUTES,"Led Zeppelin II was only released in Japan on October 31, 1969.",True,google/flan-t5-small
+214641,VERIFIABLE,SUPPORTS,Brian Helgeland won an award.,False,google/flan-t5-small
+60966,VERIFIABLE,SUPPORTS,De Profundis was written during an imprisonment.,False,google/flan-t5-small
+63178,VERIFIABLE,SUPPORTS,Planet of the Apes' director was Franklin J. Schaffner.,False,google/flan-t5-small
+20832,VERIFIABLE,SUPPORTS,Radioactive has won a Grammy.,False,google/flan-t5-small
+151921,VERIFIABLE,REFUTES,The hero of the Odyssey is Harry Potter.,True or False,google/flan-t5-small
+135666,VERIFIABLE,SUPPORTS,Houston economy is incapable of having a base in energy.,False,google/flan-t5-small
+50340,VERIFIABLE,SUPPORTS,Nice & Slow was released after 1990.,True or False,google/flan-t5-small
+57350,VERIFIABLE,SUPPORTS,Lewis Hamilton is a racecar driver in F1.,True,google/flan-t5-small
+151320,VERIFIABLE,REFUTES,Ben Stiller did not direct or star in the film Zoolander.,False,google/flan-t5-small
+137689,VERIFIABLE,SUPPORTS,Nicole Scherzinger made progress towards the eventual creation of a clothing brand.,False,google/flan-t5-small
+51927,VERIFIABLE,REFUTES,Turkey ended accession negotiations with the European Union.,False,google/flan-t5-small
+40760,VERIFIABLE,SUPPORTS,Selena Gomez starred in the 2013 film Spring Breakers.,True or False,google/flan-t5-small
+44237,VERIFIABLE,SUPPORTS,One of the leads in Transformers: Age of Extinction is an American rapper.,True or False,google/flan-t5-small
+137593,VERIFIABLE,SUPPORTS,Emilio Estevez acts.,True or False,google/flan-t5-small
+196121,VERIFIABLE,REFUTES,The Gheg of southern Austria form the oldest continuous ethnic Albanian diaspora.,False,google/flan-t5-small
+64064,VERIFIABLE,SUPPORTS,Mauritius has high political freedom.,False,google/flan-t5-small
+138061,VERIFIABLE,SUPPORTS,Star vs. the Forces of Evil is an American animated series produced by Disney Television Animation.,True,google/flan-t5-small
+61902,VERIFIABLE,REFUTES,"Before the year 2000, The Ren & Stimpy Show was created.",False,google/flan-t5-small
+50150,VERIFIABLE,SUPPORTS,Krysten Ritter was on 'Til Death.,True or False,google/flan-t5-small
+143707,VERIFIABLE,SUPPORTS,The Incredible Hulk is the second episode in a series.,True or False,google/flan-t5-small
+113848,VERIFIABLE,SUPPORTS,A Perfect Circle was formed in a year.,False,google/flan-t5-small
+77015,VERIFIABLE,REFUTES,Farrah Fawcett forfeited four additional Golden Globe nominations for her 1980s work in TV movies.,False,google/flan-t5-small
+452,VERIFIABLE,REFUTES,Judy Greer has not appeared in multiple films.,True or False,google/flan-t5-small
+101780,VERIFIABLE,SUPPORTS,25 was released in November and was successful.,True,google/flan-t5-small
+100474,VERIFIABLE,SUPPORTS,There is an actress name Eliza Dushka.,True or False,google/flan-t5-small
+42244,VERIFIABLE,REFUTES,Little Mix is a Ugandan girl group.,True,google/flan-t5-small
+62498,VERIFIABLE,SUPPORTS,Zindagi Na Milegi Dobara has a director named Laila.,True,google/flan-t5-small
+117338,VERIFIABLE,REFUTES,Baahubali: The Beginning was released in 2000.,False,google/flan-t5-small
+27084,VERIFIABLE,SUPPORTS,Miley Cyrus is in the music industry.,True or False,google/flan-t5-small
+98445,VERIFIABLE,REFUTES,Christina Aguilera has avoided the music industry entirely.,True or False,google/flan-t5-small
+144473,VERIFIABLE,SUPPORTS,Bill Gates was a chairman of Microsoft.,False,google/flan-t5-small
+60958,VERIFIABLE,SUPPORTS,Keanu Reeves played bass guitar for the band Becky in 2001.,True,google/flan-t5-small
+148848,VERIFIABLE,SUPPORTS,Gone with the Wind is a long-length fiction work.,True or False is a false statement that is true.,google/flan-t5-small
+143721,VERIFIABLE,SUPPORTS,Gold has a distinctive color.,False,google/flan-t5-small
+125028,VERIFIABLE,REFUTES,Lodging is done in a car.,True or False,google/flan-t5-small
+221588,VERIFIABLE,SUPPORTS,K-pop Star 2 featured Park Jin-young as a judge.,True or False,google/flan-t5-small
+124275,VERIFIABLE,REFUTES,The Khmer Empire was weak.,True or False,google/flan-t5-small
+38625,VERIFIABLE,SUPPORTS,Gwen Stefani received a World Music Award.,False,google/flan-t5-small
+65348,VERIFIABLE,REFUTES,Buddy Holly's birth name was Johnny Bravo.,True or False,google/flan-t5-small
+32877,VERIFIABLE,SUPPORTS,Liev Schreiber is an American actor.,False,google/flan-t5-small
+169476,VERIFIABLE,SUPPORTS,"Oakland, California is a city populated by 419,267 people.",False,google/flan-t5-small
+147484,VERIFIABLE,SUPPORTS,Alex Rodriguez is an athlete.,False,google/flan-t5-small
+220159,VERIFIABLE,REFUTES,Nazi Germany happened after Hitler's death.,True or False,google/flan-t5-small
+56965,VERIFIABLE,SUPPORTS,Keturah was Abraham's wife.,True or False,google/flan-t5-small
+28209,VERIFIABLE,SUPPORTS,Game of Thrones (season 1) featured Scottish stage and television actor Iain Glen.,False,google/flan-t5-small
+59681,VERIFIABLE,SUPPORTS,Patrick Bateman is the villain protagonist of the game American Psycho.,True or False,google/flan-t5-small
+88972,VERIFIABLE,REFUTES,Jimmy Carter was not a president.,True or False,google/flan-t5-small
+155049,VERIFIABLE,SUPPORTS,Andy Dwyer appears in a series.,True or False,google/flan-t5-small
+89278,VERIFIABLE,SUPPORTS,Extracorporeal shockwave therapy (ESWT) is unused in cardiology.,False,google/flan-t5-small
+57699,VERIFIABLE,SUPPORTS,Yusuke Murata was the illustrator of an American football manga.,False,google/flan-t5-small
+170821,VERIFIABLE,SUPPORTS,There is a director named Fred Savage.,False,google/flan-t5-small
+2456,VERIFIABLE,SUPPORTS,Where the Wild Things Are was put out in December.,False,google/flan-t5-small
+111701,VERIFIABLE,REFUTES,Faith Evans works solely as an actress.,True or False,google/flan-t5-small
+216236,VERIFIABLE,SUPPORTS,Hot was by a pop singer from Britain.,True or False,google/flan-t5-small
+88736,VERIFIABLE,REFUTES,Natalie Portman was not in Star Wars.,True,google/flan-t5-small
+203726,VERIFIABLE,SUPPORTS,"Havoc went to the public on November 29, 2005.",False,google/flan-t5-small
+211345,VERIFIABLE,SUPPORTS,Gabriel Aubry and Halle Berry have a child.,True or False,google/flan-t5-small
+5814,VERIFIABLE,SUPPORTS,Sharon Tate was a model.,True or False,google/flan-t5-small
+169111,VERIFIABLE,REFUTES,Nick Kroll has a leading role in the comedy Get Him to the Greek.,True or False,google/flan-t5-small
+93655,VERIFIABLE,REFUTES,Inhumans are DC characters.,True or False,google/flan-t5-small
+2320,VERIFIABLE,SUPPORTS,"Cloud Atlas has been described as ""a sort of pointillist mosaic.""",False,google/flan-t5-small
+218842,VERIFIABLE,REFUTES,Thirteen is based on Nikki Reed's death at age 12 and 13.,True,google/flan-t5-small
+2333,VERIFIABLE,REFUTES,Caitlyn Jenner did not change her gender.,True,google/flan-t5-small
+15742,VERIFIABLE,SUPPORTS,James Taylor released a compilation album.,True or False,google/flan-t5-small
+79238,VERIFIABLE,REFUTES,Slovakia joined in Eurozone in November 2009.,False,google/flan-t5-small
+202514,VERIFIABLE,SUPPORTS,Little Boy was dropped by Enola Gay.,True or False,google/flan-t5-small
+18639,VERIFIABLE,SUPPORTS,Taylor Schilling in the main cast of the series Orange is the New Black.,True,google/flan-t5-small
+185803,VERIFIABLE,SUPPORTS,"Curse, Inc. is used by a game.",True or False,google/flan-t5-small
+192622,VERIFIABLE,SUPPORTS,Huginn is a raven that often travels with Odin.,True or False,google/flan-t5-small
+93374,VERIFIABLE,REFUTES,Iain Glen is only a film actor.,False,google/flan-t5-small
+120039,VERIFIABLE,SUPPORTS,The Billboard charts included Just Dance.,True or False,google/flan-t5-small
+2164,VERIFIABLE,SUPPORTS,Mickey Rooney was in a film based on the novel The Black Stallion by Walter Farley.,True or False,google/flan-t5-small
+43994,VERIFIABLE,SUPPORTS,Louise Simonson is from America.,True or False,google/flan-t5-small
+101690,VERIFIABLE,SUPPORTS,Nelson Mandela was President of South Africa from 1994 to 1999.,False,google/flan-t5-small
+136567,VERIFIABLE,REFUTES,Janet Varney is a German.,True,google/flan-t5-small
+220079,VERIFIABLE,SUPPORTS,Lust for Life is based on a 1934 novel.,True or False is a false statement that is true or false.,google/flan-t5-small
+23852,VERIFIABLE,SUPPORTS,Alex Rodriguez has had a 22-year career.,False,google/flan-t5-small
+24766,VERIFIABLE,REFUTES,Lee Min-ho is a German singer.,True or False,google/flan-t5-small
+5731,VERIFIABLE,SUPPORTS,Destiny's criticism centered mostly around the game's storyline and post-campaign content.,True or False,google/flan-t5-small
+30575,VERIFIABLE,REFUTES,No artists lived in Amsterdam.,False,google/flan-t5-small
+2589,VERIFIABLE,SUPPORTS,Australia is a country in the Pacific Ocean.,False,google/flan-t5-small
+215954,VERIFIABLE,SUPPORTS,Event management includes decor.,False,google/flan-t5-small
+35319,VERIFIABLE,SUPPORTS,The New York Giants play professionally.,False,google/flan-t5-small
+96806,VERIFIABLE,REFUTES,Shawn Mendes is represented by a Canadian record label.,True,google/flan-t5-small
+159256,VERIFIABLE,REFUTES,The Secret Life of Us failed to ever air anywhere.,False,google/flan-t5-small
+48391,VERIFIABLE,REFUTES,The Dark Knight is set in Metropolis.,True or False,google/flan-t5-small
+166610,VERIFIABLE,REFUTES,Jamie Foxx was incapable of portraying Ray Charles in Ray.,True or False,google/flan-t5-small
+133918,VERIFIABLE,SUPPORTS,A cause of anti-nuclear antibodies are are anti-sp100 antibodies.,False,google/flan-t5-small
+51690,VERIFIABLE,SUPPORTS,Emmy Rossum had a prominent role in a movie of which Maggie Greenwald was the director.,True or False,google/flan-t5-small
+106817,VERIFIABLE,SUPPORTS,The divine right of kings was brought into action by Henry VIII when he changed the English constitution.,True or False,google/flan-t5-small
+228653,VERIFIABLE,SUPPORTS,"How to Lose Friends & Alienate People stars Simon Pegg, Kirsten Dunst, Danny Huston, Gillian Anderson, Megan Fox and Jeff Bridges, alongside Max Minghella and Margo Stilley.",False,google/flan-t5-small
+224984,VERIFIABLE,SUPPORTS,Equidae includes some species known only from fossils.,False,google/flan-t5-small
+87528,VERIFIABLE,REFUTES,Ty Cobb was born in rural Connecticut.,True or False,google/flan-t5-small
+192294,VERIFIABLE,SUPPORTS,Psychological findings link to research and perspectives from an academic discipline.,False,google/flan-t5-small
+172791,VERIFIABLE,SUPPORTS,Felicity Jones was nominated for an Academy Award for Best Actress.,True,google/flan-t5-small
+113133,VERIFIABLE,SUPPORTS,There is a screenwriter named Jim Rash.,True or False is a false statement that is true.,google/flan-t5-small
+90415,VERIFIABLE,SUPPORTS,Paris hosts the French Open.,False,google/flan-t5-small
+118986,VERIFIABLE,REFUTES,Toy Story is a television show.,True or False,google/flan-t5-small
+78768,VERIFIABLE,SUPPORTS,Kalpana Raghavendar is a person who writes songs.,True or False means that the person who wrote the song is not a singer. The answer: False.,google/flan-t5-small
+20329,VERIFIABLE,SUPPORTS,The Odia language is used to communicate in Chhattisgarh.,True,google/flan-t5-small
+159898,VERIFIABLE,REFUTES,Melisandre was left out of A Storm of Swords (2000).,True,google/flan-t5-small
+58799,VERIFIABLE,SUPPORTS,Queen Latifah has won at least one Screen Actors Guild Award.,True,google/flan-t5-small
+85630,VERIFIABLE,SUPPORTS,Laadla was released.,True or False,google/flan-t5-small
+221455,VERIFIABLE,SUPPORTS,Stars Dance is Selena Gomez's debut album.,True or False,google/flan-t5-small
+165521,VERIFIABLE,SUPPORTS,Ileana D'Cruz starred in a movie.,True or False,google/flan-t5-small
+38835,VERIFIABLE,SUPPORTS,Jet Li was in The Forbidden Kingdom with Jackie Chan.,True,google/flan-t5-small
+167599,VERIFIABLE,REFUTES,Suits stars a dog named Harvey Specter.,False,google/flan-t5-small
+19762,VERIFIABLE,REFUTES,Dr. Dre established his own country.,True or False,google/flan-t5-small
+152886,VERIFIABLE,REFUTES,Derrick Rose was not born in the Chicago area.,True,google/flan-t5-small
+15743,VERIFIABLE,SUPPORTS,Paul Newman was an actor.,False,google/flan-t5-small
+58154,VERIFIABLE,REFUTES,Charles I of England was a pauper.,True or False,google/flan-t5-small
+147414,VERIFIABLE,SUPPORTS,SF are the initials used to represent San Francisco.,False,google/flan-t5-small
+188671,VERIFIABLE,REFUTES,Billy Clanton was unrelated to Newman Clanton.,False,google/flan-t5-small
+47008,VERIFIABLE,SUPPORTS,Katherine Heigl appeared in a science fiction television series.,True or False,google/flan-t5-small
+3190,VERIFIABLE,SUPPORTS,Stagira is the birthplace of Plato.,False,google/flan-t5-small
+80711,VERIFIABLE,REFUTES,Cara Delevinge did not win the Model of the Year award.,True,google/flan-t5-small
+187303,VERIFIABLE,REFUTES,"David Harbour was born on June 2nd, 1991.",False,google/flan-t5-small
+9897,VERIFIABLE,SUPPORTS,"In Burundi, there are 21 registered parties.",False,google/flan-t5-small
+18847,VERIFIABLE,SUPPORTS,Where the Wild Things Are was released in Australia.,False,google/flan-t5-small
+94631,VERIFIABLE,REFUTES,Furious 7 is a TV show.,True or False,google/flan-t5-small
+128633,VERIFIABLE,SUPPORTS,Sarah Paulson received a Golden Globe Award nomination.,False,google/flan-t5-small
+165173,VERIFIABLE,REFUTES,"Caroline, Princess of Hanover is married to anyone but an heir.",True or False,google/flan-t5-small
+138755,VERIFIABLE,SUPPORTS,Grey's Anatomy is filmed in the United States.,True,google/flan-t5-small
+58718,VERIFIABLE,REFUTES,Nikolaj Coster-Waldau was not in a Danish thriller film.,True or False,google/flan-t5-small
+196805,VERIFIABLE,SUPPORTS,Sean Connery won three Golden Globes.,False,google/flan-t5-small
+66674,VERIFIABLE,REFUTES,Gujarat is in Western Boston.,False,google/flan-t5-small
+100620,VERIFIABLE,SUPPORTS,Cancer is a group of diseases involving abnormal cell proliferation.,True or False,google/flan-t5-small
+129893,VERIFIABLE,SUPPORTS,Marion Cotillard portrayed someone.,True or False,google/flan-t5-small
+214358,VERIFIABLE,REFUTES,Chandni was created in 2001.,True,google/flan-t5-small
+43472,VERIFIABLE,REFUTES,Ronald Reagan worked for the president of the United States.,True,google/flan-t5-small
+87440,VERIFIABLE,SUPPORTS,Kill Bill: Volume 2 is about the Bride continuing her revenge against Bill.,True or False,google/flan-t5-small
+227811,VERIFIABLE,SUPPORTS,Music journalism is critical of popular music topics.,False,google/flan-t5-small
+83838,VERIFIABLE,SUPPORTS,Tom Felton is an actor.,True or False,google/flan-t5-small
+69913,VERIFIABLE,SUPPORTS,The Marvel Cinematic Universe's first phase ended.,True,google/flan-t5-small
+36403,VERIFIABLE,REFUTES,Hulk's coloration has not varied.,True,google/flan-t5-small
+145087,VERIFIABLE,REFUTES,Roger Federer avoided tennis entirely.,True,google/flan-t5-small
+139066,VERIFIABLE,SUPPORTS,Andy Kaufman was an artist.,True or False,google/flan-t5-small
+43572,VERIFIABLE,SUPPORTS,Bruce Springsteen was a Kennedy Center Honors recipient in 2009.,False,google/flan-t5-small
+115431,VERIFIABLE,REFUTES,Planet of the Apes is a squid.,False,google/flan-t5-small
+135624,VERIFIABLE,SUPPORTS,Hayden Panettiere is a person.,True or False,google/flan-t5-small
+200739,VERIFIABLE,SUPPORTS,A Song of Ice and Fire is by George Raymond Richard Martin.,True or False,google/flan-t5-small
+218784,VERIFIABLE,SUPPORTS,Oh Yeon-seo worked in a group.,False,google/flan-t5-small
+17506,VERIFIABLE,SUPPORTS,Mango is the national fruit of the Philippines.,True,google/flan-t5-small
+158375,VERIFIABLE,REFUTES,"George Best has been described as ""the worst player to ever pull on the green shirt of Wales.""",False,google/flan-t5-small
+173560,VERIFIABLE,REFUTES,Bring It On (film) had zero involvement from Jesse Bradford.,True,google/flan-t5-small
+120515,VERIFIABLE,SUPPORTS,Roald Dahl writes books.,True or False means that the book is not true. The answer: False.,google/flan-t5-small
+77425,VERIFIABLE,SUPPORTS,Hypothyroidism can cause mood changes.,True,google/flan-t5-small
+180085,VERIFIABLE,REFUTES,Jon Watts has only ever been a plumber.,True or False,google/flan-t5-small
+205933,VERIFIABLE,REFUTES,Cosmopolitan as of 2011 only contains content which includes articles on dogs.,True,google/flan-t5-small
+109774,VERIFIABLE,SUPPORTS,"By area, Nepal is the ninety-third largest country on Earth.",True,google/flan-t5-small
+42766,VERIFIABLE,REFUTES,Wentworth premiered on Broadway.,False,google/flan-t5-small
+78916,VERIFIABLE,SUPPORTS,The Fujitsu iPAD was introduced by Fujitsu in 2002.,False,google/flan-t5-small
+27505,VERIFIABLE,SUPPORTS,Cage Warriors is an MMA promotion that held its first event in London.,True,google/flan-t5-small
+102894,VERIFIABLE,SUPPORTS,American Horror Story: Hotel is a season of an FX romance serialized radio series.,False,google/flan-t5-small
+210141,VERIFIABLE,SUPPORTS,Lonesome Dove (miniseries) was nominated for eighteen Emmys in 1989 and won seven.,True,google/flan-t5-small
+185469,VERIFIABLE,SUPPORTS,Denial was released in Europe.,False,google/flan-t5-small
+194647,VERIFIABLE,SUPPORTS,Avatar: The Last Airbender's antagonist is Aang.,True,google/flan-t5-small
+134796,VERIFIABLE,REFUTES,Apple was not founded in 1976.,False,google/flan-t5-small
+56283,VERIFIABLE,SUPPORTS,Conquest of the Planet of the Apes is genre fiction.,True or False is a false statement that is true.,google/flan-t5-small
+80327,VERIFIABLE,REFUTES,Grace Kelly did not work with Alfred Hitchcock.,True or False,google/flan-t5-small
+111244,VERIFIABLE,SUPPORTS,Bill Clinton served a term in office.,True or False,google/flan-t5-small
+113548,VERIFIABLE,SUPPORTS,There is an actor name Peter Davison.,True or False,google/flan-t5-small
+162961,VERIFIABLE,SUPPORTS,Troy Baker was the rhythm guitarist for Tripp Fontaine.,True or False,google/flan-t5-small
+57,VERIFIABLE,SUPPORTS,Sons of Anarchy premiered on FX.,True,google/flan-t5-small
+121073,VERIFIABLE,SUPPORTS,Sarah Palin ran for presidency alongside a senator from Arizona.,False,google/flan-t5-small
+190435,VERIFIABLE,SUPPORTS,"In 1937, William Hanna worked.",False,google/flan-t5-small
+83259,VERIFIABLE,REFUTES,Taylor Kitsch only worked on the 2012 film Savages.,True,google/flan-t5-small
+166107,VERIFIABLE,SUPPORTS,"Rescue Me ended on September 7, 2011.",True or False,google/flan-t5-small
+63298,VERIFIABLE,REFUTES,"In Azerbaijan, according to polls, 53% of the population state that religion has importance in their lives.",False,google/flan-t5-small
+122729,VERIFIABLE,SUPPORTS,Payton Manning signed with the Broncos following his release from the Colts in 2012.,False,google/flan-t5-small
+149965,VERIFIABLE,SUPPORTS,Christopher Lee portrayed Francisco Scaramanga in the film The Man with the Golden Gun.,True,google/flan-t5-small
+58460,VERIFIABLE,REFUTES,The Muppet Christmas Carol is a television show.,True or False,google/flan-t5-small
+141637,VERIFIABLE,REFUTES,Superior Donuts is a noir film.,True or False,google/flan-t5-small
+188949,VERIFIABLE,REFUTES,Usain Bolt is incapable of competing in sports.,False,google/flan-t5-small
+112400,VERIFIABLE,SUPPORTS,Mark Zuckerberg was named Person of the Year by Time magazine in May 2010.,False,google/flan-t5-small
+141628,VERIFIABLE,SUPPORTS,Lana Del Rey's music has been regarded for its penchant for ideas of tragic romance.,True or False,google/flan-t5-small
+20649,VERIFIABLE,SUPPORTS,Dirt was produced by ABC studios.,True or False,google/flan-t5-small
+67173,VERIFIABLE,SUPPORTS,Beauty and the Beast was directed by Bill Condon in 2017.,True,google/flan-t5-small
+27703,VERIFIABLE,SUPPORTS,Peyton Manning is the son of an NFL quarterback.,False,google/flan-t5-small
+205869,VERIFIABLE,SUPPORTS,Song Sung Blue is a work of music.,False,google/flan-t5-small
+62142,VERIFIABLE,SUPPORTS,Purple Haze was released as a single for a record.,False,google/flan-t5-small
+214424,VERIFIABLE,REFUTES,Bruce Lee was only a professional martial artist and unable to act.,True or False,google/flan-t5-small
+50092,VERIFIABLE,SUPPORTS,Land Rover makes the Range Rover Evoque.,True,google/flan-t5-small
+142616,VERIFIABLE,SUPPORTS,Gilmore Girls is a show.,True or False,google/flan-t5-small
+49273,VERIFIABLE,SUPPORTS,2001: A Space Odyssey was distributed by Metro-Goldwyn-Mayer and gained much fame.,True,google/flan-t5-small
+111281,VERIFIABLE,SUPPORTS,Eva Longoria is a performer.,True or False,google/flan-t5-small
+4321,VERIFIABLE,SUPPORTS,Texas Longhorns men's basketball took part in the NCAA Final Four three times total.,False,google/flan-t5-small
+81827,VERIFIABLE,REFUTES,Ajay Devgn is an actor in the Canadian film industry.,True,google/flan-t5-small
+170714,VERIFIABLE,SUPPORTS,Diana is a solo album by Diana Ross.,True or False,google/flan-t5-small
+228274,VERIFIABLE,SUPPORTS,The Silence of the Lambs was a film.,False,google/flan-t5-small
+102592,VERIFIABLE,REFUTES,Megan Fox ended her acting career in 2001.,True or False,google/flan-t5-small
+206796,VERIFIABLE,REFUTES,Nick Nolte turned down the role he was offered in Tropic Thunder.,True,google/flan-t5-small
+166699,VERIFIABLE,SUPPORTS,Ryuk (Death Note) is from a manga series that later became an anime.,True,google/flan-t5-small
+15872,VERIFIABLE,SUPPORTS,Lee Min-ho won Best New Actor award.,True,google/flan-t5-small
+18453,VERIFIABLE,SUPPORTS,Leslie Howard was a producer.,True or False,google/flan-t5-small
+132701,VERIFIABLE,SUPPORTS,New York City features Columbia University.,False,google/flan-t5-small
+6763,VERIFIABLE,SUPPORTS,John Wayne Gacy Jr. was a serial killer.,True or False,google/flan-t5-small
+104785,VERIFIABLE,REFUTES,It was announced that Black Panther would be developed by Marvel Studios in 1928.,True,google/flan-t5-small
+83556,VERIFIABLE,SUPPORTS,Joseph Stalin's birth took place before 1917.,True,google/flan-t5-small
+98301,VERIFIABLE,SUPPORTS,Heather Watson's competitor for the WTA singles title was Chang Kai-Chen.,False,google/flan-t5-small
+209730,VERIFIABLE,SUPPORTS,Friends with Benefits features actors.,True or False,google/flan-t5-small
+28225,VERIFIABLE,REFUTES,The Sopranos had seven seasons.,True or False,google/flan-t5-small
+26237,VERIFIABLE,SUPPORTS,England became the first industrialized nation.,False,google/flan-t5-small
+175063,VERIFIABLE,REFUTES,Anna Paquin was unable to perform the role of Flora McGrath.,False,google/flan-t5-small
+170920,VERIFIABLE,REFUTES,The Matrix Revolutions was directed by Steven Spielberg.,False,google/flan-t5-small
+77343,VERIFIABLE,SUPPORTS,Bob Kane and Jerry Robinson claim responsibility for the Joker's design.,True,google/flan-t5-small
+116589,VERIFIABLE,REFUTES,Robert Wagner wrote his autobiography by himself.,True or False means that the author wrote a book or a book. The answer: False.,google/flan-t5-small
+64342,VERIFIABLE,SUPPORTS,Angelina Jolie was in Salt.,True or False,google/flan-t5-small
+166193,VERIFIABLE,REFUTES,Dangerous Liaisons is exclusively a drama film.,True or False,google/flan-t5-small
+128217,VERIFIABLE,SUPPORTS,Michael Jackson was acquitted of allegations.,True or False,google/flan-t5-small
+192352,VERIFIABLE,REFUTES,Courtney Love refused to appear in Man on the Moon (1999).,True or False,google/flan-t5-small
+67461,VERIFIABLE,REFUTES,Taiwan did not change from a one-party military dictatorship to a multi-party democracy in the 1980s and early 1990s.,False,google/flan-t5-small
+224094,VERIFIABLE,SUPPORTS,Battle Studies World Tour was a tour by a singer from the United States.,False,google/flan-t5-small
+138297,VERIFIABLE,SUPPORTS,There is a film called The Breakfast Club.,True or False,google/flan-t5-small
+198480,VERIFIABLE,REFUTES,Stephen Rider turned down the opportunity to work in the series Lucky 7.,True or False,google/flan-t5-small
+44509,VERIFIABLE,SUPPORTS,Sade is a female artist famous for her music and acting.,False,google/flan-t5-small
+204479,VERIFIABLE,SUPPORTS,Dangerous Beauty was directed by someone.,True or False,google/flan-t5-small
+79097,VERIFIABLE,SUPPORTS,October was the month in which Edgar Allan Poe died.,False,google/flan-t5-small
+74594,VERIFIABLE,SUPPORTS,Roger Penrose was a co-recipient of the 1988 Wolf Prize for physics along with Stephen Hawking.,False,google/flan-t5-small
+81438,VERIFIABLE,REFUTES,Muhammad did not migrate from Mecca to Medina.,True,google/flan-t5-small
+464,VERIFIABLE,SUPPORTS,Anne Hathaway had a role.,True or False,google/flan-t5-small
+111681,VERIFIABLE,SUPPORTS,Margot Kidder appeared on the children's television series R.L. Stine's The Haunting Hour.,True,google/flan-t5-small
+30979,VERIFIABLE,SUPPORTS,Elephants have been featured in places.,True or False,google/flan-t5-small
+164598,VERIFIABLE,REFUTES,Three Men and a Baby is a baby food store.,True or False,google/flan-t5-small
+89292,VERIFIABLE,SUPPORTS,Tyra Banks was the first African American woman in the centerfold of GQ.,True,google/flan-t5-small
+113021,VERIFIABLE,SUPPORTS,Lydia Hearst is a lifestyle blogger and model.,True or False,google/flan-t5-small
+116074,VERIFIABLE,SUPPORTS,KJ Apa was cast as a character in Riverdale in 2016.,True,google/flan-t5-small
+127513,VERIFIABLE,REFUTES,Canada is an island.,True or False,google/flan-t5-small
+80656,VERIFIABLE,SUPPORTS,Napoleon's campaigns are studied at schools.,False,google/flan-t5-small
+211906,VERIFIABLE,REFUTES,A loss of supply only has nothing to do with prime ministers.,False,google/flan-t5-small
+117579,VERIFIABLE,REFUTES,Ringo Starr has been featured in textbooks.,True or False,google/flan-t5-small
+9700,VERIFIABLE,SUPPORTS,Ivan Lendl has finished four years ranked as the world's top tennis player.,False,google/flan-t5-small
+5226,VERIFIABLE,SUPPORTS,Indonesia's wilderness supports a variety of life.,False,google/flan-t5-small
+54132,VERIFIABLE,SUPPORTS,Joan Collins was in Sunburn.,True or False,google/flan-t5-small
+7920,VERIFIABLE,SUPPORTS,The Belko Experiment is an American horror film.,True or False,google/flan-t5-small
+225509,VERIFIABLE,SUPPORTS,The 84th Academy Awards' winners included Beginners.,False,google/flan-t5-small
+126642,VERIFIABLE,SUPPORTS,Michael Keaton was nominated for an Academy Award for Best Actor.,True,google/flan-t5-small
+117550,VERIFIABLE,SUPPORTS,Newcastle United F.C. is well-known around the world.,False,google/flan-t5-small
+65365,VERIFIABLE,REFUTES,Randy Orton has been unable to move his entire life.,True or False,google/flan-t5-small
+85720,VERIFIABLE,SUPPORTS,Adderall contains a levoamphetamine component along with a dextroamphetamine component.,True,google/flan-t5-small
+1318,VERIFIABLE,SUPPORTS,Novak Djokovic was born in 1987.,False,google/flan-t5-small
+218857,VERIFIABLE,SUPPORTS,The life of the writer of Thirteen is the basis for the story.,True or False means that the story is based on the story.,google/flan-t5-small
+204213,VERIFIABLE,SUPPORTS,Gwen Stefani's band released an album in 1995.,False,google/flan-t5-small
+27424,VERIFIABLE,SUPPORTS,Spain is in Europe.,False,google/flan-t5-small
+162085,VERIFIABLE,SUPPORTS,War of the Worlds is a film that is categorized as science fiction.,True or False,google/flan-t5-small
+138175,VERIFIABLE,SUPPORTS,Mark Hamill is an American writer.,True or False,google/flan-t5-small
+32278,VERIFIABLE,REFUTES,Thor: The Dark World was released in October 2013 in the United States.,True or False,google/flan-t5-small
+177289,VERIFIABLE,SUPPORTS,Felicity Jones was in a work directed by James Marsh.,True,google/flan-t5-small
+41919,VERIFIABLE,REFUTES,O. J. Simpson died before football was invented.,False,google/flan-t5-small
+217865,VERIFIABLE,SUPPORTS,Ryan Phillippe and Reese Witherspoon married each other.,True,google/flan-t5-small
+184651,VERIFIABLE,SUPPORTS,Augusto Pinochet died in 2006.,False,google/flan-t5-small
+10936,VERIFIABLE,REFUTES,My Sweet Lord is by The Temptations.,True or False,google/flan-t5-small
+155549,VERIFIABLE,SUPPORTS,Michael Keaton will play the role of a supervillain.,True or False,google/flan-t5-small
+57108,VERIFIABLE,SUPPORTS,Moana is a work in the medium of animation.,True or False,google/flan-t5-small
+39734,VERIFIABLE,SUPPORTS,Salman Khan had a role in an action drama.,True or False,google/flan-t5-small
+158852,VERIFIABLE,SUPPORTS,Mel Gibson took a hiatus from directing.,True or False,google/flan-t5-small
+200498,VERIFIABLE,SUPPORTS,"The Twilight series's is a young adult vampire romance series, the first book of which is called Twilight.",True or False,google/flan-t5-small
+59018,VERIFIABLE,SUPPORTS,Larry Junstrom is a bassist in a rock band.,True or False,google/flan-t5-small
+6545,VERIFIABLE,SUPPORTS,Emily Blunt starred in The Huntsman: Winter's War.,True or False,google/flan-t5-small
+23935,VERIFIABLE,SUPPORTS,The Ten Commandments is an epic movie.,True or False,google/flan-t5-small
+139413,VERIFIABLE,SUPPORTS,Demi Lovato is an LGBT community advocate.,True,google/flan-t5-small
+206854,VERIFIABLE,SUPPORTS,Ayutthaya was friendly towards foreigners.,False,google/flan-t5-small
+34712,VERIFIABLE,SUPPORTS,O. J. Simpson was an actor.,True or False,google/flan-t5-small
+105782,VERIFIABLE,SUPPORTS,March was the month Jennifer Grey was born on.,True,google/flan-t5-small
+185636,VERIFIABLE,SUPPORTS,Ben Whishaw was in Perfume: The Store of a Murderer.,False,google/flan-t5-small
+56737,VERIFIABLE,REFUTES,Arrow is available on DVD only in region 3.,True,google/flan-t5-small
+221865,VERIFIABLE,SUPPORTS,The Narrows is a film from America.,True or False,google/flan-t5-small
+84138,VERIFIABLE,SUPPORTS,The Academy Honorary Award was put in place in 1948.,False,google/flan-t5-small
+125495,VERIFIABLE,SUPPORTS,Caitlyn Jenner changed her gender from male to female.,True,google/flan-t5-small
+55235,VERIFIABLE,SUPPORTS,Travis Barker collaborated with others.,True or False,google/flan-t5-small
+172575,VERIFIABLE,SUPPORTS,Judith Quiney was the daughter of a man.,False,google/flan-t5-small
+115514,VERIFIABLE,REFUTES,Sam Worthington was born in 1876.,False,google/flan-t5-small
+116674,VERIFIABLE,SUPPORTS,Ron Perlman was born in 1950 as Ronald N. Perlman.,True,google/flan-t5-small
+156426,VERIFIABLE,SUPPORTS,The United States used nuclear weapons in warfare.,False,google/flan-t5-small
+29929,VERIFIABLE,SUPPORTS,Henry V is a 2012 British film.,True or False,google/flan-t5-small
+229277,VERIFIABLE,SUPPORTS,Joseph is the middle name of Neal Schon.,True,google/flan-t5-small
+56562,VERIFIABLE,SUPPORTS,Chris Evans (actor) worked on Before We Go.,False,google/flan-t5-small

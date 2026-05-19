@@ -1,0 +1,1001 @@
+id,verifiable,label,claim,llm_answer,llm_model
+75397,VERIFIABLE,SUPPORTS,Nikolaj Coster-Waldau worked with the Fox Broadcasting Company.,True. Coster-Waldau worked with Fox Broadcasting Company.,declare-lab/flan-alpaca-base
+150448,VERIFIABLE,SUPPORTS,Roman Atwood is a content creator.,True. Roman Atwood is a content creator. He is a prolific author and a prolific writer. He has written over a million books and has written over a million articles. He has also written a number of books and articles. He has also written a number of books and articles.,declare-lab/flan-alpaca-base
+214861,VERIFIABLE,SUPPORTS,"History of art includes architecture, dance, sculpture, music, painting, poetry literature, theatre, narrative, film, photography and graphic arts.","True. Art is a complex and diverse field of art that spans a wide range of cultures, from classical to modern. It is a complex field of study that focuses on the development of new technologies, such as computers, software, and art history.",declare-lab/flan-alpaca-base
+156709,VERIFIABLE,REFUTES,Adrienne Bailon is an accountant.,True. Audrey Bailon is an accountant.,declare-lab/flan-alpaca-base
+129629,VERIFIABLE,SUPPORTS,Homeland is an American television spy thriller based on the Israeli television series Prisoners of War.,True. Homeland is an American television spy thriller based on the television series Prisoners of War.,declare-lab/flan-alpaca-base
+33078,VERIFIABLE,SUPPORTS,The Boston Celtics play their home games at TD Garden.,False. The Boston Celtics play their home games at TD Garden.,declare-lab/flan-alpaca-base
+6744,VERIFIABLE,SUPPORTS,The Ten Commandments is an epic film.,"False. The Ten Commandments is an epic film that follows the story of Jesus Christ and his followers. It is a story of faith, courage, and courage.",declare-lab/flan-alpaca-base
+226034,VERIFIABLE,SUPPORTS,Tetris has sold millions of physical copies.,True. Tetris has sold millions of physical copies.,declare-lab/flan-alpaca-base
+40190,VERIFIABLE,SUPPORTS,Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.,True. Cyndi Lauper won the Best New Artist award at the 27th Grammy Awards in 1985.,declare-lab/flan-alpaca-base
+76253,VERIFIABLE,SUPPORTS,There is a movie called The Hunger Games.,True,declare-lab/flan-alpaca-base
+188923,VERIFIABLE,SUPPORTS,Ryan Gosling has been to a country in Africa.,True. Ryan Gosling has been to Africa.,declare-lab/flan-alpaca-base
+138503,VERIFIABLE,REFUTES,"Stranger Things is set in Bloomington, Indiana.",True,declare-lab/flan-alpaca-base
+129983,VERIFIABLE,SUPPORTS,Ryan Seacrest is a person.,True. Ryan Seacrest is a celebrity.,declare-lab/flan-alpaca-base
+73170,VERIFIABLE,REFUTES,Puerto Rico is not an unincorporated territory of the United States.,False. Puerto Rico is an unincorporated territory of the United States.,declare-lab/flan-alpaca-base
+179616,VERIFIABLE,SUPPORTS,Michael Giacchino composed the score for Doctor Strange.,False. Michael Giacchino composed the score for Doctor Strange.,declare-lab/flan-alpaca-base
+207456,VERIFIABLE,SUPPORTS,Stranger than Fiction is a film.,True. Stranger than Fiction is a movie that tells the story of a young girl who is awoken by a mysterious event. It is a story about a young girl who is awoken by a mysterious event. It is a story about a young girl,declare-lab/flan-alpaca-base
+3,VERIFIABLE,SUPPORTS,Chris Hemsworth appeared in A Perfect Getaway.,False. Chris Hemsworth appeared in A Perfect Getaway.,declare-lab/flan-alpaca-base
+93956,VERIFIABLE,SUPPORTS,Selena recorded music.,False. Selena recorded music in her early 20s.,declare-lab/flan-alpaca-base
+53133,VERIFIABLE,SUPPORTS,"Robert J. O'Neill was born April 10, 1976.","True. Robert J. O'Neill was born on April 10, 1976.",declare-lab/flan-alpaca-base
+228271,VERIFIABLE,SUPPORTS,The Silence of the Lambs was a film starring Scott Glenn.,True. The Silence of the Lambs was a film starring Scott Glenn.,declare-lab/flan-alpaca-base
+15812,VERIFIABLE,REFUTES,Peggy Sue Got Married is a Egyptian film released in 1986.,True,declare-lab/flan-alpaca-base
+57330,VERIFIABLE,REFUTES,Andy Roddick lost 5 Master Series between 2002 and 2010.,True. Andy Roddick lost 5 Master Series between 2002 and 2010 due to a combination of factors.,declare-lab/flan-alpaca-base
+52432,VERIFIABLE,REFUTES,"As the Vietnam War raged in 1969, Yoko Ono and her husband John Lennon did not have two week-long Bed-Ins for Peace.",False. Yoko Ono and John Lennon had two week-long Bed-Ins for Peace in 1969.,declare-lab/flan-alpaca-base
+214706,VERIFIABLE,SUPPORTS,Tupac Shakur was born Lesane Parish Crooks.,True. Lesane Parish Crooks was born in the year 2021.,declare-lab/flan-alpaca-base
+172270,VERIFIABLE,SUPPORTS,"The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.","True. The Jim Henson Company produced The Muppet Movie, The Dark Crystal, and Labyrinth.",declare-lab/flan-alpaca-base
+64557,VERIFIABLE,SUPPORTS,Slovenia uses the euro.,True. The Euro is the official currency of Slovenia.,declare-lab/flan-alpaca-base
+200996,VERIFIABLE,SUPPORTS,Iowa is a part of the Midwestern United States.,True. Iowa is a part of the Midwest United States.,declare-lab/flan-alpaca-base
+206132,VERIFIABLE,SUPPORTS,Saratoga is an American film from 1937.,True. Saratoga is an American film from 1937.,declare-lab/flan-alpaca-base
+215831,VERIFIABLE,SUPPORTS,J. Howard Marshall was a baby.,False. J. Howard Marshall was a young man.,declare-lab/flan-alpaca-base
+180769,VERIFIABLE,REFUTES,Grace Jones is a dancer.,True. Grace Jones is a dancer.,declare-lab/flan-alpaca-base
+170685,VERIFIABLE,SUPPORTS,Lisbon has a population larger than 1.,"False. Lisbon has a population of around 20,000 people.",declare-lab/flan-alpaca-base
+111602,VERIFIABLE,REFUTES,Willie Nelson dropped out of college after three years.,True. William Nelson dropped out of college after three years.,declare-lab/flan-alpaca-base
+119264,VERIFIABLE,SUPPORTS,Malcolm Young was the co-founder of Australian hard rock band AC/DC.,False. Malcolm Young was the co-founder of Australian hard rock band AC/DC.,declare-lab/flan-alpaca-base
+77712,VERIFIABLE,SUPPORTS,Newfoundland and Labrador is the most linguistically homogeneous of Canada.,False. Newfoundland and Labrador is the most linguistically homogeneous of Canada.,declare-lab/flan-alpaca-base
+184132,VERIFIABLE,REFUTES,Furia is adapted from a short story by Anna Politkovskaya.,True. The story is based on a novel by Anna Politkovskaya.,declare-lab/flan-alpaca-base
+74400,VERIFIABLE,SUPPORTS,One state of the United States has Russia to its west.,"False. Russia is to its west, but it is not the only one.",declare-lab/flan-alpaca-base
+91253,VERIFIABLE,SUPPORTS,Sophie Turner was born in the 1990s.,False. Sophia Turner was born in the 1990s.,declare-lab/flan-alpaca-base
+53316,VERIFIABLE,SUPPORTS,Mother Teresa was made a saint by the church.,True. Mother Teresa was made a saint by the Catholic Church.,declare-lab/flan-alpaca-base
+189815,VERIFIABLE,SUPPORTS,The Smurfs (film) was released.,False,declare-lab/flan-alpaca-base
+110847,VERIFIABLE,REFUTES,C. S. Forester's first name was Carl.,False. C. S. Forester's first name was Carl.,declare-lab/flan-alpaca-base
+36776,VERIFIABLE,REFUTES,Kong: Skull Island is a book.,False. Skull Island is a book.,declare-lab/flan-alpaca-base
+137323,VERIFIABLE,REFUTES,The Challenge was a scripted show.,True. The Challenge was a TV show that was a scripted show.,declare-lab/flan-alpaca-base
+113118,VERIFIABLE,SUPPORTS,Berlin is the capital of Germany.,True. Berlin is the capital of Germany.,declare-lab/flan-alpaca-base
+225701,VERIFIABLE,SUPPORTS,South Korea has a highly educated workforce.,True. South Korea has a highly educated workforce.,declare-lab/flan-alpaca-base
+162606,VERIFIABLE,SUPPORTS,"Hacksaw Ridge came out in America on November 4, 2016.",True,declare-lab/flan-alpaca-base
+47549,VERIFIABLE,SUPPORTS,Michael Fassbender is an actor.,False. Michael Fassbender is an actor.,declare-lab/flan-alpaca-base
+32126,VERIFIABLE,REFUTES,Red Headed Stranger is a movie.,True. Red Headed Stranger is a movie.,declare-lab/flan-alpaca-base
+44422,VERIFIABLE,SUPPORTS,Paul Bettany has played Vision in at least two works.,False. Paul Bettany has played Vision in at least two works.,declare-lab/flan-alpaca-base
+33767,VERIFIABLE,SUPPORTS,Scotland's Hebrides is widespread and diverse with many islands.,False. Scotland's Hebrides is a diverse and diverse island with many islands.,declare-lab/flan-alpaca-base
+79578,VERIFIABLE,SUPPORTS,Uzbekistan is a part of the Commonwealth of Independent States (CIS).,True. Uzbekistan is a part of the Commonwealth of Independent States (CIS).,declare-lab/flan-alpaca-base
+158370,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales is patron of numerous other organizations.","False. Charles, Prince of Wales is a patron of numerous other organizations.",declare-lab/flan-alpaca-base
+30865,VERIFIABLE,REFUTES,Chester Bennington is not a singer.,True. Chester Bennington is a singer.,declare-lab/flan-alpaca-base
+46639,VERIFIABLE,SUPPORTS,Vincent Cassel played Jacques Mesrine in at least two films.,True. Vincent Cassel played Jacques Mesrine in at least two films.,declare-lab/flan-alpaca-base
+120501,VERIFIABLE,SUPPORTS,Pope John Paul II co-stars many actors besides Christopher Lee.,False. Pope John Paul II has starred many actors besides Christopher Lee.,declare-lab/flan-alpaca-base
+170078,VERIFIABLE,REFUTES,David Beckham has zero middle names.,False. David Beckham has zero middle names.,declare-lab/flan-alpaca-base
+143348,VERIFIABLE,REFUTES,Indiana Jones has only been portrayed by Harrison Ford.,"True. Harrison Ford has portrayed many other characters, including Jane Austen, Daisy Buchanan, and Daisy Buchanan.",declare-lab/flan-alpaca-base
+156207,VERIFIABLE,SUPPORTS,Brian Wilson was part of the Beach Boys.,True.,declare-lab/flan-alpaca-base
+99976,VERIFIABLE,SUPPORTS,The Great Gatsby centers on a youthful person with over a million dollars.,True. The Great Gatsby is a classic novel about a young man who is wealthy and has over a million dollars.,declare-lab/flan-alpaca-base
+93444,VERIFIABLE,REFUTES,Shane Black and Chris Miller wrote Iron Man 3.,False. Iron Man 3 was written by Shane Black and Chris Miller.,declare-lab/flan-alpaca-base
+181753,VERIFIABLE,REFUTES,"La La Anthony was conceived on June 25th, 1979.",True,declare-lab/flan-alpaca-base
+155975,VERIFIABLE,SUPPORTS,Led Zeppelin is a band.,True. Led Zeppelin is a rock band.,declare-lab/flan-alpaca-base
+210782,VERIFIABLE,SUPPORTS,"Richard Harris was born on October 25, 2002.","True. Richard Harris was born on October 25, 2002.",declare-lab/flan-alpaca-base
+23042,VERIFIABLE,SUPPORTS,The Fosters is a television series.,True. The Fosters is a television series.,declare-lab/flan-alpaca-base
+214059,VERIFIABLE,SUPPORTS,Blair is Jonathan Hensleigh's middle name.,False.,declare-lab/flan-alpaca-base
+86378,VERIFIABLE,REFUTES,Filmfare is about cheese.,False. Filmfare is about cheese.,declare-lab/flan-alpaca-base
+140101,VERIFIABLE,REFUTES,Buckingham Palace lacks brightly colored scagliola.,False. Buckingham Palace has brightly colored scagliola.,declare-lab/flan-alpaca-base
+213821,VERIFIABLE,SUPPORTS,Sarah Paulson makes an appearance in What Women Want.,True. Sarah Paulson is a popular actress and has appeared in What Women Want.,declare-lab/flan-alpaca-base
+187282,VERIFIABLE,SUPPORTS,David Harbour is an American.,False. David Harbour is an American.,declare-lab/flan-alpaca-base
+193992,VERIFIABLE,SUPPORTS,The terrain of Kazakhstan includes taiga.,"True. Taiga is a type of snow-covered mountain range in Kazakhstan, located in the western part of the country.",declare-lab/flan-alpaca-base
+132873,VERIFIABLE,REFUTES,"José María Chacón surrendered the island of Trinidad in 1797, one year before his death.",True.,declare-lab/flan-alpaca-base
+15711,VERIFIABLE,SUPPORTS,Liverpool F.C. was valued at $1.55 billion at one point.,False. Liverpool F.C. was valued at $1.55 billion at one point.,declare-lab/flan-alpaca-base
+104690,VERIFIABLE,SUPPORTS,Land Rover makes cars.,False. Land Rover is a car manufacturer that makes cars.,declare-lab/flan-alpaca-base
+48320,VERIFIABLE,SUPPORTS,Sully is a form of media.,"False. Sully is a form of media, but it is not a form of entertainment.",declare-lab/flan-alpaca-base
+80232,VERIFIABLE,SUPPORTS,Stanley Tucci performed in an television series.,True. Stanley Tucci performed in an television series.,declare-lab/flan-alpaca-base
+60225,VERIFIABLE,REFUTES,Brock Lesnar married Randy Couture.,True. Brock Lesnar and Randy Couture are married.,declare-lab/flan-alpaca-base
+50619,VERIFIABLE,SUPPORTS,The Khmer Empire was not weak.,True. The Khmer Empire was not weak.,declare-lab/flan-alpaca-base
+172885,VERIFIABLE,SUPPORTS,On the Road (film) premiered at a film festival.,True. On the Road was released at the Cannes Film Festival.,declare-lab/flan-alpaca-base
+89016,VERIFIABLE,SUPPORTS,Paramore's co-founders left the band in March 2010.,"False. The band's co-founders left in March 2010, but they were still active in the band.",declare-lab/flan-alpaca-base
+147532,VERIFIABLE,SUPPORTS,Peter Davison has been in a BBC show.,True. Peter Davison has been in a BBC show.,declare-lab/flan-alpaca-base
+116614,VERIFIABLE,REFUTES,"21 Jump Street was released June 16, 2012.",True,declare-lab/flan-alpaca-base
+209444,VERIFIABLE,SUPPORTS,"The collections of the Philadelphia Museum of Art contain over 240,000 objects.","True. The Philadelphia Museum of Art has over 240,000 objects.",declare-lab/flan-alpaca-base
+135416,VERIFIABLE,SUPPORTS,Dustin Hoffman is an award-winning actor.,"True. Dustin Hoffman is an award-winning actor. He has won numerous awards and accolades. He has also been a recipient of numerous awards, including the Academy Award for Best Actor.",declare-lab/flan-alpaca-base
+219066,VERIFIABLE,SUPPORTS,T. J. Miller was featured in Deadpool 2.,True. T. J. Miller was featured in Deadpool 2.,declare-lab/flan-alpaca-base
+145636,VERIFIABLE,REFUTES,Stephon Marbury plays basketball in America.,False. Stephen Marbury is a professional basketball player from the United States.,declare-lab/flan-alpaca-base
+135345,VERIFIABLE,SUPPORTS,CP affects people.,"False. CP is a genetic disorder that affects people. It is caused by the genetic material of the organism, which is a genetic material. It is a genetic disorder that affects the genetic makeup of the organism.",declare-lab/flan-alpaca-base
+58943,VERIFIABLE,SUPPORTS,Alfred Hitchcock is a person.,"True. Alfred Hitchcock is a fictional character from the novel ""The Hitchcock Story"".",declare-lab/flan-alpaca-base
+168445,VERIFIABLE,REFUTES,Julius Caesar is only a book.,False. Julius Caesar is a famous Roman epic. He is a great leader and a great leader. He is also a great poet and a great leader. He is also a great leader and a great leader.,declare-lab/flan-alpaca-base
+228933,VERIFIABLE,SUPPORTS,Pulp Fiction is directed by a male.,False. Pulp Fiction is directed by a female.,declare-lab/flan-alpaca-base
+69880,VERIFIABLE,REFUTES,Absolute Beginners was directed by Hitchcock.,True. Absolute Beginners was directed by Hitchcock.,declare-lab/flan-alpaca-base
+161033,VERIFIABLE,SUPPORTS,No Reservations got a mixed reception from critics.,False. No reservations got mixed reviews from critics.,declare-lab/flan-alpaca-base
+144047,VERIFIABLE,SUPPORTS,Claire Danes is wedded to an actor from England.,False. The actor from England is the wife of Claire Danes.,declare-lab/flan-alpaca-base
+166161,VERIFIABLE,REFUTES,Dangerous Liaisons is based on Christopher Hampton's novel.,"True. The novel is based on Christopher Hampton's novel, The Unexpected Journey.",declare-lab/flan-alpaca-base
+10265,VERIFIABLE,SUPPORTS,The Academy Awards are an annual event.,True. The Academy Awards are an annual event that is held annually.,declare-lab/flan-alpaca-base
+187935,VERIFIABLE,SUPPORTS,Hubert Humphrey became the DFL candidate for mayor of a city.,True. Humphrey was the DFL candidate for mayor of a city.,declare-lab/flan-alpaca-base
+139841,VERIFIABLE,SUPPORTS,Alex Rodriguez has 666 home runs.,True,declare-lab/flan-alpaca-base
+221791,VERIFIABLE,SUPPORTS,Friendship has been studied in academic fields.,"True. Friendship has been studied in academic fields, but it has not been studied in the real world.",declare-lab/flan-alpaca-base
+52846,VERIFIABLE,SUPPORTS,Judd Apatow is a person who writes.,True.,declare-lab/flan-alpaca-base
+189135,VERIFIABLE,REFUTES,Massachusetts is far away from Rhode Island.,False. Massachusetts is far away from Rhode Island.,declare-lab/flan-alpaca-base
+37693,VERIFIABLE,REFUTES,Giancarlo Stanton was in the 2017 MLB draft.,True. Giancarlo Stanton was in the 2017 MLB draft.,declare-lab/flan-alpaca-base
+17202,VERIFIABLE,SUPPORTS,Chris Pine appeared in Wonder Woman (2017 film).,False. Chris Pine appeared in Wonder Woman (2017 film).,declare-lab/flan-alpaca-base
+41961,VERIFIABLE,SUPPORTS,Trevor Noah hosts a news satire show.,"True. Trevor Noah is a popular news satire show host. He is known for his satire show, which is based on the real-life events of the day. He is also known for his satire show, which is based on the real-life events of the day.",declare-lab/flan-alpaca-base
+197680,VERIFIABLE,SUPPORTS,Lucas starred an actor that died on March 10.,False. The actor who died on March 10 was Lucas.,declare-lab/flan-alpaca-base
+95895,VERIFIABLE,REFUTES,Ryan Phillippe refused to perform in the soap opera One Life to Live.,True. Ryan Phillippe refused to perform in the soap opera One Life to Live.,declare-lab/flan-alpaca-base
+50297,VERIFIABLE,REFUTES,Sean Connery never won an Academy Award.,"False. Sean Connery has won many awards, including the Academy Award for Best Actress, the Academy Award for Best Actress, and the Academy Award for Best Actress.",declare-lab/flan-alpaca-base
+70483,VERIFIABLE,REFUTES,Venom has since become less of an antihero.,False. Venom has become less of an antihero due to its reliance on technology and its ability to manipulate the environment.,declare-lab/flan-alpaca-base
+59356,VERIFIABLE,SUPPORTS,"Overwatch is a video game in which players gain cosmetic awards and it assigns players into two teams of six, each player with a style of play known as Offense, Defense, Tank, and Support.",True,declare-lab/flan-alpaca-base
+28643,VERIFIABLE,SUPPORTS,Lily James has been on TV.,True. Lily James has been on TV.,declare-lab/flan-alpaca-base
+31799,VERIFIABLE,SUPPORTS,Jing Tian date of birth is in July.,True.,declare-lab/flan-alpaca-base
+63338,VERIFIABLE,REFUTES,Jennifer Aniston's parents are Fred and Wilma Flintstone.,True. Jennifer Aniston's parents were Fred and Wilma Finch.,declare-lab/flan-alpaca-base
+92202,VERIFIABLE,SUPPORTS,The Peloponnesian War was won by Sparta.,False. The Peloponnesian War was won by Sparta.,declare-lab/flan-alpaca-base
+3994,VERIFIABLE,SUPPORTS,Isis had a temple at Behbeit El Hagar.,"True. The temple was built by the gods of the gods of the gods, and was located in the heart of the city of Behbeit El Hagar.",declare-lab/flan-alpaca-base
+199009,VERIFIABLE,REFUTES,International Relations only includes the entertainment industry.,"False. International relations includes the entertainment industry, but it also includes other industries such as politics, finance, and tourism.",declare-lab/flan-alpaca-base
+180425,VERIFIABLE,SUPPORTS,Régine Chassagne is Canadian.,True. Régine Chassagne is a French-born Canadian.,declare-lab/flan-alpaca-base
+52407,VERIFIABLE,SUPPORTS,John McCain works in politics.,True. John McCain is a Republican Senator who is a member of the Republican Party. He is a member of the Republican Party and is a member of the Republican Party. He is a member of the Republican Party and is a member of the Republican Party.,declare-lab/flan-alpaca-base
+23894,VERIFIABLE,SUPPORTS,Farrah Fawcett received an Emmy Award nomination for her role as a battered wife in the 1984 film The Burning Bed.,True. Fawcett received an Emmy Award nomination for her role as a battered wife in the 1984 film The Burning Bed.,declare-lab/flan-alpaca-base
+216564,VERIFIABLE,SUPPORTS,"The Who's first single was ""My Generation"".","True. The Who's first single was ""My Generation"" by The Beatles.",declare-lab/flan-alpaca-base
+6981,VERIFIABLE,SUPPORTS,Planet of the Apes (1968 film) had a script that underwent rewrites.,False. The script of Planet of the Apes (1968 film) had a script that underwent rewrites.,declare-lab/flan-alpaca-base
+141101,VERIFIABLE,SUPPORTS,Star vs. the Forces of Evil is a series.,True. Star vs. the Forces of Evil is a series of books written by J.D. Salinger.,declare-lab/flan-alpaca-base
+126769,VERIFIABLE,SUPPORTS,Galaxy Quest is a movie that is American.,True. Galaxy Quest is a movie that is American.,declare-lab/flan-alpaca-base
+209732,VERIFIABLE,SUPPORTS,Friends with Benefits features actors.,True. Friends with Benefits features actors.,declare-lab/flan-alpaca-base
+216673,VERIFIABLE,REFUTES,Glenn Close won the Tony Award for Best Actress in a Play in 1984.,True.,declare-lab/flan-alpaca-base
+35201,VERIFIABLE,SUPPORTS,Zooey Deschanel performed.,"True. Zooey Deschanel performed in a show called ""The Magical Circus"".",declare-lab/flan-alpaca-base
+27974,VERIFIABLE,SUPPORTS,Seven Days in May stars an American.,True. Seven Days in May stars an American.,declare-lab/flan-alpaca-base
+184921,VERIFIABLE,SUPPORTS,Winnipeg is home to several sports teams.,True. Vancouver is home to several sports teams.,declare-lab/flan-alpaca-base
+65112,VERIFIABLE,SUPPORTS,Mark Zuckerberg co-founded a website.,True. Mark Zuckerberg co-founded a website.,declare-lab/flan-alpaca-base
+149028,VERIFIABLE,REFUTES,Rick and Morty was renewed for a fourth season in 2014.,True. Rick and Morty was renewed for a fourth season in 2014.,declare-lab/flan-alpaca-base
+48769,VERIFIABLE,SUPPORTS,Paul Walker acted in movies.,True. Paul Walker was an actor who starred in movies. He was also a director and producer.,declare-lab/flan-alpaca-base
+148416,VERIFIABLE,SUPPORTS,Clint Eastwood was nominated for an award.,False. Clart Eastwood was nominated for an award.,declare-lab/flan-alpaca-base
+214181,VERIFIABLE,SUPPORTS,Shonen Jump is published in a continent.,True. The movie Shinen Jump is published in a continent.,declare-lab/flan-alpaca-base
+141491,VERIFIABLE,REFUTES,Gilmore Girls is a Canadian show.,True. Gilmore Girls is a Canadian show.,declare-lab/flan-alpaca-base
+175034,VERIFIABLE,SUPPORTS,"Honest sold 53,000 units in a week.",True,declare-lab/flan-alpaca-base
+101384,VERIFIABLE,SUPPORTS,"Since July 2012, Pranab Mukherjee has been in office.",True,declare-lab/flan-alpaca-base
+82987,VERIFIABLE,SUPPORTS,"Anonymous represents 4chan users simultaneously existing as an anarchic, digitized global brain.",False,declare-lab/flan-alpaca-base
+10558,VERIFIABLE,SUPPORTS,San Francisco is in California.,True. San Francisco is located in California.,declare-lab/flan-alpaca-base
+171243,VERIFIABLE,REFUTES,Laadla is exclusively an American film.,False. Laadla is an Indian film.,declare-lab/flan-alpaca-base
+45795,VERIFIABLE,SUPPORTS,Lily Collins wrote for a U.S magazine that targets teen girls.,True. Lily Collins wrote for a U.S magazine that targeted teen girls.,declare-lab/flan-alpaca-base
+67257,VERIFIABLE,SUPPORTS,Bangladesh has been affected by poverty.,"True. Bangladesh has been affected by poverty since the early 20th century. It has been a major contributor to the global economic crisis, with the country's GDP rising by a third in the last decade.",declare-lab/flan-alpaca-base
+141252,VERIFIABLE,SUPPORTS,Lisa Lopes was a founding member of TLC.,True. Lisa Lopes was a founding member of TLC.,declare-lab/flan-alpaca-base
+38289,VERIFIABLE,SUPPORTS,The Formula (1980 film) was directed by an American.,True. The Formula (1980 film) was directed by an American.,declare-lab/flan-alpaca-base
+1802,VERIFIABLE,SUPPORTS,Janet Jackson's third album was released in February 1986.,True. Jane Jackson's third album was released in February 1986.,declare-lab/flan-alpaca-base
+8812,VERIFIABLE,SUPPORTS,Transformers: The Last Knight's cast includes Tyrese Gibson.,True. Tyrese Gibson is the main character in Transformers: The Last Knight.,declare-lab/flan-alpaca-base
+70910,VERIFIABLE,SUPPORTS,There are two television series Morena Baccarin was part of.,"False. Morena Baccarin was part of the television series ""The Princess Bride"".",declare-lab/flan-alpaca-base
+40402,VERIFIABLE,SUPPORTS,Naturi Naughton was born in the year of 1984.,True. Naturi Naughton was born in 1984.,declare-lab/flan-alpaca-base
+68907,VERIFIABLE,REFUTES,Paul Pogba has won four nonconsecutive Serie A titles.,False. Paul Pogba has won four nonconsecutive Serie A titles.,declare-lab/flan-alpaca-base
+182998,VERIFIABLE,SUPPORTS,Mel Gibson's name is Mel Colmcille Gerard Gibson.,"False. Mel Gibson is known for his role as Mel Colmcille Gerard in the film ""The Lion King"".",declare-lab/flan-alpaca-base
+176029,VERIFIABLE,SUPPORTS,WALL-E is a Golden Globe Award winner.,False. Wall-E is a Golden Globe Award winner.,declare-lab/flan-alpaca-base
+37094,VERIFIABLE,SUPPORTS,Generation X has no precise date for its cohort.,True. Generation X has a precise date for its cohort.,declare-lab/flan-alpaca-base
+105167,VERIFIABLE,REFUTES,Islam is incapable of being a religion.,False. Islam is a religion that is based on the teachings of the Quran and other Quranic texts.,declare-lab/flan-alpaca-base
+33545,VERIFIABLE,SUPPORTS,Jackie Chan has released an album.,True.,declare-lab/flan-alpaca-base
+82718,VERIFIABLE,SUPPORTS,"Estimates of the number of species on Earth today vary widely, and most of those species have not been described.","False. Estimates of the number of species on Earth today vary widely, and most of those species have not been described.",declare-lab/flan-alpaca-base
+150146,VERIFIABLE,SUPPORTS,Larry Junstrom is an American citizen.,True. Larry Junstrom is an American citizen.,declare-lab/flan-alpaca-base
+12113,VERIFIABLE,SUPPORTS,Canada possesses a constitution.,"True. Canada has a constitution, which is a legal document that states the laws and regulations of the country.",declare-lab/flan-alpaca-base
+177898,VERIFIABLE,SUPPORTS,Sophie Turner acted in The Thirteenth Tale.,False. Sophia Turner was not in The Thirteenth Tale.,declare-lab/flan-alpaca-base
+128113,VERIFIABLE,SUPPORTS,The Renaissance is known for its cultural developments.,"True. The Renaissance was a period of time in which the arts, literature, and literature were rediscovered and developed. It was a period of time when the arts and literature were rediscovered and developed. It was a period of time when the arts and literature were rediscovered and developed.",declare-lab/flan-alpaca-base
+78505,VERIFIABLE,REFUTES,Pluto is not relatively small.,False. Plastic is not relatively small.,declare-lab/flan-alpaca-base
+144042,VERIFIABLE,SUPPORTS,"Steve Buscemi has appeared in many films by the Coen Brothers, such as Fargo.","True. Steve Buscemi has appeared in many films by the Coen Brothers, such as Fargo.",declare-lab/flan-alpaca-base
+92012,VERIFIABLE,REFUTES,Tyler Joseph is an ex-member of Twenty One Pilots.,True. Tyler Joseph is an ex-member of Twenty One Pilots.,declare-lab/flan-alpaca-base
+85270,VERIFIABLE,SUPPORTS,Selena Gomez has more followers than anyone else in the world.,True. Selena Gomez has more followers than anyone else in the world.,declare-lab/flan-alpaca-base
+209021,VERIFIABLE,REFUTES,Big Boi is only a member of Norwegian metal bands.,"False. Big Boi is a member of many other metal bands, including the likes of The Beatles, The Beatles, and The Rolling Stones.",declare-lab/flan-alpaca-base
+197828,VERIFIABLE,SUPPORTS,Priyanka Chopra was born in the 1900's.,True.,declare-lab/flan-alpaca-base
+189673,VERIFIABLE,SUPPORTS,Chris Pérez is a songwriter.,True. Chris Pérez is a songwriter.,declare-lab/flan-alpaca-base
+219627,VERIFIABLE,SUPPORTS,"On March 27, 1963, Quentin Tarantino was born.","True. Quentin Tarantino was born on March 27, 1963.",declare-lab/flan-alpaca-base
+188483,VERIFIABLE,SUPPORTS,Tate Ellington appeared in Quantico.,True. Tate Ellington appeared in Quantico.,declare-lab/flan-alpaca-base
+62041,VERIFIABLE,SUPPORTS,Mr. Sunshine is from the Northern Hemisphere.,False. Mr. Sunshine is from the Southern Hemisphere.,declare-lab/flan-alpaca-base
+112500,VERIFIABLE,REFUTES,Dolly Parton isn't an actress.,False. Dolly Parton is an actress.,declare-lab/flan-alpaca-base
+144895,VERIFIABLE,REFUTES,The Amanda Show was the first female-created show on Nickelodeon.,True,declare-lab/flan-alpaca-base
+216082,VERIFIABLE,REFUTES,The 19th G7 summit only included Russia.,False. The 19th G7 summit included Russia.,declare-lab/flan-alpaca-base
+54826,VERIFIABLE,SUPPORTS,Ethiopia has bodies of water can be described as rivers.,True. Ethiopia has bodies of water that can be described as rivers.,declare-lab/flan-alpaca-base
+150253,VERIFIABLE,REFUTES,Ted Kaczynski grew up in Texas.,True.,declare-lab/flan-alpaca-base
+90874,VERIFIABLE,SUPPORTS,Keith Urban has put out no fewer than nine studio records.,True.,declare-lab/flan-alpaca-base
+208197,VERIFIABLE,SUPPORTS,Eminem has an album.,True. Eminem has an album.,declare-lab/flan-alpaca-base
+54387,VERIFIABLE,REFUTES,The Connaught Tunnel was lined only with mud and sand.,False. The Connaught Tunnel was lined with mud and sand.,declare-lab/flan-alpaca-base
+18912,VERIFIABLE,REFUTES,Jennifer Aniston is not a businesswoman.,True. Jennifer Aniston is a businesswoman.,declare-lab/flan-alpaca-base
+163426,VERIFIABLE,REFUTES,Ilkhanate only contained Haiti.,False. Haiti was not included in the Ilkhanate.,declare-lab/flan-alpaca-base
+160755,VERIFIABLE,REFUTES,Homeland is based on the classic BBC series Til Death Do Us Part.,"True. Til Death Do Us Part is a classic British television series that follows the lives of characters from the series. It follows the lives of characters from the series, including the characters of the characters, and their journeys.",declare-lab/flan-alpaca-base
+11401,VERIFIABLE,REFUTES,True Blood is a science-fiction television series.,True,declare-lab/flan-alpaca-base
+198630,VERIFIABLE,SUPPORTS,Jordan Knight is the lead singer of a band.,True. Jordan Knight is the lead singer of a band.,declare-lab/flan-alpaca-base
+21434,VERIFIABLE,SUPPORTS,Adam Driver has had supporting roles.,"True. Adam Driver has had supporting roles in movies, TV shows, and movies.",declare-lab/flan-alpaca-base
+119271,VERIFIABLE,SUPPORTS,Thor: The Dark World is a movie.,False. Thor: The Dark World is a movie.,declare-lab/flan-alpaca-base
+9386,VERIFIABLE,SUPPORTS,Loki is the male sibling of Helblindi and Byleistr.,True. Helblindi and Byleistr are two of the most famous children in the world.,declare-lab/flan-alpaca-base
+191073,VERIFIABLE,SUPPORTS,Vincent van Gogh is from Amsterdam.,True. Vincent van Gogh is from Amsterdam.,declare-lab/flan-alpaca-base
+92275,VERIFIABLE,SUPPORTS,Chester Bennington is a person.,"True. Chester Bennington is a famous American actor and comedian. He is best known for his role as the protagonist in the television series ""The Simpsons"". He is also known for his role as the protagonist in the movie ""The Simpsons"".",declare-lab/flan-alpaca-base
+32763,VERIFIABLE,REFUTES,Inspectah Deck is stateless.,"False. Inspectah Deck is stateless, but it is not a stateless system.",declare-lab/flan-alpaca-base
+213397,VERIFIABLE,SUPPORTS,Tender Mercies is a drama from America.,True. Tender Mercies is a drama from the United States. It tells the story of a young woman who is a victim of a mysterious murder. It is a drama about the struggles of a young woman who is a victim of a mysterious murder.,declare-lab/flan-alpaca-base
+31766,VERIFIABLE,SUPPORTS,Cristiano Ronaldo was a professional athlete.,True. Cristoano Ronaldo was a professional athlete. He was a great player and a great leader. He was a great leader and a great leader. He was a great leader and a great leader. He was a great leader and a great leader. He was,declare-lab/flan-alpaca-base
+4795,VERIFIABLE,SUPPORTS,Paul Simon is a person.,False. Paul Simon is a musician and composer.,declare-lab/flan-alpaca-base
+208044,VERIFIABLE,SUPPORTS,Baby Driver starred Eiza González.,False. The movie Baby Driver was starred by Eiza González.,declare-lab/flan-alpaca-base
+16033,VERIFIABLE,SUPPORTS,David Dhawan is a film director.,True. David Dhawan is a film director. He has directed many films and television shows. He has also written and directed many movies.,declare-lab/flan-alpaca-base
+23970,VERIFIABLE,SUPPORTS,The Challenge was a reality game show.,True. The Challenge was a reality game show.,declare-lab/flan-alpaca-base
+10018,VERIFIABLE,SUPPORTS,Rumi's influence transcends ethnic divisions.,"True. Rumi's influence has had a profound impact on the lives of many people, including the Chinese, Indian, and African populations. It has also had a positive impact on the global economy, allowing for a more equitable and equitable distribution of resources.",declare-lab/flan-alpaca-base
+75961,VERIFIABLE,SUPPORTS,Swedish Empire was ruled by Gustavus Adolphus from 1611 to 1632.,False. Gustavus Adolphus was the king of Sweden from 1611 to 1632.,declare-lab/flan-alpaca-base
+47506,VERIFIABLE,SUPPORTS,"Her was given a wide release on January 10, 2014.",True,declare-lab/flan-alpaca-base
+54185,VERIFIABLE,SUPPORTS,Las Vegas's population has grown.,True. Las Vegas has seen a significant increase in population over the past few years.,declare-lab/flan-alpaca-base
+23942,VERIFIABLE,SUPPORTS,One type of spread is Vegemite.,True. Vegemite is a popular spread in the United States. It is a popular snack and is often eaten as a side dish.,declare-lab/flan-alpaca-base
+199457,VERIFIABLE,SUPPORTS,The Divergent film series was worked on by Octavia Spencer.,True. Octavia Spencer was the creator of the Divergent film series.,declare-lab/flan-alpaca-base
+210563,VERIFIABLE,SUPPORTS,Ramayanam was produced by M. S. Reddy and directed by Gunasekhar.,True,declare-lab/flan-alpaca-base
+18737,VERIFIABLE,SUPPORTS,Man of Steel features the DC Comics character Superman.,False. Superman is a DC Comics character from the DC Comics series.,declare-lab/flan-alpaca-base
+79475,VERIFIABLE,SUPPORTS,Leukemia has to do with a lack of normal blood cells.,False. Leukemia is caused by a lack of normal blood cells.,declare-lab/flan-alpaca-base
+128431,VERIFIABLE,REFUTES,Judy Garland did not appear in a courtroom drama film.,True.,declare-lab/flan-alpaca-base
+197933,VERIFIABLE,SUPPORTS,Until Dawn is a game.,False. Until Dawn is a game that is played on a computer.,declare-lab/flan-alpaca-base
+157402,VERIFIABLE,SUPPORTS,Timothy Olyphant was born.,False. The Olyphant was born in the year 1700.,declare-lab/flan-alpaca-base
+3722,VERIFIABLE,SUPPORTS,Telangana contains the city Warangal.,True. Warangal is located in the state of Tamil Nadu.,declare-lab/flan-alpaca-base
+81011,VERIFIABLE,SUPPORTS,Bonnie Hunt narrated Cheaper by the Dozen.,True.,declare-lab/flan-alpaca-base
+93115,VERIFIABLE,SUPPORTS,The Levant was ruled by the House of Lusignan.,True. The House of Lusignan was ruled by the Roman Empire from 1589 to 1599.,declare-lab/flan-alpaca-base
+59005,VERIFIABLE,SUPPORTS,The Ten Commandments influence multiple religions.,True. The Ten Commandments are a religious document that has been used by many different religions. They are a reminder of the importance of a healthy and balanced lifestyle. They are also a reminder of the importance of a healthy and balanced diet.,declare-lab/flan-alpaca-base
+191908,VERIFIABLE,SUPPORTS,"The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.",True,declare-lab/flan-alpaca-base
+71392,VERIFIABLE,SUPPORTS,Ariana Grande's second album debuted at number one in the United States when it was released in 2014.,True,declare-lab/flan-alpaca-base
+10213,VERIFIABLE,SUPPORTS,Ted Bundy committed assaults in the seventies.,True.,declare-lab/flan-alpaca-base
+15798,VERIFIABLE,REFUTES,Chinese people only can be associated with Spain through nationality.,False. Chinese people can be associated with Spain through nationality.,declare-lab/flan-alpaca-base
+17474,VERIFIABLE,SUPPORTS,Schindler's List was released in 1993.,False. The Schindler's List was released in 1993.,declare-lab/flan-alpaca-base
+26724,VERIFIABLE,REFUTES,Zeus is an angel.,"True. Zeus is an angel, and he is a god. He is a wise and compassionate person. He is a wise and compassionate person. He is a wise and compassionate person. He is a wise and compassionate person. He is a wise and compassionate person. He is",declare-lab/flan-alpaca-base
+188166,VERIFIABLE,SUPPORTS,Escape from Planet Earth is an American film.,False. Escape from Planet Earth is an American film.,declare-lab/flan-alpaca-base
+67094,VERIFIABLE,SUPPORTS,Venus Williams has won multiple Wimbledons.,False. Venus Williams has won multiple Wimbledons.,declare-lab/flan-alpaca-base
+217904,VERIFIABLE,SUPPORTS,Quentin Tarantino directed a creative work.,True. Quentin Tarantino directed a creative work.,declare-lab/flan-alpaca-base
+29151,VERIFIABLE,REFUTES,The Beatles had Stuart Sutcliffe initially serve as their agent.,False. Stuart Sutcliffe was the first agent of the Beatles.,declare-lab/flan-alpaca-base
+174928,VERIFIABLE,REFUTES,50 First Dates has no comedic elements.,"False. 50 First Dates has comedic elements, but it does not have comedic elements.",declare-lab/flan-alpaca-base
+9601,VERIFIABLE,SUPPORTS,A Nightmare on Elm Street was directed by Craven.,True. A Nightmare on Elm Street was directed by Craven.,declare-lab/flan-alpaca-base
+107772,VERIFIABLE,SUPPORTS,Charlize Theron acted in The Burning Plain.,True.Charlize Theron acted in The Burning Plain.,declare-lab/flan-alpaca-base
+198918,VERIFIABLE,SUPPORTS,International Relations includes communication.,False. International relations involve communication.,declare-lab/flan-alpaca-base
+45182,VERIFIABLE,SUPPORTS,Jemaine Clement refuses to have anything to do with comedy.,False. Jemaine Clement has been a prolific comedian and has been a prolific actor.,declare-lab/flan-alpaca-base
+188934,VERIFIABLE,SUPPORTS,Usain Bolt has competed in a sprint race in track and field in world competitions.,True. Usain Bolt has competed in a sprint race in track and field in world competitions. He has won several titles and has achieved great success in the sport.,declare-lab/flan-alpaca-base
+76318,VERIFIABLE,REFUTES,The main successor to the internet was the ARPANET.,True. The ARPANET was the main successor to the internet.,declare-lab/flan-alpaca-base
+175319,VERIFIABLE,SUPPORTS,Sarrainodu is an action movie.,True. Sarinodu is an action movie.,declare-lab/flan-alpaca-base
+78009,VERIFIABLE,SUPPORTS,"Jawbreaker (film) stars an Italian-born American actress, film producer, director and singer.","True. The movie Jawbreaker stars an Italian-born American actress, film producer, director and singer.",declare-lab/flan-alpaca-base
+54225,VERIFIABLE,SUPPORTS,Kurt Sutter is the creator of Sons of Anarchy.,True. Kurt Sutter is the creator of Sons of Anarchy.,declare-lab/flan-alpaca-base
+181784,VERIFIABLE,SUPPORTS,La La Anthony has a middle name.,False. La La Anthony has a middle name.,declare-lab/flan-alpaca-base
+141524,VERIFIABLE,SUPPORTS,Lisa Marie Presley is an American singer.,True. Lisa Marie Presley is an American singer.,declare-lab/flan-alpaca-base
+54642,VERIFIABLE,REFUTES,Kingdom Hearts III is owned by Boyz II Men.,False. Boyz II Men owns Kingdom Hearts III.,declare-lab/flan-alpaca-base
+79801,VERIFIABLE,SUPPORTS,Keanu Reeves is a film actor.,True. Keanu Reeves is a film actor.,declare-lab/flan-alpaca-base
+4224,VERIFIABLE,SUPPORTS,Dwayne Johnson won the WWF Intercontinental Championship twice.,True. Dwayne Johnson won the WWF Intercontinental Championship twice.,declare-lab/flan-alpaca-base
+187142,VERIFIABLE,SUPPORTS,Heartland is a canadian TV series.,True,declare-lab/flan-alpaca-base
+83763,VERIFIABLE,SUPPORTS,"By the metrics of the RIAA, The Beatles have sold more than any recording artist in America.",True. The Beatles have sold more than any recording artist in America.,declare-lab/flan-alpaca-base
+135246,VERIFIABLE,SUPPORTS,The national tree of Bangladesh is the mango.,False. The mango is the national tree of Bangladesh.,declare-lab/flan-alpaca-base
+67105,VERIFIABLE,SUPPORTS,"There are two major contemporary political parties, and William Jennings Bryan belongs to one of them.",True. William Jennings Bryan is a member of the Republican Party.,declare-lab/flan-alpaca-base
+216028,VERIFIABLE,SUPPORTS,Iris Murdoch was a writer.,True. Iris Murdoch was a writer.,declare-lab/flan-alpaca-base
+157805,VERIFIABLE,SUPPORTS,David Koepp is a director.,True. David Koepp is a director.,declare-lab/flan-alpaca-base
+1800,VERIFIABLE,SUPPORTS,"A block is also called a ""swat.""",False. A block is a type of object that is not a bird.,declare-lab/flan-alpaca-base
+127279,VERIFIABLE,SUPPORTS,Paul Pogba made it to the 2015 UEFA Champions League Final with the Juventus team.,False. Paul Pogba made it to the 2015 UEFA Champions League Final with the Juventus team.,declare-lab/flan-alpaca-base
+181956,VERIFIABLE,REFUTES,Leroy Jethro Gibbs is a character on the NFL series NCIS.,True. Leroy Jethro Gibbs is a character on the NFL series NCIS. He is a former NFL quarterback and a former NFL player. He is also a former police officer and a former police officer.,declare-lab/flan-alpaca-base
+105289,VERIFIABLE,SUPPORTS,Leslie Howard was an actor.,True. Leslie Howard was an actor.,declare-lab/flan-alpaca-base
+67108,VERIFIABLE,SUPPORTS,Catching Fire is written.,False. Catching Fire is written by a famous author.,declare-lab/flan-alpaca-base
+194613,VERIFIABLE,SUPPORTS,Avatar: The Last Airbender aired on Nickelodeon.,True. The Last Airbender was aired on Nickelodeon.,declare-lab/flan-alpaca-base
+183275,VERIFIABLE,SUPPORTS,Harry Hopman's widow has attended Hopman Cup.,True. Harry Hopman's widow has attended Hopman Cup.,declare-lab/flan-alpaca-base
+191405,VERIFIABLE,SUPPORTS,Frank Zappa's debut was Freak Out!,"True. Frank Zappa's debut was Freak Out!, a hit released in 1989.",declare-lab/flan-alpaca-base
+70835,VERIFIABLE,REFUTES,Ruth Negga only acts in Irish cinema.,"False. Ruth Negga is a popular actress in many different countries. She has also appeared in many other films, including The Matrix, The Matrix, and The Matrix.",declare-lab/flan-alpaca-base
+214939,VERIFIABLE,REFUTES,George VI was succeeded by Mary I.,False. George VI was succeeded by Mary I.,declare-lab/flan-alpaca-base
+192295,VERIFIABLE,SUPPORTS,Psychological findings link to research and perspectives from an academic discipline.,True. Psychological findings can be linked to research and perspectives from an academic discipline.,declare-lab/flan-alpaca-base
+226700,VERIFIABLE,SUPPORTS,The Beach Boys was an American rock band.,False. The Beach Boys were an American rock band founded in 1969.,declare-lab/flan-alpaca-base
+147947,VERIFIABLE,SUPPORTS,Billy Bob Thornton directed a movie.,True. Billy Bob Thornton directed a movie.,declare-lab/flan-alpaca-base
+19023,VERIFIABLE,SUPPORTS,"The Ren & Stimpy Show premiered on August 11, 1991.",True,declare-lab/flan-alpaca-base
+224612,VERIFIABLE,REFUTES,Courteney Cox has always refused to play Gale Weathers.,False. Courtney Cox has always refused to play Gale Weathers.,declare-lab/flan-alpaca-base
+201305,VERIFIABLE,SUPPORTS,Ronin is a film.,True. Ronin is a movie.,declare-lab/flan-alpaca-base
+160383,VERIFIABLE,SUPPORTS,Abraham Lincoln had at least one rival.,True. Abraham Lincoln had at least one rival.,declare-lab/flan-alpaca-base
+170789,VERIFIABLE,SUPPORTS,There is a producer named Fred Savage.,False. Fred Savage is a producer and actor.,declare-lab/flan-alpaca-base
+6854,VERIFIABLE,SUPPORTS,Al Capone had neurosyphilis.,False. Al Capone had neurosyphilis.,declare-lab/flan-alpaca-base
+77244,VERIFIABLE,SUPPORTS,Boston is located in the state of Massachusetts on the Shawmut Peninsula.,False. Boston is located in the state of Massachusetts on the Shawmut Peninsula.,declare-lab/flan-alpaca-base
+111448,VERIFIABLE,SUPPORTS,Interstellar is a narrative in a visual medium.,True. Interstellar is a narrative in a visual medium. It is a visual medium that is used to convey a story. It is a form of storytelling that is used to convey a sense of mystery and mystery.,declare-lab/flan-alpaca-base
+207829,VERIFIABLE,REFUTES,Britney Spears titled her fourth studio album Britney.,"True. Britney Spears has released her fourth studio album, Britney.",declare-lab/flan-alpaca-base
+13320,VERIFIABLE,SUPPORTS,Mike Tyson boxed.,True. Mike Tyson was boxed by a professional boxer.,declare-lab/flan-alpaca-base
+122919,VERIFIABLE,REFUTES,The Hermetic Order of the Golden Dawn was uninterested in the study of the occult.,False. The Hermetic Order of the Golden Dawn was a religious order that was devoted to the study of the occult.,declare-lab/flan-alpaca-base
+213337,VERIFIABLE,REFUTES,Ellen Burstyn has yet to be nominated for the Emmy Awards.,True. Ellen Burstyn has yet to be nominated for the Emmy Awards.,declare-lab/flan-alpaca-base
+58284,VERIFIABLE,SUPPORTS,Princess Agents is a series on television.,"True. Princess Agents is a television series that follows the adventures of Princess Leia, a young woman who is a member of the Royal Family.",declare-lab/flan-alpaca-base
+101147,VERIFIABLE,SUPPORTS,Gwen Stefani works as a singer.,True. Gwen Stefani is a popular singer and actress. She has a strong background in music and has a strong background in acting. She has a strong background in music and has a strong background in acting.,declare-lab/flan-alpaca-base
+95918,VERIFIABLE,SUPPORTS,James Marsden worked with a director.,False. James Marsden worked with a director.,declare-lab/flan-alpaca-base
+223143,VERIFIABLE,SUPPORTS,Carrie Fisher died of cardiac arrest.,True,declare-lab/flan-alpaca-base
+92592,VERIFIABLE,SUPPORTS,Ice hockey has competitions.,True. Ice hockey has competitions.,declare-lab/flan-alpaca-base
+113124,VERIFIABLE,REFUTES,The Fifth Element was the lowest-grossing French film in the international box office until 2011.,"True. The Fifth Element was the lowest-grossing French film in the international box office until 2011, but it was not the lowest-grossing film in the year.",declare-lab/flan-alpaca-base
+148951,VERIFIABLE,REFUTES,The Hunger Games is the first in Lord of the Rings series.,False. The Hunger Games is the first in the Lord of the Rings series.,declare-lab/flan-alpaca-base
+144665,VERIFIABLE,REFUTES,"Audi used to have the pet ""Truth in Engineering.""","True. Audi used to have a pet ""Truth in Engineering"" which was a popular pet in the early 20th century.",declare-lab/flan-alpaca-base
+208563,VERIFIABLE,SUPPORTS,Java contains more than half of the population of Indonesia.,True. Java contains more than half of the population of Indonesia.,declare-lab/flan-alpaca-base
+19665,VERIFIABLE,SUPPORTS,Urilla Sutherland Earp was the first spouse of Wyatt Earp.,True. Urilla Sutherland Earp was the first wife of Wyatt Earp.,declare-lab/flan-alpaca-base
+209148,VERIFIABLE,SUPPORTS,Brave is a 2010s film.,True. Brave is a 2010s film.,declare-lab/flan-alpaca-base
+214662,VERIFIABLE,SUPPORTS,Winter Passing had mixed reviews in 2005.,True,declare-lab/flan-alpaca-base
+205197,VERIFIABLE,REFUTES,Audrey Horne was introduced in anything except a series that premiered on Sunday.,True. Audrey Horne was introduced in a series that premiered on Sunday.,declare-lab/flan-alpaca-base
+109722,VERIFIABLE,SUPPORTS,Line of Duty is a TV series.,True. Line of Duty is a game series.,declare-lab/flan-alpaca-base
+217062,VERIFIABLE,REFUTES,The Dayton Agreement was signed in April.,True. The Dayton Agreement was signed in April.,declare-lab/flan-alpaca-base
+172369,VERIFIABLE,SUPPORTS,The National Security Agency is tasked with the processing of data for counterintelligence purposes.,False. The National Security Agency is responsible for processing data for counterintelligence purposes.,declare-lab/flan-alpaca-base
+7732,VERIFIABLE,SUPPORTS,Gold is resistant to all acids except aqua regia.,False. Gold is resistant to all acids except aqua regia.,declare-lab/flan-alpaca-base
+71558,VERIFIABLE,SUPPORTS,There is a geologic period that spans 43 million years called Paleogene.,True. Paleogene is a period of time that spans 43 million years.,declare-lab/flan-alpaca-base
+31338,VERIFIABLE,SUPPORTS,Cher has sold more than 100 million music records worldwide.,True. Cher has sold more than 100 million music records worldwide.,declare-lab/flan-alpaca-base
+76034,VERIFIABLE,SUPPORTS,Bernard Madoff got the sentence.,True,declare-lab/flan-alpaca-base
+92637,VERIFIABLE,SUPPORTS,Donkey is a fast-talking donkey.,False. Donkeys are not fast-talking.,declare-lab/flan-alpaca-base
+135541,VERIFIABLE,SUPPORTS,O. J. Simpson received a criminal charge for armed robbery.,True. O. J. Simpson was charged with armed robbery.,declare-lab/flan-alpaca-base
+63041,VERIFIABLE,SUPPORTS,Ketogenic diet has protein.,True. Ketogenic diets are high in protein and are a great source of energy.,declare-lab/flan-alpaca-base
+122043,VERIFIABLE,REFUTES,Dennis Quaid refused to ever be an actor.,False. Dennis Quaid refused to ever be an actor.,declare-lab/flan-alpaca-base
+37246,VERIFIABLE,SUPPORTS,The United States was the first country to develop nuclear weapons.,False. The United States was the first country to develop nuclear weapons.,declare-lab/flan-alpaca-base
+20560,VERIFIABLE,REFUTES,Thandie Newton is incapable of appearing in British films.,False. The claim is false because the British film industry has not yet seen the film version of the character.,declare-lab/flan-alpaca-base
+162141,VERIFIABLE,SUPPORTS,Reese Witherspoon's breakthrough role was in a film.,True. Reese Witherspoon's breakthrough role was in a movie.,declare-lab/flan-alpaca-base
+159742,VERIFIABLE,REFUTES,Jenni Rivera was only nominated for an award presented annually by American network Univision.,True. Jennifer Rivera was nominated for an award presented annually by American network Univision.,declare-lab/flan-alpaca-base
+122490,VERIFIABLE,SUPPORTS,Curly Top was released.,True. Curly Top was released in the year 2000.,declare-lab/flan-alpaca-base
+96045,VERIFIABLE,REFUTES,Edgar Allan Poe was a horse.,True. Edgar Allan Poe was a horse.,declare-lab/flan-alpaca-base
+47251,VERIFIABLE,SUPPORTS,Danny DeVito received an Academy Award nomination.,True. Danny DeVito received an Academy Award nomination.,declare-lab/flan-alpaca-base
+164574,VERIFIABLE,SUPPORTS,PageRank was named after someone.,True. PageRank was named after a person.,declare-lab/flan-alpaca-base
+115977,VERIFIABLE,SUPPORTS,Morena Baccarin received a nomination.,True.,declare-lab/flan-alpaca-base
+33501,VERIFIABLE,SUPPORTS,Jeffrey Dahmer committed murders in Wisconsin.,True. Jeffrey Dahmer was a police officer who was killed in Wisconsin.,declare-lab/flan-alpaca-base
+94908,VERIFIABLE,REFUTES,Naomi Scott played Darth Maul in Lemonade Mouth.,False. The movie Lemonade Mouth was a comedy film.,declare-lab/flan-alpaca-base
+85869,VERIFIABLE,SUPPORTS,The Minnesota Vikings is a National Football League team.,True. The Minnesota Vikings are a professional football team in the National Football League.,declare-lab/flan-alpaca-base
+162284,VERIFIABLE,SUPPORTS,L.A. Law is a television series that categorizes as a legal drama.,True. L.A. Law is a television series that categorizes as a legal drama. It follows the story of a young man who is acquitted of a crime. It follows the story of a young man who is acquitted of a crime,declare-lab/flan-alpaca-base
+26776,VERIFIABLE,SUPPORTS,Paradise was released in 2012.,False. The release of Paradise was released in 2012.,declare-lab/flan-alpaca-base
+151885,VERIFIABLE,SUPPORTS,Dirt was produced by ABC studios and Coquette Productions.,True. The film was produced by ABC studios and Coquette Productions.,declare-lab/flan-alpaca-base
+28748,VERIFIABLE,REFUTES,Arsenic and Old Lace had its release delayed by 3 months.,True. The release of Arsenic and Old Lace was delayed by 3 months.,declare-lab/flan-alpaca-base
+43629,VERIFIABLE,SUPPORTS,The Belko Experiment is an American horror film released in 2016.,True. The Belko Experiment is an American horror film released in 2016. It follows the story of a young girl who is stranded in a small town in the Midwest. She is a young girl who is awoken by a mysterious figure in the nearby woods.,declare-lab/flan-alpaca-base
+82273,VERIFIABLE,REFUTES,Psychology has been disqualified from being a social science.,False. Psychology has been disqualified from being a social science because it is a specialized field that is focused on the study of mental health and the development of mental health systems.,declare-lab/flan-alpaca-base
+25202,VERIFIABLE,REFUTES,Apple was founded in 1979.,True. Apple was founded in 1979.,declare-lab/flan-alpaca-base
+132999,VERIFIABLE,SUPPORTS,Moscow is a city in Russia.,True. Moscow is a city in Russia.,declare-lab/flan-alpaca-base
+212522,VERIFIABLE,SUPPORTS,The term cult film was first used in the 1970s.,False. The term cult film was first used in the 1970s.,declare-lab/flan-alpaca-base
+36742,VERIFIABLE,SUPPORTS,The September 11 attacks caused at least $10 billion in property damage.,False. The September 11 attacks caused at least $10 billion in property damage.,declare-lab/flan-alpaca-base
+217573,VERIFIABLE,SUPPORTS,The second longest of Shakespeare's plays after Hamlet is Richard III.,False. Richard III is the longest of Shakespeare's plays after Hamlet.,declare-lab/flan-alpaca-base
+8711,VERIFIABLE,SUPPORTS,"Kathy Bates was born on June 28, 1948.",True.,declare-lab/flan-alpaca-base
+206540,VERIFIABLE,SUPPORTS,Joseph Barbera was an American director.,True. Joseph Barbera was an American director.,declare-lab/flan-alpaca-base
+113668,VERIFIABLE,REFUTES,Penny Dreadful started in 2017.,True. Penny Dreadful started in 2017.,declare-lab/flan-alpaca-base
+141654,VERIFIABLE,SUPPORTS,There is a video game called Overwatch (video game).,True. Overwatch is a video game that is played on a computer. It is a simulation game that is played on a computer. It is a simulation game that is played on a computer. It is a simulation game that is played on a computer.,declare-lab/flan-alpaca-base
+23575,VERIFIABLE,SUPPORTS,The Lion King was released before 2000.,False. The Lion King was released before 2000.,declare-lab/flan-alpaca-base
+162455,VERIFIABLE,REFUTES,Before We Go was previously titled Fury.,False. Before We Go was previously titled Fury.,declare-lab/flan-alpaca-base
+58743,VERIFIABLE,SUPPORTS,Stevie Nicks released an album that reached platinum status.,True. The album reached platinum status.,declare-lab/flan-alpaca-base
+77381,VERIFIABLE,SUPPORTS,Overwatch's playable characters are categorized into four groups.,"True. Overwatch's playable characters are categorized into four groups: 1. The main character is a ninja, who is a ninja. 2. The main character is a ninja, who is a ninja. 3. The main character is",declare-lab/flan-alpaca-base
+108798,VERIFIABLE,REFUTES,Andrew Wood died in 1977.,True.,declare-lab/flan-alpaca-base
+2172,VERIFIABLE,SUPPORTS,James McAvoy starred in Children of Dune.,False. James McAvoy starred in Children of Dune.,declare-lab/flan-alpaca-base
+85239,VERIFIABLE,REFUTES,John Constantine is a real person.,False. John Constantine was a real person.,declare-lab/flan-alpaca-base
+127797,VERIFIABLE,SUPPORTS,The Portuguese Empire was one of world history's largest empires.,"True. The Portuguese Empire was one of the world's largest empires, with over a million people living in the country. It was a major force in the world, and it was a major force in the development of the world. It was a major force in the development of the world,",declare-lab/flan-alpaca-base
+188536,VERIFIABLE,SUPPORTS,Eddie Vedder is a performer.,True. Eddie Vedder is a performer.,declare-lab/flan-alpaca-base
+146437,VERIFIABLE,REFUTES,"Kenny Rogers released the album, Kenny in 2005.",True,declare-lab/flan-alpaca-base
+81435,VERIFIABLE,SUPPORTS,Larry Buttrose wrote Cafe Royale.,True. Larry Buttrose wrote Cafe Royale.,declare-lab/flan-alpaca-base
+169552,VERIFIABLE,SUPPORTS,Elementary stars Lucy Liu.,False. Lucy Liu is a Chinese actress.,declare-lab/flan-alpaca-base
+151581,VERIFIABLE,SUPPORTS,Farrah Fawcett acted in the romantic comedy Love is a Funny Thing.,True. Fawcett acted in the romantic comedy Love is a Funny Thing.,declare-lab/flan-alpaca-base
+130116,VERIFIABLE,REFUTES,X-Men: Days of Future Past is based on the DC Batman comics.,False. X-Men: Days of Future Past is based on DC Comics.,declare-lab/flan-alpaca-base
+3219,VERIFIABLE,SUPPORTS,San Junipero is from Britain.,False. San Junipero is from Spain.,declare-lab/flan-alpaca-base
+138918,VERIFIABLE,REFUTES,Alex Rodriguez never hit a home run.,"True. Alex Rodriguez has had a successful season in the Major Leagues, but he has not hit a home run.",declare-lab/flan-alpaca-base
+147890,VERIFIABLE,REFUTES,John F. Kennedy ran against Andrew Jackson in the 1960 presidential election.,True. John F. Kennedy ran against Andrew Jackson in the 1960 presidential election.,declare-lab/flan-alpaca-base
+226368,VERIFIABLE,REFUTES,Gift of the Night Fury only stars the voices of actors and actresses born in October.,True. Gift of the Night Fury stars actors and actresses born in October.,declare-lab/flan-alpaca-base
+55494,VERIFIABLE,REFUTES,Schindler's List was not awarded The Academy Award for Best Picture.,False. The Academy Award for Best Picture was awarded to Schindler's List in the year of its publication.,declare-lab/flan-alpaca-base
+93229,VERIFIABLE,SUPPORTS,Juana la virgen is a telenovela written by Perla Farias.,False. Juana la virgen is a telenovela written by Perla Farias.,declare-lab/flan-alpaca-base
+114319,VERIFIABLE,SUPPORTS,The Champ stars an American.,True. The Champ stars an American.,declare-lab/flan-alpaca-base
+213458,VERIFIABLE,SUPPORTS,Monarch of the Glen is a drama from Britain.,True. Monarch of the Glen is a British drama about a young man who is acquitted of a murder.,declare-lab/flan-alpaca-base
+144301,VERIFIABLE,SUPPORTS,Robert Redford is a film director.,True. Robert Redford is a film director.,declare-lab/flan-alpaca-base
+202873,VERIFIABLE,SUPPORTS,Best Director was a nomination Beasts of the Southern Wild received.,False. Beasts of the Southern Wild received a nomination for Best Director.,declare-lab/flan-alpaca-base
+60291,VERIFIABLE,SUPPORTS,The Los Angeles Lakers hold the NBA record for longest winning streak.,True. The Los Angeles Lakers have won the NBA for the longest time in a row.,declare-lab/flan-alpaca-base
+88496,VERIFIABLE,SUPPORTS,The Philippines is industrial.,"True. The Philippines is a country with a large industrial base. It is a major producer of food, clothing, and other goods.",declare-lab/flan-alpaca-base
+83786,VERIFIABLE,SUPPORTS,Joe Manganiello has appeared in a movie.,True. Joe Manganiello has appeared in a movie.,declare-lab/flan-alpaca-base
+81339,VERIFIABLE,SUPPORTS,Veronika Decides to Die is authored by Roberta Hanley.,False. Veronika Decides to Die is written by Roberta Hanley.,declare-lab/flan-alpaca-base
+99152,VERIFIABLE,SUPPORTS,Sully is a Tom Hanks movie.,False. The movie is based on a true story.,declare-lab/flan-alpaca-base
+107555,VERIFIABLE,REFUTES,Walter Matthau is incapable of winning anything.,"False. Walter Matthau is a successful entrepreneur and has achieved success in many industries. He has achieved success in many industries, including retail, finance, and healthcare. He has also been a successful business owner and has been a successful business owner.",declare-lab/flan-alpaca-base
+157338,VERIFIABLE,SUPPORTS,Lisa Kudrow appeared on Showtime.,True. Lisa Kudrow appeared on Showtime.,declare-lab/flan-alpaca-base
+190817,VERIFIABLE,SUPPORTS,Myles Kennedy has released albums.,False. Myles Kennedy has released albums.,declare-lab/flan-alpaca-base
+66030,VERIFIABLE,SUPPORTS,Jane Fonda worked with Lily Tomlin in a show.,True. Jane Fonda and Lily Tomlin were in a show together.,declare-lab/flan-alpaca-base
+145452,VERIFIABLE,REFUTES,"Imagine Dragons was named the ""Breakthrough Band of 2014.""","False. Imagine Dragons was named the ""Breakthrough Band of 2014"" by the X Factor.",declare-lab/flan-alpaca-base
+187984,VERIFIABLE,SUPPORTS,Mike Love co-founded a band.,True. Mike Love co-founded a band.,declare-lab/flan-alpaca-base
+10983,VERIFIABLE,SUPPORTS,"Apple was incorporated as Apple Computer, Inc. in January 1977.",True,declare-lab/flan-alpaca-base
+44313,VERIFIABLE,SUPPORTS,Star Search was relaunched in 2003-04.,True,declare-lab/flan-alpaca-base
+139179,VERIFIABLE,REFUTES,Canada was never the location of a French colony.,False. Canada was never the location of a French colony.,declare-lab/flan-alpaca-base
+115787,VERIFIABLE,REFUTES,System of a Down has only sold albums in Greenland.,"False. System of a Down has sold over 500,000 albums worldwide.",declare-lab/flan-alpaca-base
+3402,VERIFIABLE,SUPPORTS,Led Zeppelin was first named the New Yardbirds.,False. Led Zeppelin was first named the New Yardbirds.,declare-lab/flan-alpaca-base
+23519,VERIFIABLE,REFUTES,Payton Manning signed with the Ontario Broncos.,False. Manning signed with the Toronto Argonauts in the summer of 2020.,declare-lab/flan-alpaca-base
+185109,VERIFIABLE,REFUTES,Anthropology is a division of Davis Entertainment.,True. Anthropology is a division of Davis Entertainment.,declare-lab/flan-alpaca-base
+228169,VERIFIABLE,SUPPORTS,Kafka stars an actor.,True. Kafka stars an actor.,declare-lab/flan-alpaca-base
+65043,VERIFIABLE,SUPPORTS,Alex Rodriguez played for the Mariners.,True. Alex Rodriguez played for the Mariners.,declare-lab/flan-alpaca-base
+131167,VERIFIABLE,SUPPORTS,Charles Marie de La Condamine was born in 1701.,True. Charles Marie de La Condamine was born in 1701.,declare-lab/flan-alpaca-base
+228918,VERIFIABLE,SUPPORTS,Pulp Fiction is written by a man.,False. Pulp Fiction is written by a woman.,declare-lab/flan-alpaca-base
+101895,VERIFIABLE,SUPPORTS,Giada De Laurentiis has been a contributor to a morning TV program.,True. Giada De Laurentiis has been a contributor to a morning TV program.,declare-lab/flan-alpaca-base
+20433,VERIFIABLE,SUPPORTS,The Grammy Hall of Fame inducted Bohemian Rhapsody.,True. The Grammy Hall of Fame inducted Bohemian Rhapsody in 2007.,declare-lab/flan-alpaca-base
+55174,VERIFIABLE,REFUTES,"Hugh Jackman has a public feud with Christopher Nolan, preventing any collaboration between the two.","False. Jackman and Nolan have been feuding for years, and their feud has been a source of tension and conflict.",declare-lab/flan-alpaca-base
+2290,VERIFIABLE,SUPPORTS,Cate Blanchett was nominated for an Academy Award.,True.,declare-lab/flan-alpaca-base
+32291,VERIFIABLE,SUPPORTS,Slash was born in 1965.,True. Slash was born in 1965.,declare-lab/flan-alpaca-base
+201428,VERIFIABLE,REFUTES,Drake is only German.,False. Drake is a country in the United States.,declare-lab/flan-alpaca-base
+117434,VERIFIABLE,SUPPORTS,R. Madhavan was a cast member of 3 Idiots.,True. R. Madhavan was a cast member of 3 Idiots.,declare-lab/flan-alpaca-base
+215154,VERIFIABLE,SUPPORTS,James and the Giant Peach includes Richard Dreyfuss.,False. James and the Giant Peach is a comedy film that follows the adventures of a young girl named Jane who is a scheming and ambitious young girl.,declare-lab/flan-alpaca-base
+106152,VERIFIABLE,SUPPORTS,Ayn Rand condemned force.,True. Ayn Rand's statement is true.,declare-lab/flan-alpaca-base
+65929,VERIFIABLE,SUPPORTS,Anne Hathaway had a part in Ella Enchanted.,True. Anne Hathaway played Ella Enchanted in the movie.,declare-lab/flan-alpaca-base
+218817,VERIFIABLE,SUPPORTS,Oh Yeon-seo was born.,True,declare-lab/flan-alpaca-base
+56121,VERIFIABLE,SUPPORTS,Ben Stiller was involved in the film industry in the 1990s.,True. Ben Stiller was involved in the film industry in the 1990s.,declare-lab/flan-alpaca-base
+126476,VERIFIABLE,SUPPORTS,"The Los Angeles Lakers were nicknamed ""Showtime"" in the 1980s.","True. The Los Angeles Lakers were nicknamed ""Showtime"" in the 1980s.",declare-lab/flan-alpaca-base
+210516,VERIFIABLE,SUPPORTS,Slovenia is bordered by the Adriatic Sea.,True. The Serbian border is bordered by the Mediterranean Sea.,declare-lab/flan-alpaca-base
+42937,VERIFIABLE,REFUTES,Italy is officially called the big meatball.,True. Italy is officially called the Big Meatball.,declare-lab/flan-alpaca-base
+160395,VERIFIABLE,REFUTES,Ron Cobb was only born in the year 1954.,True. Ron Cobb was born in the year 1954.,declare-lab/flan-alpaca-base
+1323,VERIFIABLE,SUPPORTS,Just Dance was a song.,True. Just Dance was a song.,declare-lab/flan-alpaca-base
+108899,VERIFIABLE,SUPPORTS,Journey is a band.,True. Journey is a rock band.,declare-lab/flan-alpaca-base
+222554,VERIFIABLE,SUPPORTS,Life Is Peachy was released by Epic Records.,True. Life Is Peachy was released by Epic Records.,declare-lab/flan-alpaca-base
+121300,VERIFIABLE,REFUTES,Sarah Silverman never wrote for a sketch comedy show.,True. Sarah Silverman wrote for a sketch comedy show.,declare-lab/flan-alpaca-base
+88540,VERIFIABLE,SUPPORTS,A mole is a structure.,"True. A mole is a structure that is composed of a single cell, a single cell, and a single cell.",declare-lab/flan-alpaca-base
+39720,VERIFIABLE,SUPPORTS,Shahid Kapoor supports charities.,True. Shahid Kapoor supports charities.,declare-lab/flan-alpaca-base
+81758,VERIFIABLE,REFUTES,Doctor Who was written by the Ancient Greeks.,False. Doctor Who was written by the Ancient Greeks.,declare-lab/flan-alpaca-base
+162276,VERIFIABLE,SUPPORTS,"L.A. Law ended on May 19, 1994.","False. The L.A. Law ended on May 19, 1994.",declare-lab/flan-alpaca-base
+26587,VERIFIABLE,SUPPORTS,Jerry Seinfeld specialized in observational comedy.,True. Jerry Seinfeld is a comedian who is known for his observational comedy. He is known for his humorous and satirical humor. He is also known for his satirical satire.,declare-lab/flan-alpaca-base
+79512,VERIFIABLE,REFUTES,Marie Curie was naturalized-German.,True. Marie Curie was naturalized-German.,declare-lab/flan-alpaca-base
+66006,VERIFIABLE,SUPPORTS,Honey to the B was the first album of a singer and actress from England.,False. Honey to the B was the first album of a singer and actress from England.,declare-lab/flan-alpaca-base
+76104,VERIFIABLE,SUPPORTS,Will Ferrell is considered to be part of the Frat Pack.,False. Will Ferrell is not part of the Frat Pack.,declare-lab/flan-alpaca-base
+87183,VERIFIABLE,SUPPORTS,Donnie Wahlberg acts with Tom Selleck.,False. Donnie Wahlberg and Tom Selleck are two of the most popular actors in Hollywood.,declare-lab/flan-alpaca-base
+46354,VERIFIABLE,REFUTES,Rogue appears in Canadian comic books.,True. Rogue appears in Canadian comic books.,declare-lab/flan-alpaca-base
+152230,VERIFIABLE,REFUTES,The German Shepherd is the second-most registered breed by the American Kennel Club and The Kennel Club UK.,True. The German Shepherd is the second-most registered breed by the American Kennel Club and The Kennel Club UK.,declare-lab/flan-alpaca-base
+32203,VERIFIABLE,SUPPORTS,Diego Costa was born in October.,False. Diego Costa was born in October.,declare-lab/flan-alpaca-base
+52390,VERIFIABLE,SUPPORTS,Ocean's Eight is a sequel to the Ocean's Trilogy.,False. Ocean's Eight is a sequel to the Ocean's Trilogy.,declare-lab/flan-alpaca-base
+58975,VERIFIABLE,SUPPORTS,The United Kingdom includes Scotland.,False. The United Kingdom includes Scotland.,declare-lab/flan-alpaca-base
+23544,VERIFIABLE,SUPPORTS,John Wick: Chapter 2 is a film.,True. John Wick: Chapter 2 is a movie.,declare-lab/flan-alpaca-base
+89139,VERIFIABLE,SUPPORTS,Europe is the location of Andorra.,False. Europe is the location of Andorra.,declare-lab/flan-alpaca-base
+175110,VERIFIABLE,SUPPORTS,Axl Rose has been named one of the greatest singers.,True. Axl Rose has been named one of the greatest singers in history.,declare-lab/flan-alpaca-base
+63855,VERIFIABLE,SUPPORTS,Steffi Graf won 5 consecutive majors.,True,declare-lab/flan-alpaca-base
+69908,VERIFIABLE,REFUTES,Jennifer Garner had a starring role in the film Catch Me if You Can.,True. Jennifer Garner had a starring role in the film Catch Me if You Can.,declare-lab/flan-alpaca-base
+18622,VERIFIABLE,SUPPORTS,Boromir is mentioned in the third and last volume of The Lord of the Rings.,False. Boromir is mentioned in the third and last volume of The Lord of the Rings.,declare-lab/flan-alpaca-base
+34021,VERIFIABLE,SUPPORTS,Paul Simon is an actor.,False. Paul Simon is an actor.,declare-lab/flan-alpaca-base
+36972,VERIFIABLE,SUPPORTS,Game of Thrones (season 3) is a drama set in a fantasy world.,True. Game of Thrones (season 3) is a drama set in a fantasy world.,declare-lab/flan-alpaca-base
+92805,VERIFIABLE,REFUTES,Taiwan's high-tech industry plays a key role in the local economy.,"True. Taiwan's high-tech industry plays a key role in the local economy. It is a major contributor to the local economy, and is a major source of economic growth.",declare-lab/flan-alpaca-base
+110250,VERIFIABLE,SUPPORTS,London has an elected official.,False. London has an elected official.,declare-lab/flan-alpaca-base
+43055,VERIFIABLE,SUPPORTS,Bill Gates was the largest individual shareholder of Microsoft.,True. Bill Gates was the largest individual shareholder of Microsoft.,declare-lab/flan-alpaca-base
+153057,VERIFIABLE,SUPPORTS,The phalanx may be deployed for killing.,"False. The phalanx is a powerful tool used for a variety of tasks, including detecting and detecting diseases, detecting and detecting diseases, and detecting and detecting diseases. It is also used for detecting and detecting diseases, detecting and detecting diseases,",declare-lab/flan-alpaca-base
+199466,VERIFIABLE,SUPPORTS,Robbie Collin edited The Saint.,True. Robbie Collin edited The Saint.,declare-lab/flan-alpaca-base
+129469,VERIFIABLE,REFUTES,Christianity failed to spread to Australasia.,"True. Christianity has been around for centuries, and it has been a major factor in the spread of Christianity to Australia. However, it has not been fully spread to Australia, and it is likely that the majority of the population will not be able to afford to attend church.",declare-lab/flan-alpaca-base
+129303,VERIFIABLE,SUPPORTS,Feels So Good was written for the album Hot.,"False. The album Hot was written by the band's lead singer, songwriter, and producer, and was released in the summer of 2000.",declare-lab/flan-alpaca-base
+32400,VERIFIABLE,SUPPORTS,Deadpool is not part of a film series.,False. Deadpool is not part of a film series.,declare-lab/flan-alpaca-base
+214523,VERIFIABLE,SUPPORTS,Evolution was by someone born in May.,True. Evolution was caused by a human being born in May.,declare-lab/flan-alpaca-base
+177452,VERIFIABLE,SUPPORTS,Kmart has stores in operation in an unincorporated and organized territory of the United States.,True. Walmart has stores in an unincorporated and organized territory of the United States.,declare-lab/flan-alpaca-base
+118769,VERIFIABLE,SUPPORTS,"Ancient Algeria has known many empires and dynasties, including ancient Carthaginians.","True. Ancient Algeria has known many empires and dynasties, including ancient Carthaginians.",declare-lab/flan-alpaca-base
+108712,VERIFIABLE,SUPPORTS,Clint Eastwood has been in films.,True. Clint Eastwood has been in films.,declare-lab/flan-alpaca-base
+84113,VERIFIABLE,SUPPORTS,Gorgeous Ladies of Wrestling is a wrestling promotion for women.,True. The claim is true because it is a true statement.,declare-lab/flan-alpaca-base
+212783,VERIFIABLE,SUPPORTS,Gustave Eiffel made significant contributions to aerodynamics.,"False. Gustave Eiffel was a French physicist and inventor who made significant contributions to aerodynamics. He was also a pioneer in the field of aerodynamics, and his work was widely admired.",declare-lab/flan-alpaca-base
+90537,VERIFIABLE,SUPPORTS,Idris Elba has been nominated four times for a Golden Globe Award in acting.,False. Idris Elba has been nominated four times for a Golden Globe Award in acting.,declare-lab/flan-alpaca-base
+189419,VERIFIABLE,REFUTES,Paul Rudd passed up the role he was offered in Role Models.,False. Paul Rudd was offered the role of role model in Role Models.,declare-lab/flan-alpaca-base
+145709,VERIFIABLE,SUPPORTS,The Twelfth Doctor is capable of superhuman abilities.,"False. The Twelfth Doctor is capable of superhuman abilities, but it is not a superhuman ability.",declare-lab/flan-alpaca-base
+224899,VERIFIABLE,SUPPORTS,Happy Endings had Lisa Kudrow in it.,True. Lisa Kudrow was in Happy Endings.,declare-lab/flan-alpaca-base
+15148,VERIFIABLE,SUPPORTS,Grace VanderWaal won the NBC TV competition show America's Got Talent.,True. Grace VanderWaal won America's Got Talent.,declare-lab/flan-alpaca-base
+34222,VERIFIABLE,SUPPORTS,Jennifer Hudson has won a Grammy.,True. Jennifer Hudson has won a Grammy.,declare-lab/flan-alpaca-base
+102776,VERIFIABLE,SUPPORTS,Marie Antoinette died in 1793.,True. Marie Antoinette died in 1793.,declare-lab/flan-alpaca-base
+15838,VERIFIABLE,SUPPORTS,The Uruguay national football team won two FIFA World Cups.,False. Uruguay won two FIFA World Cups.,declare-lab/flan-alpaca-base
+69940,VERIFIABLE,REFUTES,Overwatch is a board game.,True. Overwatch is a board game that is played on a computer. It is a board game that is played on a computer. It is a game that is played on a computer.,declare-lab/flan-alpaca-base
+77133,VERIFIABLE,SUPPORTS,The Sopranos is a televised show.,True. The Sopranos is a television show that is aired on ABC.,declare-lab/flan-alpaca-base
+90594,VERIFIABLE,SUPPORTS,Babe Ruth was active in Major League Baseball from 1914-1935.,True. Babe Ruth was active in Major League Baseball from 1914-1935.,declare-lab/flan-alpaca-base
+19171,VERIFIABLE,SUPPORTS,Roger Federer plays a racket sport.,True. Roger Federer is a professional tennis player. He is a professional tennis player.,declare-lab/flan-alpaca-base
+160826,VERIFIABLE,SUPPORTS,La La Anthony was in November Rule and Destined.,True. La La Anthony was in November.,declare-lab/flan-alpaca-base
+2584,VERIFIABLE,SUPPORTS,The United States Naval Academy is in Maryland.,False. The United States Naval Academy is located in Maryland.,declare-lab/flan-alpaca-base
+161365,VERIFIABLE,REFUTES,"Tom Welling was born November 26, 1977.","False. Tom Welling was born on November 26, 1977.",declare-lab/flan-alpaca-base
+7068,VERIFIABLE,SUPPORTS,In the Heart of the Sea was released in cinemas.,False. In the Heart of the Sea was released in cinemas.,declare-lab/flan-alpaca-base
+195435,VERIFIABLE,SUPPORTS,Blues and rock music has been played by the band AC/DC.,True. AC/DC has been playing blues and rock music for over 20 years.,declare-lab/flan-alpaca-base
+188616,VERIFIABLE,REFUTES,Naruto is incapable of being a ninja.,True. Ninjas are capable of performing tasks that are impossible for humans.,declare-lab/flan-alpaca-base
+25772,VERIFIABLE,SUPPORTS,Marilyn Monroe is an actress.,True. Marilyn Monroe is an actress.,declare-lab/flan-alpaca-base
+205627,VERIFIABLE,SUPPORTS,Wyatt Earp was a constable and he was American.,True. William Earp was a constable and he was American.,declare-lab/flan-alpaca-base
+194845,VERIFIABLE,SUPPORTS,Israel hosts a population of asylum seekers including illegal migrants from Sudan.,"False. Israel is a country that is home to a large number of asylum seekers, including illegal immigrants from Sudan.",declare-lab/flan-alpaca-base
+82099,VERIFIABLE,SUPPORTS,The American Broadcasting Company has a nickname.,True. The American Broadcasting Company has a nickname.,declare-lab/flan-alpaca-base
+92288,VERIFIABLE,REFUTES,Cindy McCain is married to a 2008 rugby champion.,True. Cindy McCain is married to a 2008 rugby champion.,declare-lab/flan-alpaca-base
+150383,VERIFIABLE,REFUTES,Leonardo DiCaprio is a fish.,False. Leonardo DiCaprio is a human being.,declare-lab/flan-alpaca-base
+34843,VERIFIABLE,SUPPORTS,T-Pain is the founder of a record label imprint established in 2005.,True. T-Pain is the founder of a record label imprint established in 2005.,declare-lab/flan-alpaca-base
+155901,VERIFIABLE,SUPPORTS,Beyoncé was given a music award.,True. Beyonce was awarded a music award.,declare-lab/flan-alpaca-base
+46715,VERIFIABLE,REFUTES,Alan Ladd failed to become television producer.,"False. Alan Ladd failed to become television producer due to his lack of experience and dedication. He was a successful actor and producer, but his failure to produce television shows and movies was a major factor in his failure.",declare-lab/flan-alpaca-base
+136742,VERIFIABLE,SUPPORTS,VHS was released in late 1976 in Japan.,True. VHS was released in late 1976 in Japan.,declare-lab/flan-alpaca-base
+37215,VERIFIABLE,REFUTES,Pixar was funded by an Indian industrial designer.,True. Pixar was funded by an Indian industrial designer.,declare-lab/flan-alpaca-base
+32576,VERIFIABLE,SUPPORTS,"The Chernobyl disaster ultimately involved more than 500,000 workers.","True. The Chernobyl disaster was caused by a combination of factors, including the burning of nuclear reactors, the destruction of the Chernobyl nuclear reactor, and the destruction of the Chernobyl nuclear reactor.",declare-lab/flan-alpaca-base
+57119,VERIFIABLE,REFUTES,Frédéric Auguste Bartholdi was a painter.,True. Frédéric Auguste Bartholdi was a painter.,declare-lab/flan-alpaca-base
+9172,VERIFIABLE,SUPPORTS,The Beatles were formed in London.,False. The Beatles were formed in London in 1969.,declare-lab/flan-alpaca-base
+115166,VERIFIABLE,REFUTES,Kumail Nanjiani has declined to act in any movies.,"False. Kumail Nanjiani has been a prolific actor since his early 20s. He has also been a prolific writer and producer, and has been a prolific actor in many films.",declare-lab/flan-alpaca-base
+162622,VERIFIABLE,SUPPORTS,Hacksaw Ridge made money.,True. Hacksaw Ridge made money from its investments in the stock market.,declare-lab/flan-alpaca-base
+213866,VERIFIABLE,SUPPORTS,"In 2010, Kick-Ass was released.",False. Kick-Ass was released in 2010 and it was released in the United States.,declare-lab/flan-alpaca-base
+207508,VERIFIABLE,SUPPORTS,Harry Potter confronts someone in Harry Potter and the Deathly Hallows.,False. Harry Potter confronts someone in Harry Potter and the Deathly Hallows.,declare-lab/flan-alpaca-base
+10616,VERIFIABLE,SUPPORTS,Sophie Turner appeared in movies in 2013.,False. Sophia Turner appeared in movies in 2013.,declare-lab/flan-alpaca-base
+53702,VERIFIABLE,SUPPORTS,Farrah Fawcett was the subject of an NBC documentary.,True. Fawcett was the subject of an NBC documentary.,declare-lab/flan-alpaca-base
+29436,VERIFIABLE,REFUTES,Tiger Woods has not competed in a golf tournament.,True. Tiger Woods has competed in a golf tournament.,declare-lab/flan-alpaca-base
+45043,VERIFIABLE,SUPPORTS,Brian Eno was born in England.,True.,declare-lab/flan-alpaca-base
+132112,VERIFIABLE,REFUTES,Portugal does not share a border with Spain.,False. Portugal does not share a border with Spain.,declare-lab/flan-alpaca-base
+190270,VERIFIABLE,SUPPORTS,Steven Knight was born in 1959.,True. Steven Knight was born in 1959.,declare-lab/flan-alpaca-base
+167600,VERIFIABLE,SUPPORTS,Suits is a show about lawyers.,False. Suits is a show about lawyers.,declare-lab/flan-alpaca-base
+212764,VERIFIABLE,SUPPORTS,Tom Hanks has been granted at least three awards.,False. Tom Hanks has been granted at least three awards.,declare-lab/flan-alpaca-base
+49080,VERIFIABLE,REFUTES,Dwyane Wade was rejected for the All-Rookie team.,True.,declare-lab/flan-alpaca-base
+163315,VERIFIABLE,REFUTES,The Homesman features American actor John Lithgow.,True. John Lithgow is an American actor.,declare-lab/flan-alpaca-base
+52784,VERIFIABLE,SUPPORTS,Star Wars' soundtrack was recorded in England.,False. Star Wars' soundtrack was recorded in England.,declare-lab/flan-alpaca-base
+218651,VERIFIABLE,SUPPORTS,The cast of The Playboy Club includes Leah Renee.,True. Leah Renee is the main character in the playboy club.,declare-lab/flan-alpaca-base
+63459,VERIFIABLE,SUPPORTS,The Portuguese Empire was an empire in world history.,True. The Portuguese Empire was an empire in world history. It was a powerful and influential power that ruled the continent from the late 14th century to the late 16th century. It was a powerful and influential force that shaped the world and its people. It was a powerful force that shaped,declare-lab/flan-alpaca-base
+158388,VERIFIABLE,SUPPORTS,Chris Froome's parents are people.,True. Chris Froome's parents are not people.,declare-lab/flan-alpaca-base
+10387,VERIFIABLE,REFUTES,Shueisha is a publisher headquartered in Maine.,True. Shueisha is a publisher headquartered in Maine.,declare-lab/flan-alpaca-base
+221765,VERIFIABLE,SUPPORTS,Friendship has been studied in academic disciplines like anthropology.,"True. Friendship has been studied in academic disciplines like anthropology, but it has not been studied in any other field.",declare-lab/flan-alpaca-base
+35602,VERIFIABLE,SUPPORTS,Belgium is comprised of three regions.,"True. Belgium is composed of three regions: the Netherlands, Belgium, and France.",declare-lab/flan-alpaca-base
+49536,VERIFIABLE,REFUTES,Apple Inc.'s consumer software lacks the iOS operating system.,True. Apple Inc.'s consumer software does not have the iOS operating system.,declare-lab/flan-alpaca-base
+223566,VERIFIABLE,SUPPORTS,Kris Wu starred in a Chinese film called Journey to the West.,True. Kris Wu starred in a Chinese film called Journey to the West.,declare-lab/flan-alpaca-base
+198302,VERIFIABLE,REFUTES,Super Metroid is a movie sequel.,True. Super Metroid is a sequel to the original game.,declare-lab/flan-alpaca-base
+56063,VERIFIABLE,SUPPORTS,One America News Network is abbreviated as OANN.,True. OANN is a news network that provides news and information about the United States.,declare-lab/flan-alpaca-base
+42579,VERIFIABLE,SUPPORTS,Jennifer Garner is a board member of Save the Children.,True. Jennifer Garner is a board member of Save the Children.,declare-lab/flan-alpaca-base
+30922,VERIFIABLE,SUPPORTS,The Portuguese Empire existed during the Renaissance.,False. The Portuguese Empire existed during the Renaissance.,declare-lab/flan-alpaca-base
+116583,VERIFIABLE,SUPPORTS,One actor is Scott Eastwood.,True. Scott Eastwood is an actor.,declare-lab/flan-alpaca-base
+203903,VERIFIABLE,REFUTES,Tall Story is a romantic comedy club.,True. Tall Story is a romantic comedy club.,declare-lab/flan-alpaca-base
+105337,VERIFIABLE,REFUTES,X-Men: Days of Future Past is a novel based on X-Men characters in comics.,True. X-Men: Days of Future Past is a novel based on X-Men characters in comics.,declare-lab/flan-alpaca-base
+8388,VERIFIABLE,SUPPORTS,Richard Eyre is a television director.,True. Richard Eyre is a television director.,declare-lab/flan-alpaca-base
+164820,VERIFIABLE,REFUTES,Furious 7 began principal photography in the summer of 2013.,True,declare-lab/flan-alpaca-base
+64508,VERIFIABLE,SUPPORTS,Prakash Jha is an actor.,True. Prakash Jha is an actor.,declare-lab/flan-alpaca-base
+68716,VERIFIABLE,REFUTES,Splatoon 2 is the only game in its franchise.,"False. The only game in the franchise is the original game, The Lord of the Rings.",declare-lab/flan-alpaca-base
+109489,VERIFIABLE,SUPPORTS,Nepal was ruled by the Shah dynasty until 2008.,True. The Shah dynasty was ruled by the Shah from 1889 to 1899.,declare-lab/flan-alpaca-base
+192692,VERIFIABLE,REFUTES,The interior of Uranus is only composed of gas.,"False. Uranus is composed of a variety of gases, including hydrogen, oxygen, and other gases.",declare-lab/flan-alpaca-base
+83833,VERIFIABLE,SUPPORTS,Sriti Jha plays the lead role in a TV show.,True,declare-lab/flan-alpaca-base
+62642,VERIFIABLE,SUPPORTS,There is a film called Absolute Beginners.,True,declare-lab/flan-alpaca-base
+122575,VERIFIABLE,REFUTES,Qatar borders London.,False. Qatar borders London.,declare-lab/flan-alpaca-base
+47252,VERIFIABLE,SUPPORTS,The Amanda Show aired from 1999 to 2002.,True. The Amanda Show aired from 1999 to 2002.,declare-lab/flan-alpaca-base
+121235,VERIFIABLE,REFUTES,Brock Lesnar is signed to a Japanese mixed martial arts promotion.,True. Brock Lesnar is signed to a Japanese mixed martial arts promotion.,declare-lab/flan-alpaca-base
+191899,VERIFIABLE,SUPPORTS,The Hangover Part III includes Justin Bartha.,False. Justin Bartha is not in The Hangover Part III.,declare-lab/flan-alpaca-base
+72797,VERIFIABLE,SUPPORTS,Lee Harvey Oswald assassinated the 35th President of the United States.,True. Lee Harvey Oswald was the 35th President of the United States.,declare-lab/flan-alpaca-base
+122933,VERIFIABLE,REFUTES,In & Out is directed by James Cameron.,False. In & Out is directed by James Cameron.,declare-lab/flan-alpaca-base
+144581,VERIFIABLE,SUPPORTS,Tom Felton is a person.,False. Tom Felton is a famous actor and musician. He is a well-known entertainer and has been a popular figure in the comedy genre. He is also a successful businessman and has been a successful businessman.,declare-lab/flan-alpaca-base
+39355,VERIFIABLE,SUPPORTS,Louis Tomlinson appeared in a TV drama.,False. Louis Tomlinson appeared in a TV drama.,declare-lab/flan-alpaca-base
+17505,VERIFIABLE,SUPPORTS,Kalpana Raghavendar is an artist.,True. Kalpana Raghavendar is an Indian artist.,declare-lab/flan-alpaca-base
+114403,VERIFIABLE,REFUTES,Luke Evans had his Hollywood breakthrough role starring in a play.,True.,declare-lab/flan-alpaca-base
+46625,VERIFIABLE,SUPPORTS,"Emily Ratajkowski was visible in the ""Blurred Lines"" music video.","True. Emily Ratajkowski was visible in the ""Blurred Lines"" music video.",declare-lab/flan-alpaca-base
+212087,VERIFIABLE,SUPPORTS,"10 Cloverfield Lane stars the actor John Gallagher, Jr.",False. 10 Cloverfield Lane stars John Gallagher Jr.,declare-lab/flan-alpaca-base
+55895,VERIFIABLE,SUPPORTS,Chris Froome rides under a British license.,True. Chris Froome rides under a British license.,declare-lab/flan-alpaca-base
+1726,VERIFIABLE,REFUTES,Olivia Munn failed to be credited as Lisa Munn.,True. Olivia Munn was credited as Lisa Munn.,declare-lab/flan-alpaca-base
+175355,VERIFIABLE,REFUTES,Batman is yet to be released.,False. Batman is yet to be released.,declare-lab/flan-alpaca-base
+82348,VERIFIABLE,SUPPORTS,Marlon Brando is an actor who was in Mutiny on the Bounty.,False. Marlon Brando was an actor in Mutiny on the Bounty.,declare-lab/flan-alpaca-base
+63561,VERIFIABLE,SUPPORTS,None of lung cancer's symptoms is chest pains.,False. Chest pains are a common symptom of lung cancer.,declare-lab/flan-alpaca-base
+144711,VERIFIABLE,SUPPORTS,Iran has 21 UNESCO World Heritage Sites.,True. Iran has 21 UNESCO World Heritage Sites.,declare-lab/flan-alpaca-base
+159486,VERIFIABLE,REFUTES,The Taj Mahal attracts significantly less than 7-8 million visitors a year.,True. The Taj Mahal attracts 7-8 million visitors a year.,declare-lab/flan-alpaca-base
+127145,VERIFIABLE,SUPPORTS,Lisbon is in Portugal.,False. Lisbon is located in France.,declare-lab/flan-alpaca-base
+66277,VERIFIABLE,SUPPORTS,Arya Stark is the daughter of Lady Catelyn Stark.,True.,declare-lab/flan-alpaca-base
+160184,VERIFIABLE,SUPPORTS,Selene serves as the central character in a film written by Danny McBride in 2001.,"False. Selene is the main character in the 2001 film ""Selene"".",declare-lab/flan-alpaca-base
+228921,VERIFIABLE,SUPPORTS,Pulp Fiction is an American black comedy neo-noir film released in 1994.,True,declare-lab/flan-alpaca-base
+189236,VERIFIABLE,SUPPORTS,Dan Aykroyd has received zero Academy Award nominations.,False. Dan Aykroyd has received zero Academy Award nominations.,declare-lab/flan-alpaca-base
+81820,VERIFIABLE,SUPPORTS,Dhool was directed by Dharani.,"True. Dharani directed the movie ""Dhool"".",declare-lab/flan-alpaca-base
+74077,VERIFIABLE,REFUTES,Watchmen was number 91 on The Comics Journals list of the top 100 comics of the 20th century that was published in 2001.,True. Watchmen was number 91 on The Comics Journals list of the top 100 comics of the 20th century that was published in 2001.,declare-lab/flan-alpaca-base
+18884,VERIFIABLE,SUPPORTS,Android has had prosperity.,True,declare-lab/flan-alpaca-base
+66130,VERIFIABLE,REFUTES,Saddam Hussein died in 1937.,False. Saddam Hussein died in 1937.,declare-lab/flan-alpaca-base
+208823,VERIFIABLE,SUPPORTS,Tim Rice has collaborated with someone.,True. Tim Rice has collaborated with someone.,declare-lab/flan-alpaca-base
+27871,VERIFIABLE,REFUTES,Hugo Weaving is in zero movies.,False. Hugo Weaving is not in any movies.,declare-lab/flan-alpaca-base
+101069,VERIFIABLE,SUPPORTS,Time Lords have time machines.,False. Time Lords have time machines that can be used to travel back in time.,declare-lab/flan-alpaca-base
+74534,VERIFIABLE,REFUTES,Arsenic and Old Lace was released in 1964.,True. The novel was released in 1964.,declare-lab/flan-alpaca-base
+65292,VERIFIABLE,SUPPORTS,The Catalyst is a rock song.,False. The Catalyst is a popular rock song.,declare-lab/flan-alpaca-base
+84759,VERIFIABLE,SUPPORTS,Indiana Jones has been portrayed by Corey Carrier.,"True. Corey Carrier has portrayed the character of Indiana Jones in a number of movies. He has also starred in several other movies, including The Matrix, The Matrix, and The Avengers.",declare-lab/flan-alpaca-base
+5573,VERIFIABLE,SUPPORTS,Umbrella is a single.,"False. An umbrella is a single item, and it is not a single item.",declare-lab/flan-alpaca-base
+17256,VERIFIABLE,SUPPORTS,Sandra Bullock stars in The Proposal.,True. Sandra Bullock stars in The Proposal.,declare-lab/flan-alpaca-base
+68371,VERIFIABLE,SUPPORTS,Martin Luther King Jr. worked on segregated housing in earnest.,True. Martin Luther King Jr. worked on segregated housing in earnest.,declare-lab/flan-alpaca-base
+150233,VERIFIABLE,SUPPORTS,FC Barcelona was awarded five trophies.,False. FC Barcelona was awarded five trophies.,declare-lab/flan-alpaca-base
+110045,VERIFIABLE,REFUTES,The Great Buck Howard was directed by Ingmar Bergman.,True. Ingmar Bergman directed The Great Buck Howard.,declare-lab/flan-alpaca-base
+123436,VERIFIABLE,SUPPORTS,John McEnroe is famous for his aggressive behavior on the court.,True. John McEnroe is known for his aggressive behavior on the court. He is known for his sluggish decision-making and his sluggish judgment. He is also known for his sluggish decision-making and his sluggish judgment.,declare-lab/flan-alpaca-base
+126425,VERIFIABLE,SUPPORTS,John Mayer's first EP was released while he was signed to Columbia Records.,True. John Mayer's first album was released while he was signed to Columbia Records.,declare-lab/flan-alpaca-base
+12131,VERIFIABLE,SUPPORTS,Dirty Diana is by Michael Jackson.,True. The song Dirty Diana is by Michael Jackson.,declare-lab/flan-alpaca-base
+90243,VERIFIABLE,SUPPORTS,American Gods' adaptation began airing.,True,declare-lab/flan-alpaca-base
+8626,VERIFIABLE,SUPPORTS,Adrienne Bailon is an American actress.,True. Adrienne Bailon is an American actress.,declare-lab/flan-alpaca-base
+213015,VERIFIABLE,REFUTES,Marlon Brando was in any movie but Julius Caesar.,False. Marlon Brando was not in any movie but Julius Caesar.,declare-lab/flan-alpaca-base
+179217,VERIFIABLE,SUPPORTS,Up All Night was released by Syco Records in 2011.,True. Up All Night was released by Syco Records in 2011.,declare-lab/flan-alpaca-base
+108559,VERIFIABLE,SUPPORTS,"Little Miss Sunshine was filmed over 30 days beginning on June 6, 2005.",True,declare-lab/flan-alpaca-base
+178005,VERIFIABLE,SUPPORTS,IO Theater is a place where people train.,"True. IO Theater is a place where people train. It is a theater that is used for concerts, theater shows, and other events. It is a place where people can learn and grow.",declare-lab/flan-alpaca-base
+63566,VERIFIABLE,SUPPORTS,Coke Boys Records was founded by an American Rapper.,True. Coca Boys Records was founded by an American Rapper.,declare-lab/flan-alpaca-base
+4627,VERIFIABLE,SUPPORTS,John McCain was a presidential nominee in 2008.,True. John McCain was a presidential nominee in 2008.,declare-lab/flan-alpaca-base
+98595,VERIFIABLE,SUPPORTS,Gia is a work.,True. Gia is a work.,declare-lab/flan-alpaca-base
+51594,VERIFIABLE,REFUTES,21 Jump Street was released by Columbia Pictures in 2002.,True. 21 Jump Street was released in 2002 by Columbia Pictures.,declare-lab/flan-alpaca-base
+125148,VERIFIABLE,SUPPORTS,Kuala Lumpur has the Petronas Twin Towers.,"True. The Petronas Twin Towers are located in Kuala Lumpur, Malaysia.",declare-lab/flan-alpaca-base
+128493,VERIFIABLE,SUPPORTS,"The television series Fargo has an anthology format, setting each season in a different era with a different story and cast.","True. The television series Fargo has an anthology format, setting each season in a different era with a different story and cast.",declare-lab/flan-alpaca-base
+101824,VERIFIABLE,SUPPORTS,An annual training camp is hosted by the Carolina Panthers.,False. The Carolina Panthers host an annual training camp every year.,declare-lab/flan-alpaca-base
+210075,VERIFIABLE,REFUTES,Ronaldo Maczinski is Irish.,True. Ronaldo Maczinski is not Irish.,declare-lab/flan-alpaca-base
+227622,VERIFIABLE,SUPPORTS,Born This Way is a piece of music.,True. Born This Way is a piece of music that is a popular and popular musical genre. It is a popular and popular musical genre that is popular in the United States and Canada. It is a popular and popular musical genre that is popular in the United States and Canada.,declare-lab/flan-alpaca-base
+31340,VERIFIABLE,SUPPORTS,"By 1997, Andre Agassi was number 141 in the world.",False. Andre Agassi was number 141 in the world in 1997.,declare-lab/flan-alpaca-base
+208505,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales was a grandchild of a king.","True. Charles, Prince of Wales was a grandchild of a king.",declare-lab/flan-alpaca-base
+124218,VERIFIABLE,SUPPORTS,Man of Steel is a superhero movie from 2013.,False. Man of Steel is a superhero movie from 2013 and has been released in multiple countries.,declare-lab/flan-alpaca-base
+36415,VERIFIABLE,SUPPORTS,Kate Beckinsale was directed by James Ivory.,True. James Ivory directed Kate Beckinsale.,declare-lab/flan-alpaca-base
+2758,VERIFIABLE,SUPPORTS,Shakira is a performer.,True. Shakira is a performer.,declare-lab/flan-alpaca-base
+70098,VERIFIABLE,REFUTES,Michael Schumacher is a professional writer,"True. Michael Schumacher is a professional writer. He is a prolific writer and has won numerous awards and accolades. He has also written articles, books, and articles for various magazines and newspapers. He is also a prolific author and has written numerous books and articles.",declare-lab/flan-alpaca-base
+85626,VERIFIABLE,REFUTES,Bridget Moynahan was cut from Lord of War.,False. Bridget Moynahan was cut from Lord of War by the British government.,declare-lab/flan-alpaca-base
+94303,VERIFIABLE,SUPPORTS,There is a mosque in the Taj Mahal.,True. The Taj Mahal is a mosque located in the heart of India. It is a large mosque located in the heart of the city and is a symbol of India's independence.,declare-lab/flan-alpaca-base
+3596,VERIFIABLE,REFUTES,Cry Freedom wasn't shot in Kenya.,True. Kenya was the only country that was not shot in the event of the shooting.,declare-lab/flan-alpaca-base
+50469,VERIFIABLE,SUPPORTS,"In the United States presidential election of 1972, Richard Nixon was a candidate.",True. Richard Nixon was a candidate in the United States presidential election of 1972.,declare-lab/flan-alpaca-base
+140657,VERIFIABLE,SUPPORTS,There is a cultural attraction called the Museum of Science and Industry.,True. The Museum of Science and Industry is a cultural attraction located in the city of New York. It is a large museum that specializes in the history and development of science and technology. It is a great place to explore and learn about the world around us.,declare-lab/flan-alpaca-base
+155153,VERIFIABLE,SUPPORTS,Carrie Fisher wrote a book.,True. Carrie Fisher wrote a book.,declare-lab/flan-alpaca-base
+97805,VERIFIABLE,REFUTES,Anil Kapoor has never been a producer.,True. Anil Kapoor has been a producer for many years. He has been a prolific actor and has been a prolific producer. He has also been a prolific writer and has written many books.,declare-lab/flan-alpaca-base
+16925,VERIFIABLE,SUPPORTS,Adolf Hitler encouraged settler colonialism.,False. Adolf Hitler encouraged settler colonialism.,declare-lab/flan-alpaca-base
+102397,VERIFIABLE,SUPPORTS,Before Night Falls is a film.,False. Before Night Falls is a movie.,declare-lab/flan-alpaca-base
+84546,VERIFIABLE,SUPPORTS,An example of a Christmas comedy film is Home Alone.,"True. Home Alone is a Christmas comedy film that follows a group of friends as they embark on a journey to find their way home. The movie follows the group of friends as they travel to a remote cabin in the woods, where they meet a mysterious figure who is a s",declare-lab/flan-alpaca-base
+127854,VERIFIABLE,SUPPORTS,Steven Price (composer) worked on the film Gravity.,True. Steven Price was the composer of the film Gravity. He composed the music for the film and was credited with creating the film. He also wrote the lyrics for the film.,declare-lab/flan-alpaca-base
+20181,VERIFIABLE,SUPPORTS,The 1991 NBA Finals had the Lakers in it.,True. The Lakers were in the 1991 NBA Finals.,declare-lab/flan-alpaca-base
+104100,VERIFIABLE,SUPPORTS,Google has been the second most valuable brand in the world for 4 blue years.,True,declare-lab/flan-alpaca-base
+10895,VERIFIABLE,SUPPORTS,Instagram is a photo-sharing application.,False. Instagram is a photo-sharing application that allows users to share photos and videos with others.,declare-lab/flan-alpaca-base
+183071,VERIFIABLE,SUPPORTS,Snooki & Jwoww was renewed by at least one channel.,True,declare-lab/flan-alpaca-base
+131166,VERIFIABLE,SUPPORTS,The Eagles broke up in 1980.,False. The Eagles were founded in the late 1960s and were a team that won the Super Bowl.,declare-lab/flan-alpaca-base
+19584,VERIFIABLE,SUPPORTS,Black Widow is Russian.,False. Black Widow is not Russian.,declare-lab/flan-alpaca-base
+122914,VERIFIABLE,SUPPORTS,Portugal is the 5th most peaceful country in the world and it also features a high-income advanced economy and the 18th highest social progress in the world.,False. Portugal is the 5th most peaceful country in the world and has a high-income advanced economy and the 18th highest social progress in the world.,declare-lab/flan-alpaca-base
+3083,VERIFIABLE,SUPPORTS,A temperate seasonal climate influences Berlin.,True. Berlin is a hot and humid climate with a mild winter and a mild summer.,declare-lab/flan-alpaca-base
+7849,VERIFIABLE,SUPPORTS,Twitter had about 1.6 billion search queries per day in 2012.,True,declare-lab/flan-alpaca-base
+56940,VERIFIABLE,SUPPORTS,Ramadan is the ninth calendar month in Islam.,True. Ramadan is the ninth calendar month in Islam.,declare-lab/flan-alpaca-base
+227606,VERIFIABLE,SUPPORTS,The self-empowerment of the LGBT community is discussed in Born This Way.,True. The LGBTQ community is being discussed in Born This Way.,declare-lab/flan-alpaca-base
+43619,VERIFIABLE,SUPPORTS,Mao Zedong lived until 1976.,True. Mao Zedong lived until 1976.,declare-lab/flan-alpaca-base
+191936,VERIFIABLE,SUPPORTS,"The Hangover Part III includes Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha, and Ken Jeong, Jeffrey Tambor, Heather Graham, Mike Epps, Melissa McCarthy and John Goodman.",True,declare-lab/flan-alpaca-base
+9622,VERIFIABLE,REFUTES,Steven Tyler was active in the early 1980s.,True. Steven Tyler was active in the early 1980s.,declare-lab/flan-alpaca-base
+161995,VERIFIABLE,REFUTES,Wikipedia has articles in only english.,"False. Wikipedia has articles in all languages, including English, French, German, and Spanish.",declare-lab/flan-alpaca-base
+56637,VERIFIABLE,REFUTES,Ellyse Perry is a man.,True. Ellyse Perry is a woman.,declare-lab/flan-alpaca-base
+138032,VERIFIABLE,REFUTES,American Idiot has not had five successful singles.,True. American Idiot has had five successful singles.,declare-lab/flan-alpaca-base
+205521,VERIFIABLE,REFUTES,Wyatt Earp was an actor.,True. Wyatt Earp was an actor.,declare-lab/flan-alpaca-base
+86567,VERIFIABLE,REFUTES,Toronto is the least populous city in Canada.,"True. Toronto is the most populous city in Canada, with a population of over 200,000.",declare-lab/flan-alpaca-base
+33233,VERIFIABLE,SUPPORTS,Paul is Steve Jobs' middle name.,False. Paul is Steve Jobs' middle name.,declare-lab/flan-alpaca-base
+202341,VERIFIABLE,SUPPORTS,Destiny was released for the console Playstation 4.,False. The PlayStation 4 was released for the console Playstation 4 and it was released for the console Playstation 4.,declare-lab/flan-alpaca-base
+143990,VERIFIABLE,SUPPORTS,Heather Graham played the title character in the series Emily's Reasons Why Not in 2010.,True.,declare-lab/flan-alpaca-base
+224086,VERIFIABLE,SUPPORTS,Battle Studies World Tour was a global tour.,"False. Battle Studies World Tour was a global tour that was aimed at promoting the study of the humanities and sciences. It was a global tour that was aimed at promoting the study of the humanities and sciences, as well as promoting the development of new technologies and technologies.",declare-lab/flan-alpaca-base
+39837,VERIFIABLE,SUPPORTS,Samuel L. Jackson was in the M. Night Shyamalan film Unbreakable.,False. Unbreakable was a movie released by M. Night Shyamalan in the year 2000.,declare-lab/flan-alpaca-base
+40337,VERIFIABLE,REFUTES,Singapore is south of Indonesia.,False. Singapore is located in the north of Indonesia.,declare-lab/flan-alpaca-base
+49312,VERIFIABLE,SUPPORTS,Jennifer Hudson was a finalist of American Idol.,True. Jennifer Hudson was a finalist of American Idol.,declare-lab/flan-alpaca-base
+93954,VERIFIABLE,REFUTES,Hong Kong is incapable of being consistently ranked as the world's most freest economic entity.,"False. Hong Kong is the world's most freest economic entity, with a population of over 1.4 billion.",declare-lab/flan-alpaca-base
+106357,VERIFIABLE,SUPPORTS,Manchester City F.C. was bought by the Abu Dhabi United Group.,False. Manchester City FC was bought by the Abu Dhabi United Group.,declare-lab/flan-alpaca-base
+2829,VERIFIABLE,SUPPORTS,Unapologetic is a work.,False. Unapologetic is a work that is not a work.,declare-lab/flan-alpaca-base
+86667,VERIFIABLE,REFUTES,Andre Agassi is a golfer.,True. Andrew Agassi is a professional golfer.,declare-lab/flan-alpaca-base
+26911,VERIFIABLE,SUPPORTS,Liverpool F.C. was managed by Bill Shankly.,False. Liverpool F.C. was managed by Bill Shankly.,declare-lab/flan-alpaca-base
+25834,VERIFIABLE,REFUTES,Bangladesh is a founding member of nationalism.,True. Bangladesh is a founding member of nationalism.,declare-lab/flan-alpaca-base
+167936,VERIFIABLE,SUPPORTS,Jon Pertwee took part in Worzel Gummidge.,False. Jon Pertwee was not involved in Worzel Gummidge.,declare-lab/flan-alpaca-base
+22649,VERIFIABLE,SUPPORTS,Lee Child was born on October 29.,True. Lee Child was born on October 29.,declare-lab/flan-alpaca-base
+82056,VERIFIABLE,REFUTES,Tequila is incapable of being made in Mexico.,False. Mexico is the only country in the world that produces tequila.,declare-lab/flan-alpaca-base
+216929,VERIFIABLE,SUPPORTS,Michael Phelps holds three long course world records for swimming.,False. Michael Phelps holds three long course world records for swimming.,declare-lab/flan-alpaca-base
+150426,VERIFIABLE,REFUTES,Donald Glover never released an album.,False. Donald Glover has released several albums and has released several other albums.,declare-lab/flan-alpaca-base
+11888,VERIFIABLE,REFUTES,FC Barcelona was ranked second in the IFFHS Club World Ranking for 2015.,False. FC Barcelona was ranked second in the IFFHS Club World Ranking for 2015.,declare-lab/flan-alpaca-base
+224586,VERIFIABLE,SUPPORTS,Courteney Cox appeared on a show created by David Crane and Marta Kauffman.,False. Courteney Cox appeared on the show created by David Crane and Mara Kauffman.,declare-lab/flan-alpaca-base
+24896,VERIFIABLE,SUPPORTS,Chris Pine appeared in a 2012 American romantic comedy spy film.,False. Chris Pine appeared in a 2012 American romantic comedy spy film.,declare-lab/flan-alpaca-base
+50863,VERIFIABLE,REFUTES,Ratatouille was directed by one person.,"True. The movie was directed by a group of actors, but it was not directed by a single person.",declare-lab/flan-alpaca-base
+92830,VERIFIABLE,SUPPORTS,Kurt Angle won a gold medal in freestyle wrestling at the 1995 World Wrestling Championships.,True. Kurt Angle won a gold medal in freestyle wrestling at the 1995 World Wrestling Championships.,declare-lab/flan-alpaca-base
+202243,VERIFIABLE,REFUTES,Iron Fist was created by Damon Lindelof.,True. Iron Fist was created by Damon Lindelof.,declare-lab/flan-alpaca-base
+204502,VERIFIABLE,REFUTES,Dangerous Beauty is a 1990 film.,"True. The movie ""Dangerous Beauty"" was released in 1990.",declare-lab/flan-alpaca-base
+97595,VERIFIABLE,SUPPORTS,The Avengers (2012 film) features Chris Evans.,False. Chris Evans is not in the 2012 film The Avengers.,declare-lab/flan-alpaca-base
+219423,VERIFIABLE,REFUTES,Jerry Goldsmith failed to collaborate with anybody during his career.,True.,declare-lab/flan-alpaca-base
+68244,VERIFIABLE,SUPPORTS,"Charles, Prince of Wales sponsors The Prince's Charities.",False. The Prince of Wales is the founder of The Prince's Charities.,declare-lab/flan-alpaca-base
+217718,VERIFIABLE,SUPPORTS,Grizz Chapman was on 30 Rock.,True. Grizz Chapman was on 30 Rock.,declare-lab/flan-alpaca-base
+109175,VERIFIABLE,SUPPORTS,Nicki Minaj is a person.,True. Nicki Minaj is a singer and songwriter.,declare-lab/flan-alpaca-base
+220314,VERIFIABLE,SUPPORTS,Margaret of Valois was imprisoned.,False. Margaret of Valois was imprisoned in France.,declare-lab/flan-alpaca-base
+217055,VERIFIABLE,SUPPORTS,The Dayton Agreement was formally signed in Paris in 1995.,True. The Dayton Agreement was signed in Paris in 1995.,declare-lab/flan-alpaca-base
+187906,VERIFIABLE,SUPPORTS,"As the World Turns went away and an American talk show debuted on October 18, 2010 in its place.","False. As the World Turns went away, an American talk show debuted on October 18, 2010 in its place.",declare-lab/flan-alpaca-base
+96523,VERIFIABLE,SUPPORTS,Princess Agents is a novel adaptation.,False. Princess Agents is a novel adaptation of the novel by J.D. Salinger.,declare-lab/flan-alpaca-base
+34108,VERIFIABLE,REFUTES,The Vampire Diaries only aired two seasons.,False. The Vampire Diaries only aired two seasons.,declare-lab/flan-alpaca-base
+80728,VERIFIABLE,REFUTES,The Ten Commandments is reviewed by Cecil B. DeMille.,False. Cecil B. DeMille reviewed The Ten Commandments in 1889.,declare-lab/flan-alpaca-base
+99416,VERIFIABLE,SUPPORTS,The Bends was released in the 1990's.,False. The Bends was released in the 1990's.,declare-lab/flan-alpaca-base
+109991,VERIFIABLE,REFUTES,Alandi is only a city.,False. Alandi is a large country with a population of over 1.3 billion.,declare-lab/flan-alpaca-base
+158880,VERIFIABLE,SUPPORTS,A singer in Got a Girl starred in Final Destination 3.,False. The singer in Got a Girl starred in Final Destination 3 and was not in Got a Girl.,declare-lab/flan-alpaca-base
+224546,VERIFIABLE,SUPPORTS,Peggy Sue Got Married was directed by an American director.,True. Peggy Sue Got Married was directed by an American director.,declare-lab/flan-alpaca-base
+189389,VERIFIABLE,SUPPORTS,Role Models is a film.,True. Role Models is a movie.,declare-lab/flan-alpaca-base
+99491,VERIFIABLE,SUPPORTS,Gerald Ford was the United States president after Richard Nixon.,True. Ford was the first President of the United States after Richard Nixon.,declare-lab/flan-alpaca-base
+224484,VERIFIABLE,SUPPORTS,Will Ferrell worked on a film.,False. Will Ferrell worked on a movie.,declare-lab/flan-alpaca-base
+16333,VERIFIABLE,REFUTES,Marshall McLuhan predicted his own death.,False.,declare-lab/flan-alpaca-base
+107175,VERIFIABLE,SUPPORTS,Walt Disney founded a company.,True. Walt Disney founded a company in 1939.,declare-lab/flan-alpaca-base
+126127,VERIFIABLE,SUPPORTS,Brock Lesnar won against Randy Couture.,True. Brock Lesnar won against Randy Couture.,declare-lab/flan-alpaca-base
+117933,VERIFIABLE,REFUTES,Guam was employed by America.,False. Guam was employed by the United States.,declare-lab/flan-alpaca-base
+209400,VERIFIABLE,SUPPORTS,Sweden is a Scandinavian country.,False. Sweden is a Scandinavian country.,declare-lab/flan-alpaca-base
+103455,VERIFIABLE,SUPPORTS,One of Future's studio albums was published in 2017.,False. Future's studio album was released in 2017.,declare-lab/flan-alpaca-base
+115556,VERIFIABLE,SUPPORTS,David Dhawan is a director of films.,True. David Dhawan is a director of films.,declare-lab/flan-alpaca-base
+31756,VERIFIABLE,REFUTES,This Sporting Life was directed by a director born in 1919.,True. This Sporting Life was directed by a director born in 1919.,declare-lab/flan-alpaca-base
+199112,VERIFIABLE,SUPPORTS,"International Relations includes technology and engineering, economics, communication studies, history, international law, demography, philosophy, geography, social work, sociology, anthropology, criminology, psychology, gender studies, cultural studies, culturology, and diplomacy, globalization, diplomatic relations, state sovereignty, international security, ecological sustainability, nuclear proliferation, nationalism, economic development, global finance, as well as terrorism and organized crime, human security, foreign interventionism, and human rights, as well, as, more recently, comparative religion.",True,declare-lab/flan-alpaca-base
+176978,VERIFIABLE,SUPPORTS,Underworld's main character is a supernatural creature.,True. Underworld is a fictional universe where the main character is a human being.,declare-lab/flan-alpaca-base
+57356,VERIFIABLE,SUPPORTS,Avenged Sevenfold released an album.,True. Avenged Sevenfold released an album.,declare-lab/flan-alpaca-base
+18732,VERIFIABLE,SUPPORTS,Brock Lesnar defeated someone.,False. Brock Lesnar was a successful professional football player. He was a successful businessman and a successful businessman. He was a successful businessman and a successful businessman. He was a successful businessman and a successful businessman. He was a successful business,declare-lab/flan-alpaca-base
+16192,VERIFIABLE,SUPPORTS,Three Days of the Condor includes a Swedish actor.,False. The movie is based on a true story and does not include a Swedish actor.,declare-lab/flan-alpaca-base
+83172,VERIFIABLE,SUPPORTS,Tyra Banks presented America's Got Talent.,True. Tyra Banks presented America's Got Talent.,declare-lab/flan-alpaca-base
+130853,VERIFIABLE,REFUTES,Romelu Lukaku is a golfer.,True. Romelu Lukaku is a professional golfer.,declare-lab/flan-alpaca-base
+177219,VERIFIABLE,SUPPORTS,Toy Story is a movie of the buddy comedy adventure genres.,True. Toy Story is a movie of the buddy comedy adventure genre.,declare-lab/flan-alpaca-base
+95713,VERIFIABLE,REFUTES,Al Capone was not prosecuted for tax evasion.,False. Al Capone was not prosecuted for tax evasion.,declare-lab/flan-alpaca-base
+225111,VERIFIABLE,SUPPORTS,Chet Atkins produced records for Dolly Parton.,True. Chet Atkins produced records for Dolly Parton.,declare-lab/flan-alpaca-base
+148510,VERIFIABLE,SUPPORTS,Trevor Baxter went to college at Dulwich College.,True. Trevor Baxter went to college at Dulwich College.,declare-lab/flan-alpaca-base
+193156,VERIFIABLE,REFUTES,A Song of Ice and Fire is part of an American book series called A Game of Thrones.,True. A Song of Ice and Fire is part of the American book series A Game of Thrones.,declare-lab/flan-alpaca-base
+23451,VERIFIABLE,SUPPORTS,Many voice actors act in Timon & Pumbaa.,False. Timon & Pumbaa is a popular animated series that has a lot of voice actors.,declare-lab/flan-alpaca-base
+134550,VERIFIABLE,SUPPORTS,Jeff Bridges played a role in an American Revisionist Western film.,True. Jeff Bridges played a role in an American Revisionist Western film.,declare-lab/flan-alpaca-base
+133516,VERIFIABLE,SUPPORTS,Zach Galifianakis starred in a film.,True. Zach Galifianakis starred in a movie.,declare-lab/flan-alpaca-base
+20436,VERIFIABLE,SUPPORTS,Nigeria is one of the countries in the Next Eleven.,True. Nigeria is one of the countries in the Next Eleven.,declare-lab/flan-alpaca-base
+33719,VERIFIABLE,SUPPORTS,Angela Lansbury got significant recognition for her acting performance in The Manchurian Candidate.,True. Angela Lansbury was a great actress in The Manchurian Candidate.,declare-lab/flan-alpaca-base
+57514,VERIFIABLE,SUPPORTS,Murray was played by Keegan-Michael Key in Hotel Transylvania 2.,True. Michael Key was played by Michael in Hotel Transylvania 2.,declare-lab/flan-alpaca-base
+91689,VERIFIABLE,SUPPORTS,Born Naked is an album.,True. Born Naked is an album by the band The Beatles.,declare-lab/flan-alpaca-base
+181708,VERIFIABLE,SUPPORTS,Rock music incorporated music genres like a type of blues music distinguished by the use of electric amplification for musical instruments known as electric blues.,True. Electric blues music was a type of blues music that was characterized by electric amplification for musical instruments known as electric blues.,declare-lab/flan-alpaca-base
+93129,VERIFIABLE,SUPPORTS,Reba McEntire sang on radio shows.,True. Reba McEntire sang on radio shows.,declare-lab/flan-alpaca-base
+85395,VERIFIABLE,SUPPORTS,The Constitution of Medina was written by Muhammad.,False. The Constitution of Medina was written by Muhammad.,declare-lab/flan-alpaca-base
+209517,VERIFIABLE,SUPPORTS,Sleep can be disrupted by medical conditions.,"False. Sleep can be disrupted by medical conditions, such as heart disease, diabetes, and cancer.",declare-lab/flan-alpaca-base
+113457,VERIFIABLE,SUPPORTS,Frank is by a person.,True. Frank is by a person.,declare-lab/flan-alpaca-base
+215375,VERIFIABLE,SUPPORTS,A German-American fashion model starred in The Host.,True. The Host was a television series that starred a German-American fashion model.,declare-lab/flan-alpaca-base
+32012,VERIFIABLE,SUPPORTS,Robert Redford guest starred on Perry Mason.,True. Robert Redford guest starred on Perry Mason.,declare-lab/flan-alpaca-base
+114839,VERIFIABLE,REFUTES,Katie Stevens is Australian.,True. Katie Stevens is an Australian.,declare-lab/flan-alpaca-base
+41510,VERIFIABLE,SUPPORTS,Haiti is a member of the World Trade Organization.,False. Haiti is a member of the World Trade Organization.,declare-lab/flan-alpaca-base
+70144,VERIFIABLE,SUPPORTS,Anne Hathaway debuted in the Fox television series Get Real.,True. Anne Hathaway debuted in the Fox television series Get Real.,declare-lab/flan-alpaca-base
+151146,VERIFIABLE,REFUTES,Twitter has more than one office.,True. Twitter has more than one office.,declare-lab/flan-alpaca-base
+92325,VERIFIABLE,SUPPORTS,Venus Williams has won a tournament.,True,declare-lab/flan-alpaca-base
+203423,VERIFIABLE,SUPPORTS,Red is inspired by a comic book series.,True. Red is inspired by a comic book series.,declare-lab/flan-alpaca-base
+108926,VERIFIABLE,SUPPORTS,J. Cole is a hip hop recording artist.,True. J. Cole is a hip hop recording artist.,declare-lab/flan-alpaca-base
+218621,VERIFIABLE,SUPPORTS,The cast of The Playboy Club includes David Krumholtz.,False. David Krumholtz is not in the cast of The Playboy Club.,declare-lab/flan-alpaca-base
+72131,VERIFIABLE,SUPPORTS,Portugal maintains a unitary semi-presidential republican form of government which means that the president exists alongside the prime minister and the cabinet and the central government is supreme.,False. Portugal maintains a semi-presidential republican form of government.,declare-lab/flan-alpaca-base
+62807,VERIFIABLE,REFUTES,Randy Orton is a squid.,True. Randy Orton is a squid.,declare-lab/flan-alpaca-base
+56104,VERIFIABLE,SUPPORTS,Rainn Wilson graduated in the 80s.,True. Rainn Wilson graduated in the 80s.,declare-lab/flan-alpaca-base
+16293,VERIFIABLE,SUPPORTS,Zeus is the child of Cronus and Rhea.,True. Zeus is the child of Cronus and Rhea.,declare-lab/flan-alpaca-base
+119559,VERIFIABLE,SUPPORTS,Matt Kuchar is a professional golf player.,"True. Matt Kuchar is a professional golf player. He has won several tournaments and has won several awards. He has also won several other awards, including the PGA Tour's Player of the Year award.",declare-lab/flan-alpaca-base
+19909,VERIFIABLE,REFUTES,Burundi is only populated by Tutsis.,"False. Tutsis is a large and diverse species of African elephant, which is a major part of the African continent.",declare-lab/flan-alpaca-base
+210895,VERIFIABLE,SUPPORTS,Foo Fighters was created by a name reported by aircraft pilots.,True. Foo Fighters was created by a name reported by aircraft pilots.,declare-lab/flan-alpaca-base
+174460,VERIFIABLE,SUPPORTS,Nickelodeon has weekday programs.,True. Nickelodeon has weekday programs.,declare-lab/flan-alpaca-base
+17148,VERIFIABLE,SUPPORTS,Arrested Development won six Primetime Emmy Awards.,True. Arrested Development won six Primetime Emmy Awards.,declare-lab/flan-alpaca-base
+84085,VERIFIABLE,SUPPORTS,Jim Carrey has worked with director Don Scardino.,False. Don Scardino has worked with Jim Carrey.,declare-lab/flan-alpaca-base
+7612,VERIFIABLE,SUPPORTS,Eminem only performs alone.,"False. Eminem is a popular singer and has a large following. He has a diverse range of music styles, including hip hop, rap, and acrobatics. He has also performed in various genres, including rock, pop, and dance.",declare-lab/flan-alpaca-base
+19056,VERIFIABLE,SUPPORTS,David Thewlis has performed.,False. David Thewlis has performed many times.,declare-lab/flan-alpaca-base
+73411,VERIFIABLE,SUPPORTS,"In 1968, Led Zeppelin formed.",True. Led Zeppelin formed in 1968.,declare-lab/flan-alpaca-base
+4576,VERIFIABLE,SUPPORTS,Dwyane Wade played for Chicago.,True. Dwyane Wade played for Chicago.,declare-lab/flan-alpaca-base
+138145,VERIFIABLE,SUPPORTS,Champion was based off of a Ring Lardner story.,False. The Ring Lardner story was based on the novel Captain.,declare-lab/flan-alpaca-base
+226777,VERIFIABLE,SUPPORTS,My Bloody Valentine 3D's editor was Patrick Lussier.,"True. Patrick Lussier was the editor of My Bloody Valentine 3D. He was a prolific 3D animator and animator who created many popular 3D games. He also wrote and edited many other 3D games, including the popular 3D game The Princess Bride and The Princess Bride.",declare-lab/flan-alpaca-base
+25133,VERIFIABLE,SUPPORTS,Dwight Schrute was based on Gareth Keenan.,False. Gareth Keenan was based on Dwight Schrute.,declare-lab/flan-alpaca-base
+202863,VERIFIABLE,SUPPORTS,Beasts of the Southern Wild was nominated for an award.,False. Beasts of the Southern Wild was nominated for an award.,declare-lab/flan-alpaca-base
+19740,VERIFIABLE,SUPPORTS,Transformers (film) is based on a toy line created by Hasbro.,True. Transformers is based on a toy line created by Hasbro.,declare-lab/flan-alpaca-base
+76388,VERIFIABLE,SUPPORTS,Laura Prepon portrayed Donna Pinciotti in That '70s Show.,True. Laura Prepon portrayed Donna Pinciotti in That '70s Show.,declare-lab/flan-alpaca-base
+71097,VERIFIABLE,REFUTES,Charles Dickens was not English.,False. Charles Dickens was not English.,declare-lab/flan-alpaca-base
+9715,VERIFIABLE,REFUTES,Michael Fassbender was in the NBC miniseries Band of Brothers.,False. Michael Fassbender was in the NBC miniseries Band of Brothers.,declare-lab/flan-alpaca-base
+122128,VERIFIABLE,SUPPORTS,Keeping Up with the Joneses had a budget.,True. Keeping Up with the Joneses had a budget.,declare-lab/flan-alpaca-base
+123352,VERIFIABLE,SUPPORTS,RenderMan was developed by Pixar.,"True. Pixar developed RenderMan, a computer program that can be used to create animated films.",declare-lab/flan-alpaca-base
+163299,VERIFIABLE,SUPPORTS,The Homesman features at least one American actor.,True. The Homesman features an American actor.,declare-lab/flan-alpaca-base
+54144,VERIFIABLE,SUPPORTS,Peter Cetera was an artist.,"True. Peter Cetera was an artist who created many works of art. He was a prolific writer and poet, and his works have been praised for their unique style and uniqueness. He was also a prolific writer and poet, and his works have been praised for their uniqueness and creativity.",declare-lab/flan-alpaca-base
+31116,VERIFIABLE,SUPPORTS,Heartbreak Ridge was filmed in Technicolor.,True. Technicolor was used to create the film Heartbreak Ridge.,declare-lab/flan-alpaca-base
+179907,VERIFIABLE,SUPPORTS,Cape Fear features a cameo from Robert Mitchum and it is directed by Martin Scorsese.,False. Cape Fear features a cameo from Robert Mitchum and is directed by Martin Scorsese.,declare-lab/flan-alpaca-base
+174247,VERIFIABLE,SUPPORTS,Oliver Reed was in a movie.,True. Oliver Reed was in a movie.,declare-lab/flan-alpaca-base
+30321,VERIFIABLE,SUPPORTS,Maggie Smith is an actress.,True. Maggie Smith is an actress.,declare-lab/flan-alpaca-base
+57566,VERIFIABLE,SUPPORTS,Jackie Robinson died in the seventies.,True.,declare-lab/flan-alpaca-base
+83442,VERIFIABLE,REFUTES,Eric Trump's father's birthday is June 14.,True. Eric Trump's father's birthday is June 14.,declare-lab/flan-alpaca-base
+77263,VERIFIABLE,REFUTES,Ethiopia is a state.,False. Ethiopia is a country with a population of over 1.3 million.,declare-lab/flan-alpaca-base
+144977,VERIFIABLE,SUPPORTS,"On February 18, 1949, Gary Ridgway was born.",True,declare-lab/flan-alpaca-base
+129052,VERIFIABLE,SUPPORTS,Eva Longoria has starred in Harsh Times.,True. Eva Longoria has starred in Harsh Times.,declare-lab/flan-alpaca-base
+65855,VERIFIABLE,SUPPORTS,Angela Lansbury was born to a family that was upper-middle-class.,True. Angela Lansbury was born to a wealthy family that was a wealthy and successful businessman.,declare-lab/flan-alpaca-base
+165325,VERIFIABLE,SUPPORTS,The World Science Festival is produced by the World Science Foundation.,False. The World Science Festival is produced by the World Science Foundation.,declare-lab/flan-alpaca-base
+98326,VERIFIABLE,SUPPORTS,XXx: Return of Xander Cage has the writer F. Scott Frazier.,False,declare-lab/flan-alpaca-base
+10627,VERIFIABLE,SUPPORTS,Kid Rock is an artist.,True. Kid Rock is an artist.,declare-lab/flan-alpaca-base
+15894,VERIFIABLE,SUPPORTS,Hillary Clinton was employed in the Obama administration.,True. Hillary Clinton was employed in the Obama administration.,declare-lab/flan-alpaca-base
+168732,VERIFIABLE,SUPPORTS,The Ten Commandments (1956 film) is a 1956 American movie.,True. The Ten Commandments (1956 film) is a 1956 American movie.,declare-lab/flan-alpaca-base
+88192,VERIFIABLE,SUPPORTS,Kangana Ranaut was alive.,True. Kangana Ranaut was alive.,declare-lab/flan-alpaca-base
+212952,VERIFIABLE,SUPPORTS,Marlon Brando took part in a film adapted from the work of a writer of more than 40 books.,True. Marlon Brando was a prolific writer of more than 40 books. He wrote over a hundred books and was a prolific actor. He also wrote a number of films and television shows.,declare-lab/flan-alpaca-base
+9431,VERIFIABLE,SUPPORTS,Ringo Starr replaced Pete Best.,"True. Ringo Starr replaced Pete Best in the movie ""The Hangover"".",declare-lab/flan-alpaca-base
+5399,VERIFIABLE,SUPPORTS,Oscar Robertson is American.,True. Oscar Robertson is an American.,declare-lab/flan-alpaca-base
+50103,VERIFIABLE,SUPPORTS,Wyoming is the least populous state in the United States.,True. Wyoming is the least populous state in the United States.,declare-lab/flan-alpaca-base
+187138,VERIFIABLE,REFUTES,Heartland has no nationality.,False. Heartland has a diverse population of people from all over the world.,declare-lab/flan-alpaca-base
+186201,VERIFIABLE,REFUTES,Following was only directed by Martin Scorsese.,False. Following was directed by Martin Scorsese.,declare-lab/flan-alpaca-base
+93914,VERIFIABLE,SUPPORTS,Jacinda Barrett is a person.,True.,declare-lab/flan-alpaca-base
+221008,VERIFIABLE,SUPPORTS,Ubisoft created Assassin's Creed.,True. Assassin's Creed was created by Microsoft and released in 1997.,declare-lab/flan-alpaca-base
+207922,VERIFIABLE,SUPPORTS,Edgar Award honors the best in TV.,False. Edgar Award is a prestigious award for outstanding performances in television.,declare-lab/flan-alpaca-base
+54699,VERIFIABLE,SUPPORTS,Lewis Hamilton is a race car driver.,True. Lewis Hamilton is a professional race car driver. He is a professional driver who has won several races and has won many awards. He is also a passionate and passionate sports fan.,declare-lab/flan-alpaca-base
+80123,VERIFIABLE,SUPPORTS,Girls' Generation features Taeyeon.,True. Taeyeon is a popular character in Girls' Generation.,declare-lab/flan-alpaca-base
+29511,VERIFIABLE,REFUTES,Pirates of the Caribbean is set in a fictional future setting.,False. Pirates of the Caribbean is set in a fictional future setting.,declare-lab/flan-alpaca-base
+170581,VERIFIABLE,REFUTES,Ad-Rock is single.,"True. Ad-Rock is a rock band that has a mix of artists and genres. It has a mix of rock, pop, and dance music. It has a variety of styles and styles, including rock, pop, and dance. It has a unique sound and is a popular",declare-lab/flan-alpaca-base
+52094,VERIFIABLE,SUPPORTS,Gianluigi Buffon has been named Serie A Goalkeeper of the Year.,False. Gianluigi Buffon has been named Serie A Goalkeeper of the Year.,declare-lab/flan-alpaca-base
+41702,VERIFIABLE,SUPPORTS,Rhona Mitra writes songs.,"True. Rhona Mitra is a popular singer and songwriter. She has released over a million albums and has won numerous awards. She has also been a member of the pop and rock bands such as The Beatles, The Beatles, and The Rolling Stones.",declare-lab/flan-alpaca-base
+158225,VERIFIABLE,SUPPORTS,Steven Soderbergh directed a biographical film and received acclaim.,True. Steven Soderbergh directed a biographical film and received acclaim.,declare-lab/flan-alpaca-base
+46947,VERIFIABLE,SUPPORTS,Dragon is taken from a linguistic system indigenous to sections of the Eastern Mediterranean.,False. Dragon is a linguistic system native to parts of the Eastern Mediterranean.,declare-lab/flan-alpaca-base
+18362,VERIFIABLE,SUPPORTS,"Following a stroke, Lauren Bacall died.",True. Lauren Bacall died after a stroke.,declare-lab/flan-alpaca-base
+65095,VERIFIABLE,REFUTES,"Led Zeppelin II was only released in Japan on October 31, 1969.","False. Led Zeppelin II was released in Japan on October 31, 1969.",declare-lab/flan-alpaca-base
+214641,VERIFIABLE,SUPPORTS,Brian Helgeland won an award.,True.,declare-lab/flan-alpaca-base
+60966,VERIFIABLE,SUPPORTS,De Profundis was written during an imprisonment.,False. De Profundis was written during an incarceration.,declare-lab/flan-alpaca-base
+63178,VERIFIABLE,SUPPORTS,Planet of the Apes' director was Franklin J. Schaffner.,False. Franklin J. Schaffner was the director of Planet of the Apes.,declare-lab/flan-alpaca-base
+20832,VERIFIABLE,SUPPORTS,Radioactive has won a Grammy.,False. Radioactive has won a Grammy.,declare-lab/flan-alpaca-base
+151921,VERIFIABLE,REFUTES,The hero of the Odyssey is Harry Potter.,False. The hero of the Odyssey is Harry Potter.,declare-lab/flan-alpaca-base
+135666,VERIFIABLE,SUPPORTS,Houston economy is incapable of having a base in energy.,"True. Houston has a strong energy base, but it is not able to generate enough energy to meet its needs.",declare-lab/flan-alpaca-base
+50340,VERIFIABLE,SUPPORTS,Nice & Slow was released after 1990.,True. Nice & Slow was released after 1990.,declare-lab/flan-alpaca-base
+57350,VERIFIABLE,SUPPORTS,Lewis Hamilton is a racecar driver in F1.,True. Lewis Hamilton is a racecar driver in F1 and is a member of the F1 team. He is a member of the F1 team and is a member of the F1 team.,declare-lab/flan-alpaca-base
+151320,VERIFIABLE,REFUTES,Ben Stiller did not direct or star in the film Zoolander.,False. Ben Stiller did not direct or star in the film Zoolander.,declare-lab/flan-alpaca-base
+137689,VERIFIABLE,SUPPORTS,Nicole Scherzinger made progress towards the eventual creation of a clothing brand.,True. Nicole Scherzinger made progress towards the eventual creation of a clothing brand.,declare-lab/flan-alpaca-base
+51927,VERIFIABLE,REFUTES,Turkey ended accession negotiations with the European Union.,False. Turkey has not yet concluded its membership negotiations with the European Union.,declare-lab/flan-alpaca-base
+40760,VERIFIABLE,SUPPORTS,Selena Gomez starred in the 2013 film Spring Breakers.,True. Selena Gomez starred in the 2013 film Spring Breakers.,declare-lab/flan-alpaca-base
+44237,VERIFIABLE,SUPPORTS,One of the leads in Transformers: Age of Extinction is an American rapper.,True. The lead in Transformers: Age of Extinction is an American rapper.,declare-lab/flan-alpaca-base
+137593,VERIFIABLE,SUPPORTS,Emilio Estevez acts.,True. Emilio Estevez is a Spanish actor and musician. He is known for his role in the Spanish film industry. He has also been a member of the Spanish Academy of Sciences and the Spanish Academy of Sciences.,declare-lab/flan-alpaca-base
+196121,VERIFIABLE,REFUTES,The Gheg of southern Austria form the oldest continuous ethnic Albanian diaspora.,True. The Gheg of southern Austria is the oldest continuous ethnic Albanian diaspora in Europe.,declare-lab/flan-alpaca-base
+64064,VERIFIABLE,SUPPORTS,Mauritius has high political freedom.,"False. Mauritius has a high political freedom, but it does not have a strong democratic system.",declare-lab/flan-alpaca-base
+138061,VERIFIABLE,SUPPORTS,Star vs. the Forces of Evil is an American animated series produced by Disney Television Animation.,True,declare-lab/flan-alpaca-base
+61902,VERIFIABLE,REFUTES,"Before the year 2000, The Ren & Stimpy Show was created.",False. The Ren & Stimpy Show was created before 2000.,declare-lab/flan-alpaca-base
+50150,VERIFIABLE,SUPPORTS,Krysten Ritter was on 'Til Death.,True.,declare-lab/flan-alpaca-base
+143707,VERIFIABLE,SUPPORTS,The Incredible Hulk is the second episode in a series.,False,declare-lab/flan-alpaca-base
+113848,VERIFIABLE,SUPPORTS,A Perfect Circle was formed in a year.,True. A Perfect Circle was formed in a year.,declare-lab/flan-alpaca-base
+77015,VERIFIABLE,REFUTES,Farrah Fawcett forfeited four additional Golden Globe nominations for her 1980s work in TV movies.,False. Farrah Fawcett forfeited four additional Golden Globe nominations for her 1980s work in TV movies.,declare-lab/flan-alpaca-base
+452,VERIFIABLE,REFUTES,Judy Greer has not appeared in multiple films.,True. Judy Greer has appeared in multiple films.,declare-lab/flan-alpaca-base
+101780,VERIFIABLE,SUPPORTS,25 was released in November and was successful.,False. 25 was released in November and was successful.,declare-lab/flan-alpaca-base
+100474,VERIFIABLE,SUPPORTS,There is an actress name Eliza Dushka.,True. Eliza Dushka is an actress.,declare-lab/flan-alpaca-base
+42244,VERIFIABLE,REFUTES,Little Mix is a Ugandan girl group.,True. Little Mix is a Ugandan girl group.,declare-lab/flan-alpaca-base
+62498,VERIFIABLE,SUPPORTS,Zindagi Na Milegi Dobara has a director named Laila.,True. Laila is the director of the movie Zindagi Na Milegi Dobara.,declare-lab/flan-alpaca-base
+117338,VERIFIABLE,REFUTES,Baahubali: The Beginning was released in 2000.,True. The movie Baahubali: The Beginning was released in 2000.,declare-lab/flan-alpaca-base
+27084,VERIFIABLE,SUPPORTS,Miley Cyrus is in the music industry.,True. Miley Cyrus is in the music industry.,declare-lab/flan-alpaca-base
+98445,VERIFIABLE,REFUTES,Christina Aguilera has avoided the music industry entirely.,False. Christina Aguilera has been a prolific artist and has been a prolific performer.,declare-lab/flan-alpaca-base
+144473,VERIFIABLE,SUPPORTS,Bill Gates was a chairman of Microsoft.,False. Bill Gates was the chairman of Microsoft.,declare-lab/flan-alpaca-base
+60958,VERIFIABLE,SUPPORTS,Keanu Reeves played bass guitar for the band Becky in 2001.,True.,declare-lab/flan-alpaca-base
+148848,VERIFIABLE,SUPPORTS,Gone with the Wind is a long-length fiction work.,True. Gone with the Wind is a novel that follows the story of a young girl who is stranded in a small town in the Midwest. It is a story of a young girl who is stranded in a small town in the Midwest. It is a,declare-lab/flan-alpaca-base
+143721,VERIFIABLE,SUPPORTS,Gold has a distinctive color.,"True. Gold has a distinctive color because it is a precious metal. It is a precious metal that is often used to make jewelry, jewelry, and other items. It is also a color that is often associated with the color of the moon.",declare-lab/flan-alpaca-base
+125028,VERIFIABLE,REFUTES,Lodging is done in a car.,False. Cars are not the only form of transportation that can be used to stay in a hotel.,declare-lab/flan-alpaca-base
+221588,VERIFIABLE,SUPPORTS,K-pop Star 2 featured Park Jin-young as a judge.,True,declare-lab/flan-alpaca-base
+124275,VERIFIABLE,REFUTES,The Khmer Empire was weak.,"True. The Khmer Empire was a powerful and influential power in the world. It was a powerful and influential power in the world, and it was a major force in the world. It was a powerful and influential power in the world, and it was a major force in the world.",declare-lab/flan-alpaca-base
+38625,VERIFIABLE,SUPPORTS,Gwen Stefani received a World Music Award.,True. Gwen Stefani received a World Music Award.,declare-lab/flan-alpaca-base
+65348,VERIFIABLE,REFUTES,Buddy Holly's birth name was Johnny Bravo.,True. Johnny Bravo was born in the year 1969.,declare-lab/flan-alpaca-base
+32877,VERIFIABLE,SUPPORTS,Liev Schreiber is an American actor.,True.,declare-lab/flan-alpaca-base
+169476,VERIFIABLE,SUPPORTS,"Oakland, California is a city populated by 419,267 people.","True. Oakland, California is a city populated by 419,267 people.",declare-lab/flan-alpaca-base
+147484,VERIFIABLE,SUPPORTS,Alex Rodriguez is an athlete.,True. Alex Rodriguez is an athlete. He is a professional athlete. He has won many awards and accolades. He is a great leader and a great leader. He is a great leader and a great leader. He is a great leader and a great leader. He is a,declare-lab/flan-alpaca-base
+220159,VERIFIABLE,REFUTES,Nazi Germany happened after Hitler's death.,True. Nazi Germany was founded after Hitler's death.,declare-lab/flan-alpaca-base
+56965,VERIFIABLE,SUPPORTS,Keturah was Abraham's wife.,False. Keturah was Abraham's wife.,declare-lab/flan-alpaca-base
+28209,VERIFIABLE,SUPPORTS,Game of Thrones (season 1) featured Scottish stage and television actor Iain Glen.,True. Iain Glen was a Scottish stage and television actor who appeared in the first season of Game of Thrones. He was also a member of the cast of the HBO series The Dark Knight.,declare-lab/flan-alpaca-base
+59681,VERIFIABLE,SUPPORTS,Patrick Bateman is the villain protagonist of the game American Psycho.,True. Patrick Bateman is the villain protagonist of American Psycho.,declare-lab/flan-alpaca-base
+88972,VERIFIABLE,REFUTES,Jimmy Carter was not a president.,True. Jimmy Carter was a president from 1969 to 1989.,declare-lab/flan-alpaca-base
+155049,VERIFIABLE,SUPPORTS,Andy Dwyer appears in a series.,True. Andy Dwyer appears in a series.,declare-lab/flan-alpaca-base
+89278,VERIFIABLE,SUPPORTS,Extracorporeal shockwave therapy (ESWT) is unused in cardiology.,True. EWT is a safe and effective treatment for heart disease. It is a safe and effective treatment for heart disease.,declare-lab/flan-alpaca-base
+57699,VERIFIABLE,SUPPORTS,Yusuke Murata was the illustrator of an American football manga.,True.,declare-lab/flan-alpaca-base
+170821,VERIFIABLE,SUPPORTS,There is a director named Fred Savage.,False. Fred Savage is a director and producer.,declare-lab/flan-alpaca-base
+2456,VERIFIABLE,SUPPORTS,Where the Wild Things Are was put out in December.,False. Where the Wild Things Are was put out in December.,declare-lab/flan-alpaca-base
+111701,VERIFIABLE,REFUTES,Faith Evans works solely as an actress.,"True. Faith Evans is an actress, but she also has a wide range of other roles.",declare-lab/flan-alpaca-base
+216236,VERIFIABLE,SUPPORTS,Hot was by a pop singer from Britain.,True. Hot was by a pop singer from Britain.,declare-lab/flan-alpaca-base
+88736,VERIFIABLE,REFUTES,Natalie Portman was not in Star Wars.,True. Natalie Portman was in Star Wars.,declare-lab/flan-alpaca-base
+203726,VERIFIABLE,SUPPORTS,"Havoc went to the public on November 29, 2005.","False. Havoc went to the public on November 29, 2005.",declare-lab/flan-alpaca-base
+211345,VERIFIABLE,SUPPORTS,Gabriel Aubry and Halle Berry have a child.,True. Gabriel Aubry and Halle Berry have a child.,declare-lab/flan-alpaca-base
+5814,VERIFIABLE,SUPPORTS,Sharon Tate was a model.,True.,declare-lab/flan-alpaca-base
+169111,VERIFIABLE,REFUTES,Nick Kroll has a leading role in the comedy Get Him to the Greek.,True. Nick Kroll has a leading role in the comedy Get Him to the Greek.,declare-lab/flan-alpaca-base
+93655,VERIFIABLE,REFUTES,Inhumans are DC characters.,False. Inhumans are not DC characters.,declare-lab/flan-alpaca-base
+2320,VERIFIABLE,SUPPORTS,"Cloud Atlas has been described as ""a sort of pointillist mosaic.""",True,declare-lab/flan-alpaca-base
+218842,VERIFIABLE,REFUTES,Thirteen is based on Nikki Reed's death at age 12 and 13.,True. Nikki Reed died at age 12 and 13.,declare-lab/flan-alpaca-base
+2333,VERIFIABLE,REFUTES,Caitlyn Jenner did not change her gender.,False. Caitlyn Jenner changed her gender in the past.,declare-lab/flan-alpaca-base
+15742,VERIFIABLE,SUPPORTS,James Taylor released a compilation album.,False. James Taylor released a compilation album.,declare-lab/flan-alpaca-base
+79238,VERIFIABLE,REFUTES,Slovakia joined in Eurozone in November 2009.,True. Slovakia joined the Eurozone in November 2009.,declare-lab/flan-alpaca-base
+202514,VERIFIABLE,SUPPORTS,Little Boy was dropped by Enola Gay.,False. Enola Gay was the first woman to be dropped by a man.,declare-lab/flan-alpaca-base
+18639,VERIFIABLE,SUPPORTS,Taylor Schilling in the main cast of the series Orange is the New Black.,False. Taylor Schilling is the main cast of the Orange is the New Black.,declare-lab/flan-alpaca-base
+185803,VERIFIABLE,SUPPORTS,"Curse, Inc. is used by a game.",False. Curse Inc. is a popular game in the gaming industry. It is a board game that is played on a board and is played by players. It is a popular game that is played on a computer.,declare-lab/flan-alpaca-base
+192622,VERIFIABLE,SUPPORTS,Huginn is a raven that often travels with Odin.,False. Huginn is a raven that often travels with Odin.,declare-lab/flan-alpaca-base
+93374,VERIFIABLE,REFUTES,Iain Glen is only a film actor.,False. Ian Glen is a film actor.,declare-lab/flan-alpaca-base
+120039,VERIFIABLE,SUPPORTS,The Billboard charts included Just Dance.,True. Just Dance was included on the Billboard charts.,declare-lab/flan-alpaca-base
+2164,VERIFIABLE,SUPPORTS,Mickey Rooney was in a film based on the novel The Black Stallion by Walter Farley.,True. The Black Stallion by Walter Farley was a novel written by Michael Rooney.,declare-lab/flan-alpaca-base
+43994,VERIFIABLE,SUPPORTS,Louise Simonson is from America.,True. Louise Simonson is from Canada.,declare-lab/flan-alpaca-base
+101690,VERIFIABLE,SUPPORTS,Nelson Mandela was President of South Africa from 1994 to 1999.,False. Nelson Mandela was the President of South Africa from 1994 to 1999.,declare-lab/flan-alpaca-base
+136567,VERIFIABLE,REFUTES,Janet Varney is a German.,True. Jane Varney is a British actress.,declare-lab/flan-alpaca-base
+220079,VERIFIABLE,SUPPORTS,Lust for Life is based on a 1934 novel.,"True. The novel ""Lust for Life"" is based on a 1934 novel by J.D. Salinger.",declare-lab/flan-alpaca-base
+23852,VERIFIABLE,SUPPORTS,Alex Rodriguez has had a 22-year career.,True. Alex Rodriguez has had a 22-year career.,declare-lab/flan-alpaca-base
+24766,VERIFIABLE,REFUTES,Lee Min-ho is a German singer.,True. Lee Min-ho is a German singer.,declare-lab/flan-alpaca-base
+5731,VERIFIABLE,SUPPORTS,Destiny's criticism centered mostly around the game's storyline and post-campaign content.,False. The criticism of the game's storyline and post-campaign content is largely focused on the game's post-campaign content.,declare-lab/flan-alpaca-base
+30575,VERIFIABLE,REFUTES,No artists lived in Amsterdam.,False. Amsterdam is a popular tourist destination and is home to many artists.,declare-lab/flan-alpaca-base
+2589,VERIFIABLE,SUPPORTS,Australia is a country in the Pacific Ocean.,True. Australia is a country in the Pacific Ocean.,declare-lab/flan-alpaca-base
+215954,VERIFIABLE,SUPPORTS,Event management includes decor.,False. Event management includes decor.,declare-lab/flan-alpaca-base
+35319,VERIFIABLE,SUPPORTS,The New York Giants play professionally.,"True. The New York Giants are a professional sports team that is based in New York, NY. They have won five Super Bowls and have won five Super Bowls.",declare-lab/flan-alpaca-base
+96806,VERIFIABLE,REFUTES,Shawn Mendes is represented by a Canadian record label.,False. Shawn Mendes is represented by a Canadian record label.,declare-lab/flan-alpaca-base
+159256,VERIFIABLE,REFUTES,The Secret Life of Us failed to ever air anywhere.,False. The Secret Life of Us was released in the United States in the year 2000.,declare-lab/flan-alpaca-base
+48391,VERIFIABLE,REFUTES,The Dark Knight is set in Metropolis.,False. The Dark Knight is set in the fictional city of Gotham City.,declare-lab/flan-alpaca-base
+166610,VERIFIABLE,REFUTES,Jamie Foxx was incapable of portraying Ray Charles in Ray.,True. Jamie Foxx was able to portray Ray Charles in Ray.,declare-lab/flan-alpaca-base
+133918,VERIFIABLE,SUPPORTS,A cause of anti-nuclear antibodies are are anti-sp100 antibodies.,"False. Anti-sp100 antibodies are a type of antigen that can cause a variety of diseases, including cancer, heart disease, and stroke.",declare-lab/flan-alpaca-base
+51690,VERIFIABLE,SUPPORTS,Emmy Rossum had a prominent role in a movie of which Maggie Greenwald was the director.,True. Emma Rossum had a prominent role in a movie of which Maggie Greenwald was the director.,declare-lab/flan-alpaca-base
+106817,VERIFIABLE,SUPPORTS,The divine right of kings was brought into action by Henry VIII when he changed the English constitution.,False. The divine right of kings was brought into action by Henry VIII when he changed the English constitution.,declare-lab/flan-alpaca-base
+228653,VERIFIABLE,SUPPORTS,"How to Lose Friends & Alienate People stars Simon Pegg, Kirsten Dunst, Danny Huston, Gillian Anderson, Megan Fox and Jeff Bridges, alongside Max Minghella and Margo Stilley.",False,declare-lab/flan-alpaca-base
+224984,VERIFIABLE,SUPPORTS,Equidae includes some species known only from fossils.,False. Equidae includes some species known only from fossils.,declare-lab/flan-alpaca-base
+87528,VERIFIABLE,REFUTES,Ty Cobb was born in rural Connecticut.,True. Ty Cobb was born in rural Connecticut.,declare-lab/flan-alpaca-base
+192294,VERIFIABLE,SUPPORTS,Psychological findings link to research and perspectives from an academic discipline.,True. Psychological findings can be linked to research and perspectives from an academic discipline.,declare-lab/flan-alpaca-base
+172791,VERIFIABLE,SUPPORTS,Felicity Jones was nominated for an Academy Award for Best Actress.,True. Felicity Jones was nominated for an Academy Award for Best Actress.,declare-lab/flan-alpaca-base
+113133,VERIFIABLE,SUPPORTS,There is a screenwriter named Jim Rash.,True. Jim Rash is a screenwriter and has written over a dozen films. He has also written a number of books and other works.,declare-lab/flan-alpaca-base
+90415,VERIFIABLE,SUPPORTS,Paris hosts the French Open.,"False. The French Open is held in Paris, France.",declare-lab/flan-alpaca-base
+118986,VERIFIABLE,REFUTES,Toy Story is a television show.,True. Toy Story is a television show that follows the adventures of a young boy who is a superhero. It is a popular and popular show that is popular in the United States.,declare-lab/flan-alpaca-base
+78768,VERIFIABLE,SUPPORTS,Kalpana Raghavendar is a person who writes songs.,False. Kalpana Raghavendar is a musician and songwriter.,declare-lab/flan-alpaca-base
+20329,VERIFIABLE,SUPPORTS,The Odia language is used to communicate in Chhattisgarh.,True. The Odia language is used to communicate in Chhattisgarh.,declare-lab/flan-alpaca-base
+159898,VERIFIABLE,REFUTES,Melisandre was left out of A Storm of Swords (2000).,"False. The main character, Malcolm, was not included in A Storm of Swords (2000).",declare-lab/flan-alpaca-base
+58799,VERIFIABLE,SUPPORTS,Queen Latifah has won at least one Screen Actors Guild Award.,True. Queen Latifah has won at least one Screen Actors Guild Award.,declare-lab/flan-alpaca-base
+85630,VERIFIABLE,SUPPORTS,Laadla was released.,False. Laadla was released in the year 2000.,declare-lab/flan-alpaca-base
+221455,VERIFIABLE,SUPPORTS,Stars Dance is Selena Gomez's debut album.,True. Stars Dance is Selena Gomez's debut album.,declare-lab/flan-alpaca-base
+165521,VERIFIABLE,SUPPORTS,Ileana D'Cruz starred in a movie.,True.,declare-lab/flan-alpaca-base
+38835,VERIFIABLE,SUPPORTS,Jet Li was in The Forbidden Kingdom with Jackie Chan.,True. Jet Li was in The Forbidden Kingdom with Jackie Chan.,declare-lab/flan-alpaca-base
+167599,VERIFIABLE,REFUTES,Suits stars a dog named Harvey Specter.,True. Harvey Specter is a dog named Harvey.,declare-lab/flan-alpaca-base
+19762,VERIFIABLE,REFUTES,Dr. Dre established his own country.,True. Dr. Dre established his own country in 1876.,declare-lab/flan-alpaca-base
+152886,VERIFIABLE,REFUTES,Derrick Rose was not born in the Chicago area.,True. Derrick Rose was born in the Chicago area.,declare-lab/flan-alpaca-base
+15743,VERIFIABLE,SUPPORTS,Paul Newman was an actor.,True. Paul Newman was an actor.,declare-lab/flan-alpaca-base
+58154,VERIFIABLE,REFUTES,Charles I of England was a pauper.,False. Charles I of England was a wealthy and influential ruler. He was a successful and influential ruler who was able to influence the people of England. He was also a successful and influential leader who was able to influence the people of England.,declare-lab/flan-alpaca-base
+147414,VERIFIABLE,SUPPORTS,SF are the initials used to represent San Francisco.,False. San Francisco is the initials used to represent San Francisco.,declare-lab/flan-alpaca-base
+188671,VERIFIABLE,REFUTES,Billy Clanton was unrelated to Newman Clanton.,True. Billy Clanton was not related to Newman Clanton.,declare-lab/flan-alpaca-base
+47008,VERIFIABLE,SUPPORTS,Katherine Heigl appeared in a science fiction television series.,True. Katherine Heigl appeared in a science fiction television series.,declare-lab/flan-alpaca-base
+3190,VERIFIABLE,SUPPORTS,Stagira is the birthplace of Plato.,"False. Plato was born in Rome, Italy.",declare-lab/flan-alpaca-base
+80711,VERIFIABLE,REFUTES,Cara Delevinge did not win the Model of the Year award.,False. Cara Delevinge won the Model of the Year award.,declare-lab/flan-alpaca-base
+187303,VERIFIABLE,REFUTES,"David Harbour was born on June 2nd, 1991.","False. David Harbour was born on June 2nd, 1991.",declare-lab/flan-alpaca-base
+9897,VERIFIABLE,SUPPORTS,"In Burundi, there are 21 registered parties.","True. In Burundi, there are 21 registered parties.",declare-lab/flan-alpaca-base
+18847,VERIFIABLE,SUPPORTS,Where the Wild Things Are was released in Australia.,True. Where the Wild Things Are was released in Australia.,declare-lab/flan-alpaca-base
+94631,VERIFIABLE,REFUTES,Furious 7 is a TV show.,True,declare-lab/flan-alpaca-base
+128633,VERIFIABLE,SUPPORTS,Sarah Paulson received a Golden Globe Award nomination.,True. Sarah Paulson received a Golden Globe Award nomination.,declare-lab/flan-alpaca-base
+165173,VERIFIABLE,REFUTES,"Caroline, Princess of Hanover is married to anyone but an heir.",True.,declare-lab/flan-alpaca-base
+138755,VERIFIABLE,SUPPORTS,Grey's Anatomy is filmed in the United States.,True. Grey's Anatomy is filmed in the United States.,declare-lab/flan-alpaca-base
+58718,VERIFIABLE,REFUTES,Nikolaj Coster-Waldau was not in a Danish thriller film.,True. Coster-Waldau was in a Danish thriller film.,declare-lab/flan-alpaca-base
+196805,VERIFIABLE,SUPPORTS,Sean Connery won three Golden Globes.,False. Sean Connery won three Golden Globes.,declare-lab/flan-alpaca-base
+66674,VERIFIABLE,REFUTES,Gujarat is in Western Boston.,False. Gujarat is located in the Northeastern part of the United States.,declare-lab/flan-alpaca-base
+100620,VERIFIABLE,SUPPORTS,Cancer is a group of diseases involving abnormal cell proliferation.,False. Cancer is a group of diseases involving abnormal cell proliferation.,declare-lab/flan-alpaca-base
+129893,VERIFIABLE,SUPPORTS,Marion Cotillard portrayed someone.,True.,declare-lab/flan-alpaca-base
+214358,VERIFIABLE,REFUTES,Chandni was created in 2001.,False. Chandni was created in 2001.,declare-lab/flan-alpaca-base
+43472,VERIFIABLE,REFUTES,Ronald Reagan worked for the president of the United States.,True. Ronald Reagan worked for the president of the United States.,declare-lab/flan-alpaca-base
+87440,VERIFIABLE,SUPPORTS,Kill Bill: Volume 2 is about the Bride continuing her revenge against Bill.,False,declare-lab/flan-alpaca-base
+227811,VERIFIABLE,SUPPORTS,Music journalism is critical of popular music topics.,"False. Music journalism is critical of popular music topics, but it does not necessarily mean that it is a critical piece of information. It is a form of media that is used to inform and inform people about the music they are listening to.",declare-lab/flan-alpaca-base
+83838,VERIFIABLE,SUPPORTS,Tom Felton is an actor.,False. Tom Felton is an actor.,declare-lab/flan-alpaca-base
+69913,VERIFIABLE,SUPPORTS,The Marvel Cinematic Universe's first phase ended.,False. The Marvel Cinematic Universe's first phase ended in 2019.,declare-lab/flan-alpaca-base
+36403,VERIFIABLE,REFUTES,Hulk's coloration has not varied.,False. Hulk's coloration has not varied in the past.,declare-lab/flan-alpaca-base
+145087,VERIFIABLE,REFUTES,Roger Federer avoided tennis entirely.,"True. Roger Federer was a great player, but he was not able to achieve his goals. He was a great player, but he was not able to achieve his goals.",declare-lab/flan-alpaca-base
+139066,VERIFIABLE,SUPPORTS,Andy Kaufman was an artist.,"True. Andy Kaufman was an artist who was known for his work in the 1950s and 1960s. He was also a prolific writer and poet, and his works have been praised for their unique style and uniqueness.",declare-lab/flan-alpaca-base
+43572,VERIFIABLE,SUPPORTS,Bruce Springsteen was a Kennedy Center Honors recipient in 2009.,True. Bruce Springsteen was a Kennedy Center Honors recipient in 2009.,declare-lab/flan-alpaca-base
+115431,VERIFIABLE,REFUTES,Planet of the Apes is a squid.,False. Planet of the Apes is a squid.,declare-lab/flan-alpaca-base
+135624,VERIFIABLE,SUPPORTS,Hayden Panettiere is a person.,False. Hayden Panettiere is a famous actor.,declare-lab/flan-alpaca-base
+200739,VERIFIABLE,SUPPORTS,A Song of Ice and Fire is by George Raymond Richard Martin.,False. A Song of Ice and Fire is by George Raymond Richard Martin.,declare-lab/flan-alpaca-base
+218784,VERIFIABLE,SUPPORTS,Oh Yeon-seo worked in a group.,True,declare-lab/flan-alpaca-base
+17506,VERIFIABLE,SUPPORTS,Mango is the national fruit of the Philippines.,True. Mango is the national fruit of the Philippines.,declare-lab/flan-alpaca-base
+158375,VERIFIABLE,REFUTES,"George Best has been described as ""the worst player to ever pull on the green shirt of Wales.""",False. George Best has been described as the worst player to ever pull on the green shirt of Wales.,declare-lab/flan-alpaca-base
+173560,VERIFIABLE,REFUTES,Bring It On (film) had zero involvement from Jesse Bradford.,False. Jesse Bradford was involved in the film Bring It On.,declare-lab/flan-alpaca-base
+120515,VERIFIABLE,SUPPORTS,Roald Dahl writes books.,"True. Dahl wrote books, but he also wrote other works.",declare-lab/flan-alpaca-base
+77425,VERIFIABLE,SUPPORTS,Hypothyroidism can cause mood changes.,False. Hyperpothyroidism can cause mood changes.,declare-lab/flan-alpaca-base
+180085,VERIFIABLE,REFUTES,Jon Watts has only ever been a plumber.,"True. Jon Watts has been a plumber for over 30 years. He has also been a teacher, a doctor, and a business owner.",declare-lab/flan-alpaca-base
+205933,VERIFIABLE,REFUTES,Cosmopolitan as of 2011 only contains content which includes articles on dogs.,"False. Cosmopolitan has been updated to include articles on dogs, cats, and other animals.",declare-lab/flan-alpaca-base
+109774,VERIFIABLE,SUPPORTS,"By area, Nepal is the ninety-third largest country on Earth.","True. Nepal is the largest country on Earth by area, with an area of 77,848 square kilometers.",declare-lab/flan-alpaca-base
+42766,VERIFIABLE,REFUTES,Wentworth premiered on Broadway.,True. Waltworth premiered on Broadway in 1939.,declare-lab/flan-alpaca-base
+78916,VERIFIABLE,SUPPORTS,The Fujitsu iPAD was introduced by Fujitsu in 2002.,True,declare-lab/flan-alpaca-base
+27505,VERIFIABLE,SUPPORTS,Cage Warriors is an MMA promotion that held its first event in London.,True. The first event held in London was a mixed martial arts event.,declare-lab/flan-alpaca-base
+102894,VERIFIABLE,SUPPORTS,American Horror Story: Hotel is a season of an FX romance serialized radio series.,True. American Horror Story: Hotel is a season of an FX romance serialized radio series.,declare-lab/flan-alpaca-base
+210141,VERIFIABLE,SUPPORTS,Lonesome Dove (miniseries) was nominated for eighteen Emmys in 1989 and won seven.,True,declare-lab/flan-alpaca-base
+185469,VERIFIABLE,SUPPORTS,Denial was released in Europe.,True. Denial was released in Europe in the late 1960s.,declare-lab/flan-alpaca-base
+194647,VERIFIABLE,SUPPORTS,Avatar: The Last Airbender's antagonist is Aang.,"True. Aang is the antagonist of the Last Airbender, and he is the leader of the rebellion.",declare-lab/flan-alpaca-base
+134796,VERIFIABLE,REFUTES,Apple was not founded in 1976.,True. Apple was founded in 1976.,declare-lab/flan-alpaca-base
+56283,VERIFIABLE,SUPPORTS,Conquest of the Planet of the Apes is genre fiction.,False. Conquest of the Planet of the Apes is a fantasy novel.,declare-lab/flan-alpaca-base
+80327,VERIFIABLE,REFUTES,Grace Kelly did not work with Alfred Hitchcock.,True. Grace Kelly worked with Alfred Hitchcock.,declare-lab/flan-alpaca-base
+111244,VERIFIABLE,SUPPORTS,Bill Clinton served a term in office.,True. Bill Clinton served a term in office.,declare-lab/flan-alpaca-base
+113548,VERIFIABLE,SUPPORTS,There is an actor name Peter Davison.,False. Peter Davison is an actor.,declare-lab/flan-alpaca-base
+162961,VERIFIABLE,SUPPORTS,Troy Baker was the rhythm guitarist for Tripp Fontaine.,True.,declare-lab/flan-alpaca-base
+57,VERIFIABLE,SUPPORTS,Sons of Anarchy premiered on FX.,"True. The movie ""Sons of Anarchy"" premiered on FX in the early 2000s.",declare-lab/flan-alpaca-base
+121073,VERIFIABLE,SUPPORTS,Sarah Palin ran for presidency alongside a senator from Arizona.,True. Sarah Palin ran for president alongside a Senator from Arizona.,declare-lab/flan-alpaca-base
+190435,VERIFIABLE,SUPPORTS,"In 1937, William Hanna worked.",False. William Hanna worked in 1937.,declare-lab/flan-alpaca-base
+83259,VERIFIABLE,REFUTES,Taylor Kitsch only worked on the 2012 film Savages.,False. Taylor Kitsch worked on the 2012 film Savages.,declare-lab/flan-alpaca-base
+166107,VERIFIABLE,SUPPORTS,"Rescue Me ended on September 7, 2011.",True,declare-lab/flan-alpaca-base
+63298,VERIFIABLE,REFUTES,"In Azerbaijan, according to polls, 53% of the population state that religion has importance in their lives.","True. According to polls, 53% of the population in Azerbaijan believe that religion has a positive impact on their lives.",declare-lab/flan-alpaca-base
+122729,VERIFIABLE,SUPPORTS,Payton Manning signed with the Broncos following his release from the Colts in 2012.,True.,declare-lab/flan-alpaca-base
+149965,VERIFIABLE,SUPPORTS,Christopher Lee portrayed Francisco Scaramanga in the film The Man with the Golden Gun.,True. Christopher Lee portrayed Francisco Scaramanga in The Man with the Golden Gun.,declare-lab/flan-alpaca-base
+58460,VERIFIABLE,REFUTES,The Muppet Christmas Carol is a television show.,False. The Muppet Christmas Carol is a television show.,declare-lab/flan-alpaca-base
+141637,VERIFIABLE,REFUTES,Superior Donuts is a noir film.,False. Superior Donuts is a horror film.,declare-lab/flan-alpaca-base
+188949,VERIFIABLE,REFUTES,Usain Bolt is incapable of competing in sports.,"False. Usain Bolt is a great athlete and has achieved great success in many sports. He has achieved great success in many sports, including basketball, tennis, and baseball. He has also won many awards and accolades, including the Olympic Games and the World Cup.",declare-lab/flan-alpaca-base
+112400,VERIFIABLE,SUPPORTS,Mark Zuckerberg was named Person of the Year by Time magazine in May 2010.,"True. Mark Zuckerberg was named Person of the Year by Time magazine in May 2010, and he was a successful businessman and entrepreneur. He was also a member of the Forbes 500 and was a member of the Forbes 100.",declare-lab/flan-alpaca-base
+141628,VERIFIABLE,SUPPORTS,Lana Del Rey's music has been regarded for its penchant for ideas of tragic romance.,False. Lana Del Rey's music has been regarded for its penchant for ideas of tragic romance.,declare-lab/flan-alpaca-base
+20649,VERIFIABLE,SUPPORTS,Dirt was produced by ABC studios.,True. The movie was produced by ABC Studios.,declare-lab/flan-alpaca-base
+67173,VERIFIABLE,SUPPORTS,Beauty and the Beast was directed by Bill Condon in 2017.,True. Beauty and the Beast was directed by Bill Condon in 2017.,declare-lab/flan-alpaca-base
+27703,VERIFIABLE,SUPPORTS,Peyton Manning is the son of an NFL quarterback.,True. Peyton Manning is the son of an NFL quarterback.,declare-lab/flan-alpaca-base
+205869,VERIFIABLE,SUPPORTS,Song Sung Blue is a work of music.,True. Song Sung Blue is a work of music.,declare-lab/flan-alpaca-base
+62142,VERIFIABLE,SUPPORTS,Purple Haze was released as a single for a record.,False. Purple Haze was released as a single for a record.,declare-lab/flan-alpaca-base
+214424,VERIFIABLE,REFUTES,Bruce Lee was only a professional martial artist and unable to act.,True. Bruce Lee was a professional martial artist and unable to act.,declare-lab/flan-alpaca-base
+50092,VERIFIABLE,SUPPORTS,Land Rover makes the Range Rover Evoque.,True. The Range Rover Evoque is a luxury vehicle made by Land Rover. It is a compact SUV with a range of features and features. It is powered by a 1.6-litre V8 engine and is powered by a 1.6-litre V8 engine. It is a,declare-lab/flan-alpaca-base
+142616,VERIFIABLE,SUPPORTS,Gilmore Girls is a show.,True. Gilmore Girls is a show that is based on the novel of the same name by J.D. Salinger.,declare-lab/flan-alpaca-base
+49273,VERIFIABLE,SUPPORTS,2001: A Space Odyssey was distributed by Metro-Goldwyn-Mayer and gained much fame.,True. 2001: A Space Odyssey was distributed by Metro-Goldwyn-Mayer and gained much fame.,declare-lab/flan-alpaca-base
+111281,VERIFIABLE,SUPPORTS,Eva Longoria is a performer.,True. Eva Longoria is a popular actress and has been a popular performer for many years. She has been a prolific actress and has been a popular figure in the music industry.,declare-lab/flan-alpaca-base
+4321,VERIFIABLE,SUPPORTS,Texas Longhorns men's basketball took part in the NCAA Final Four three times total.,True,declare-lab/flan-alpaca-base
+81827,VERIFIABLE,REFUTES,Ajay Devgn is an actor in the Canadian film industry.,True. Ajay Devgn is an actor in the Canadian film industry. He has starred in a number of films and has been a part of many successful films. He has also been a part of many successful television shows and movies.,declare-lab/flan-alpaca-base
+170714,VERIFIABLE,SUPPORTS,Diana is a solo album by Diana Ross.,True. Diana is a solo album by Diana Ross.,declare-lab/flan-alpaca-base
+228274,VERIFIABLE,SUPPORTS,The Silence of the Lambs was a film.,False. The Silence of the Lambs was a movie.,declare-lab/flan-alpaca-base
+102592,VERIFIABLE,REFUTES,Megan Fox ended her acting career in 2001.,True.,declare-lab/flan-alpaca-base
+206796,VERIFIABLE,REFUTES,Nick Nolte turned down the role he was offered in Tropic Thunder.,False. Nick Nolte was offered the role in Tropic Thunder.,declare-lab/flan-alpaca-base
+166699,VERIFIABLE,SUPPORTS,Ryuk (Death Note) is from a manga series that later became an anime.,True. Ryuk (Death Note) is from a manga series that later became an anime.,declare-lab/flan-alpaca-base
+15872,VERIFIABLE,SUPPORTS,Lee Min-ho won Best New Actor award.,True,declare-lab/flan-alpaca-base
+18453,VERIFIABLE,SUPPORTS,Leslie Howard was a producer.,True. Leslie Howard was a producer.,declare-lab/flan-alpaca-base
+132701,VERIFIABLE,SUPPORTS,New York City features Columbia University.,"False. Columbia University is located in New York City, and it is a public university located in the heart of the city.",declare-lab/flan-alpaca-base
+6763,VERIFIABLE,SUPPORTS,John Wayne Gacy Jr. was a serial killer.,"True. John Wayne Gacy Jr. was a serial killer. He was convicted of murder and sentenced to life in prison. He was also convicted of a variety of other crimes, including murder, rape, and murder.",declare-lab/flan-alpaca-base
+104785,VERIFIABLE,REFUTES,It was announced that Black Panther would be developed by Marvel Studios in 1928.,False. Black Panther was developed by Marvel Studios in 1928.,declare-lab/flan-alpaca-base
+83556,VERIFIABLE,SUPPORTS,Joseph Stalin's birth took place before 1917.,True. Joseph Stalin's birth took place before 1917.,declare-lab/flan-alpaca-base
+98301,VERIFIABLE,SUPPORTS,Heather Watson's competitor for the WTA singles title was Chang Kai-Chen.,True.,declare-lab/flan-alpaca-base
+209730,VERIFIABLE,SUPPORTS,Friends with Benefits features actors.,True. Friends with Benefits features actors.,declare-lab/flan-alpaca-base
+28225,VERIFIABLE,REFUTES,The Sopranos had seven seasons.,True. The Sopranos had seven seasons.,declare-lab/flan-alpaca-base
+26237,VERIFIABLE,SUPPORTS,England became the first industrialized nation.,False. England was the first industrialized nation.,declare-lab/flan-alpaca-base
+175063,VERIFIABLE,REFUTES,Anna Paquin was unable to perform the role of Flora McGrath.,False. Anna Paquin was unable to perform the role of Flora McGrath.,declare-lab/flan-alpaca-base
+170920,VERIFIABLE,REFUTES,The Matrix Revolutions was directed by Steven Spielberg.,True. The Matrix Revolutions was directed by Steven Spielberg.,declare-lab/flan-alpaca-base
+77343,VERIFIABLE,SUPPORTS,Bob Kane and Jerry Robinson claim responsibility for the Joker's design.,True. Bob Kane and Jerry Robinson are both responsible for the Joker's design.,declare-lab/flan-alpaca-base
+116589,VERIFIABLE,REFUTES,Robert Wagner wrote his autobiography by himself.,True. Robert Wagner wrote his autobiography by himself.,declare-lab/flan-alpaca-base
+64342,VERIFIABLE,SUPPORTS,Angelina Jolie was in Salt.,True. Angelina Jolie was in Salt.,declare-lab/flan-alpaca-base
+166193,VERIFIABLE,REFUTES,Dangerous Liaisons is exclusively a drama film.,True. Dangerous Liaisons is a drama film that follows the story of a young woman who is stranded in a small town. It follows the story of a young woman who is stranded in a small town and is forced to confront her family and friends.,declare-lab/flan-alpaca-base
+128217,VERIFIABLE,SUPPORTS,Michael Jackson was acquitted of allegations.,True. Michael Jackson was acquitted of allegations.,declare-lab/flan-alpaca-base
+192352,VERIFIABLE,REFUTES,Courtney Love refused to appear in Man on the Moon (1999).,True. Courtney Love refused to appear in Man on the Moon (1999).,declare-lab/flan-alpaca-base
+67461,VERIFIABLE,REFUTES,Taiwan did not change from a one-party military dictatorship to a multi-party democracy in the 1980s and early 1990s.,True. Taiwan has changed from a one-party military dictatorship to a multi-party democracy in the 1980s and early 1990s.,declare-lab/flan-alpaca-base
+224094,VERIFIABLE,SUPPORTS,Battle Studies World Tour was a tour by a singer from the United States.,False,declare-lab/flan-alpaca-base
+138297,VERIFIABLE,SUPPORTS,There is a film called The Breakfast Club.,True,declare-lab/flan-alpaca-base
+198480,VERIFIABLE,REFUTES,Stephen Rider turned down the opportunity to work in the series Lucky 7.,True. Stephen Rider refused to work in the Lucky 7 series because he was not satisfied with the series's storyline.,declare-lab/flan-alpaca-base
+44509,VERIFIABLE,SUPPORTS,Sade is a female artist famous for her music and acting.,True. Sade is a female artist known for her music and acting.,declare-lab/flan-alpaca-base
+204479,VERIFIABLE,SUPPORTS,Dangerous Beauty was directed by someone.,"True. The movie ""Dangerous Beauty"" was directed by someone.",declare-lab/flan-alpaca-base
+79097,VERIFIABLE,SUPPORTS,October was the month in which Edgar Allan Poe died.,True. Edgar Allan Poe died in October.,declare-lab/flan-alpaca-base
+74594,VERIFIABLE,SUPPORTS,Roger Penrose was a co-recipient of the 1988 Wolf Prize for physics along with Stephen Hawking.,True. Roger Penrose was a co-recipient of the 1988 Wolf Prize for Physics along with Stephen Hawking.,declare-lab/flan-alpaca-base
+81438,VERIFIABLE,REFUTES,Muhammad did not migrate from Mecca to Medina.,False. Muslims migrate from Mecca to Medina.,declare-lab/flan-alpaca-base
+464,VERIFIABLE,SUPPORTS,Anne Hathaway had a role.,True. Anne Hathaway had a role in the film industry.,declare-lab/flan-alpaca-base
+111681,VERIFIABLE,SUPPORTS,Margot Kidder appeared on the children's television series R.L. Stine's The Haunting Hour.,True. Margot Kidder appeared on the children's television series R.L. Stine's The Haunting Hour.,declare-lab/flan-alpaca-base
+30979,VERIFIABLE,SUPPORTS,Elephants have been featured in places.,"True. Elephants have been featured in places, such as museums, galleries, and parks.",declare-lab/flan-alpaca-base
+164598,VERIFIABLE,REFUTES,Three Men and a Baby is a baby food store.,True. Three Men and a Baby is a baby food store.,declare-lab/flan-alpaca-base
+89292,VERIFIABLE,SUPPORTS,Tyra Banks was the first African American woman in the centerfold of GQ.,True.,declare-lab/flan-alpaca-base
+113021,VERIFIABLE,SUPPORTS,Lydia Hearst is a lifestyle blogger and model.,True. Lydia Hearst is a lifestyle blogger and model. She is a successful businesswoman and has a successful career in the fashion industry. She has a strong commitment to her community and is passionate about her work.,declare-lab/flan-alpaca-base
+116074,VERIFIABLE,SUPPORTS,KJ Apa was cast as a character in Riverdale in 2016.,True. KJ Apa was cast as a character in Riverdale in 2016.,declare-lab/flan-alpaca-base
+127513,VERIFIABLE,REFUTES,Canada is an island.,"False. Canada is an island, but it is not an island.",declare-lab/flan-alpaca-base
+80656,VERIFIABLE,SUPPORTS,Napoleon's campaigns are studied at schools.,True. Napoleon's campaigns are studied at schools.,declare-lab/flan-alpaca-base
+211906,VERIFIABLE,REFUTES,A loss of supply only has nothing to do with prime ministers.,False. A loss of supply has nothing to do with prime ministers.,declare-lab/flan-alpaca-base
+117579,VERIFIABLE,REFUTES,Ringo Starr has been featured in textbooks.,True. Ringo Starr has been featured in textbooks.,declare-lab/flan-alpaca-base
+9700,VERIFIABLE,SUPPORTS,Ivan Lendl has finished four years ranked as the world's top tennis player.,True. Ivan Lendl has finished four years ranked as the world's top tennis player.,declare-lab/flan-alpaca-base
+5226,VERIFIABLE,SUPPORTS,Indonesia's wilderness supports a variety of life.,True. Indonesia's wilderness is a great place to explore and explore. It is a place where people can explore and explore the world around them. It is a place where people can find a variety of activities and experiences. It is a place where people can find a variety of activities and,declare-lab/flan-alpaca-base
+54132,VERIFIABLE,SUPPORTS,Joan Collins was in Sunburn.,True,declare-lab/flan-alpaca-base
+7920,VERIFIABLE,SUPPORTS,The Belko Experiment is an American horror film.,True. The Belko Experiment is an American horror film. It is a horror movie that follows a group of people who are stranded in a remote location in the Midwest. The film follows the story of a group of people who are stranded in a remote,declare-lab/flan-alpaca-base
+225509,VERIFIABLE,SUPPORTS,The 84th Academy Awards' winners included Beginners.,False. The 84th Academy Awards' winners included Beginners.,declare-lab/flan-alpaca-base
+126642,VERIFIABLE,SUPPORTS,Michael Keaton was nominated for an Academy Award for Best Actor.,True. Michael Keaton was nominated for an Academy Award for Best Actor.,declare-lab/flan-alpaca-base
+117550,VERIFIABLE,SUPPORTS,Newcastle United F.C. is well-known around the world.,False. Newcastle United F.C. is well-known around the world.,declare-lab/flan-alpaca-base
+65365,VERIFIABLE,REFUTES,Randy Orton has been unable to move his entire life.,True. Randy Orton has been unable to move his entire life.,declare-lab/flan-alpaca-base
+85720,VERIFIABLE,SUPPORTS,Adderall contains a levoamphetamine component along with a dextroamphetamine component.,True,declare-lab/flan-alpaca-base
+1318,VERIFIABLE,SUPPORTS,Novak Djokovic was born in 1987.,True.,declare-lab/flan-alpaca-base
+218857,VERIFIABLE,SUPPORTS,The life of the writer of Thirteen is the basis for the story.,True. The life of the writer of Thirteen is the basis for the story.,declare-lab/flan-alpaca-base
+204213,VERIFIABLE,SUPPORTS,Gwen Stefani's band released an album in 1995.,False. Gwen Stefani's band released an album in 1995.,declare-lab/flan-alpaca-base
+27424,VERIFIABLE,SUPPORTS,Spain is in Europe.,True. Spain is in Europe.,declare-lab/flan-alpaca-base
+162085,VERIFIABLE,SUPPORTS,War of the Worlds is a film that is categorized as science fiction.,False. War of the Worlds is a science fiction film that is categorized as a horror film.,declare-lab/flan-alpaca-base
+138175,VERIFIABLE,SUPPORTS,Mark Hamill is an American writer.,True. Mark Hamill is an American writer.,declare-lab/flan-alpaca-base
+32278,VERIFIABLE,REFUTES,Thor: The Dark World was released in October 2013 in the United States.,False. Thor: The Dark World was released in October 2013 in the United States.,declare-lab/flan-alpaca-base
+177289,VERIFIABLE,SUPPORTS,Felicity Jones was in a work directed by James Marsh.,False. Felicity Jones was in a work directed by James Marsh.,declare-lab/flan-alpaca-base
+41919,VERIFIABLE,REFUTES,O. J. Simpson died before football was invented.,False. O. J. Simpson died before football was invented.,declare-lab/flan-alpaca-base
+217865,VERIFIABLE,SUPPORTS,Ryan Phillippe and Reese Witherspoon married each other.,True.,declare-lab/flan-alpaca-base
+184651,VERIFIABLE,SUPPORTS,Augusto Pinochet died in 2006.,False. Augusto Pinochet died in 2006.,declare-lab/flan-alpaca-base
+10936,VERIFIABLE,REFUTES,My Sweet Lord is by The Temptations.,False. My Sweet Lord is by The Temptations.,declare-lab/flan-alpaca-base
+155549,VERIFIABLE,SUPPORTS,Michael Keaton will play the role of a supervillain.,False. Michael Keaton will play the role of a villain.,declare-lab/flan-alpaca-base
+57108,VERIFIABLE,SUPPORTS,Moana is a work in the medium of animation.,True.,declare-lab/flan-alpaca-base
+39734,VERIFIABLE,SUPPORTS,Salman Khan had a role in an action drama.,False. Salman Khan was a leading actor in an action drama.,declare-lab/flan-alpaca-base
+158852,VERIFIABLE,SUPPORTS,Mel Gibson took a hiatus from directing.,False. Mel Gibson has been directing since the mid-1980s.,declare-lab/flan-alpaca-base
+200498,VERIFIABLE,SUPPORTS,"The Twilight series's is a young adult vampire romance series, the first book of which is called Twilight.",True,declare-lab/flan-alpaca-base
+59018,VERIFIABLE,SUPPORTS,Larry Junstrom is a bassist in a rock band.,True. Larry Junstrom is a bassist in a rock band.,declare-lab/flan-alpaca-base
+6545,VERIFIABLE,SUPPORTS,Emily Blunt starred in The Huntsman: Winter's War.,True. Emily Blunt starred in The Huntsman: Winter's War.,declare-lab/flan-alpaca-base
+23935,VERIFIABLE,SUPPORTS,The Ten Commandments is an epic movie.,"True. The Ten Commandments is an epic movie that follows the story of Jesus Christ and his followers. It is a classic story of faith, courage, and perseverance. It is a classic story of faith and courage, and is a classic of the Christian faith.",declare-lab/flan-alpaca-base
+139413,VERIFIABLE,SUPPORTS,Demi Lovato is an LGBT community advocate.,True. Demi Lovato is an LGBT community advocate. She is a renowned advocate for LGBTQ rights and has been a leader in advocating for LGBTQ rights for many years. She has also been a leader in advocating for LGBTQ rights and advocating for LGBTQ rights for LGBTQ+ people.,declare-lab/flan-alpaca-base
+206854,VERIFIABLE,SUPPORTS,Ayutthaya was friendly towards foreigners.,True. Ayutthaya was friendly towards foreigners.,declare-lab/flan-alpaca-base
+34712,VERIFIABLE,SUPPORTS,O. J. Simpson was an actor.,True. O. J. Simpson was an actor.,declare-lab/flan-alpaca-base
+105782,VERIFIABLE,SUPPORTS,March was the month Jennifer Grey was born on.,True. Jennifer Grey was born on March.,declare-lab/flan-alpaca-base
+185636,VERIFIABLE,SUPPORTS,Ben Whishaw was in Perfume: The Store of a Murderer.,False. Ben Whishaw was in Perfume: The Store of a Murderer.,declare-lab/flan-alpaca-base
+56737,VERIFIABLE,REFUTES,Arrow is available on DVD only in region 3.,True. Arow is available on DVD only in region 3 and only in the United States.,declare-lab/flan-alpaca-base
+221865,VERIFIABLE,SUPPORTS,The Narrows is a film from America.,True. The Narrows is a movie from the United States.,declare-lab/flan-alpaca-base
+84138,VERIFIABLE,SUPPORTS,The Academy Honorary Award was put in place in 1948.,False. The Academy Honorary Award was put in place in 1948.,declare-lab/flan-alpaca-base
+125495,VERIFIABLE,SUPPORTS,Caitlyn Jenner changed her gender from male to female.,False. Caitlyn Jenner changed her gender from male to female.,declare-lab/flan-alpaca-base
+55235,VERIFIABLE,SUPPORTS,Travis Barker collaborated with others.,True.,declare-lab/flan-alpaca-base
+172575,VERIFIABLE,SUPPORTS,Judith Quiney was the daughter of a man.,False. Judith Quiney was the daughter of a man.,declare-lab/flan-alpaca-base
+115514,VERIFIABLE,REFUTES,Sam Worthington was born in 1876.,False. Sam Worthington was born in 1876.,declare-lab/flan-alpaca-base
+116674,VERIFIABLE,SUPPORTS,Ron Perlman was born in 1950 as Ronald N. Perlman.,True. Ronald Perlman was born in 1950.,declare-lab/flan-alpaca-base
+156426,VERIFIABLE,SUPPORTS,The United States used nuclear weapons in warfare.,False. The United States used nuclear weapons in warfare.,declare-lab/flan-alpaca-base
+29929,VERIFIABLE,SUPPORTS,Henry V is a 2012 British film.,False. Henry V is a 2012 British film.,declare-lab/flan-alpaca-base
+229277,VERIFIABLE,SUPPORTS,Joseph is the middle name of Neal Schon.,True. Neal Schon is the middle name of Joseph.,declare-lab/flan-alpaca-base
+56562,VERIFIABLE,SUPPORTS,Chris Evans (actor) worked on Before We Go.,True. Chris Evans was the actor who worked on Before We Go.,declare-lab/flan-alpaca-base

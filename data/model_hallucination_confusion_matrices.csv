@@ -1,0 +1,5 @@
+model,true_not_hallucinated_pred_not_hallucinated,true_not_hallucinated_pred_hallucinated,true_hallucinated_pred_not_hallucinated,true_hallucinated_pred_hallucinated
+Rule-based,293,35,161,98
+Logistic Regression,251,77,46,213
+Random Forest,267,61,60,199
+Gradient Boosting,269,59,66,193
